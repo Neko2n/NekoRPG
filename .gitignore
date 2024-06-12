@@ -1,6 +1,5 @@
 .minecraft/*
 instance.cfg*
-!.minecraft/mod_data
 !.minecraft/options.txt
 !.minecraft/shaderpacks
 !.minecraft/resourcepacks
