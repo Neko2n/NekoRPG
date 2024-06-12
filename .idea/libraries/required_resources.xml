@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="required_resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Create Guns 1.2.0 - 1.19.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Fire_Rekindled_v0.16.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/end-remastered.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/legacies-music-1.20.5-v1.3.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Os' Variated Glow Lichen.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Nekos Enhanced Tools and Armour Plus.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/cataclysm-improved-english.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Better_Enderdragon.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/[1.3] Enhanced Boss Bars.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Rain Revamp [1.20.4].zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/archers-paradox-resources.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/guiretextures-1.9.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/spears-resources.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Simply Allays 1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/falling-sakura-1-1-1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/waystones_1.20.4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Eyeless Fresh Moves v3.0.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/scalinghealth-resources.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.minecraft/global_packs/required_resources/Rekindled_CTM-0.1.2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

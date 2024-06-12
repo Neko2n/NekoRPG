@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Essential (forge_1.19.2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.minecraft/essential/Essential (forge_1.19.2).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
