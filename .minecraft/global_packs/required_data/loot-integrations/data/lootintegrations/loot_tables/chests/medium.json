@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 14,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/simple_dungeon",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/stronghold_library",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/stronghold_crossing",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/stronghold_corridor",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

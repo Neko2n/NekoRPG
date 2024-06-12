@@ -1,0 +1,6 @@
+{
+  "loot_table": "lootintegrations:endrem/old_eye_low",
+  "integrated_loot_tables": {
+    "minecraft:archaeology/desert_pyramid": 1
+  }
+}

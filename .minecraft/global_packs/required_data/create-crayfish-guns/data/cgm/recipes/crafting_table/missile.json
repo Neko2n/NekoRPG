@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SP"
+  ],
+  "key": {
+    "S": {
+      "item": "create:andesite_alloy_block"
+    },
+    "P": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "cgm:missile"
+  }
+}

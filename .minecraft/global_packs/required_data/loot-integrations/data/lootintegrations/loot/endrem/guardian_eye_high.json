@@ -1,0 +1,6 @@
+{
+  "loot_table": "lootintegrations:endrem/guardian_eye_high",
+  "integrated_loot_tables": {
+    "minecraft:entities/elder_guardian": 1
+  }
+}

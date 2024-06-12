@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "true"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"powered": "true",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"powered": "false",
+			"lit": "true",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"powered": "true",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"powered": "false",
+			"lit": "false",
+			"bottom": "false"
+		},
+		"Name": "environmental:dwarf_spruce_plant_redstone_torch"
+	}
+]

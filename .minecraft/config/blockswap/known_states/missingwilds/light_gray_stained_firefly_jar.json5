@@ -1,0 +1,246 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "2",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "3",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "4",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "5",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "6",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "7",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "8",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "9",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "10",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "11",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "12",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "13",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "14",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "15",
+			"covered": "true"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "1",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "2",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "3",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "4",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "5",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "6",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "7",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "8",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "9",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "10",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "11",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "12",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "13",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "14",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light_level": "15",
+			"covered": "false"
+		},
+		"Name": "missingwilds:light_gray_stained_firefly_jar"
+	}
+]

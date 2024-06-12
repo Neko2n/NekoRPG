@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone",
+    "minecraft:redstone_block",
+    "#alexsmobs:insect_items",
+    "#minecraft:fishes",
+    "alexsmobs:lobster_tail",
+    "alexsmobs:cooked_lobster_tail"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:is_spooky",
+  "spawners": {
+    "type": "enemyexpansion:direwolf",
+    "weight": 80,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

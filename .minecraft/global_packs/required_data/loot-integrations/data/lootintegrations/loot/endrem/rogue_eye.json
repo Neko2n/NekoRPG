@@ -1,0 +1,6 @@
+{
+  "loot_table": "lootintegrations:endrem/rogue_eye",
+  "integrated_loot_tables": {
+    "minecraft:chests/jungle_temple": 1
+  }
+}

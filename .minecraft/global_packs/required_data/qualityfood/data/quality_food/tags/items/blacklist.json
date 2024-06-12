@@ -1,0 +1,19 @@
+{
+  "values": [
+    "#minecraft:flowers",
+    "#minecraft:saplings",
+    "minecraft:grass",
+    "minecraft:tall_grass",
+    "minecraft:dead_bush",
+    "minecraft:nether_wart",
+    "minecraft:rotten_flesh",
+    {
+      "id": "supplementaries:flax",
+      "required": false
+    },
+    {
+      "id": "supplementaries:flax_seeds",
+      "required": false
+    }
+  ]
+}

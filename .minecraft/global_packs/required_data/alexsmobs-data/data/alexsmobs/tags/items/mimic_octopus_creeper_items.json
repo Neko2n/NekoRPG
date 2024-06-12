@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gunpowder",
+    "savage_and_ravage:creeper_spores",
+    "minecraft:creeper_head"
+  ]
+}

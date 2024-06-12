@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "S": {
+      "item": "create:sturdy_sheet"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    },
+    "T": {
+      "item": "create:electron_tube"
+    },
+    "U": {
+      "item": "alexscaves:uranium"
+    }
+  },
+  "pattern": [
+    " BSB ",
+    "BPTPB",
+    "SUEUS",
+    "BPTPB",
+    " BSB "
+  ],
+  "result": {
+    "item": "endrem:magical_eye"
+  }
+}

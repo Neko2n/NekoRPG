@@ -1,0 +1,4804 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "blue"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "purple"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "pink"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "blue",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "purple",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "pink",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "none",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "blue",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "purple",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "pink",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "0",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "1",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "2",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "3",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "4",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"quality_food": "5",
+			"flower_3": "white",
+			"flower_2": "white",
+			"flower_1": "white"
+		},
+		"Name": "missingwilds:forget_me_not"
+	}
+]

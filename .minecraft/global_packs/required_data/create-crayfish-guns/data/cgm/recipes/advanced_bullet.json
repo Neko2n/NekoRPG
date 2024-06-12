@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "cgm:basic_bullet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "count": 2,
+      "item": "cgm:advanced_bullet"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "cgm:basic_bullet"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        },
+        [
+          {
+            "item": "create:brass_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        },
+        [
+          {
+            "item": "minecraft:gunpowder"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        },
+        [
+          {
+            "tag": "forge:nuggets/zinc"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "create:brass_nugget"
+  }
+}

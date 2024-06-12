@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CSC",
+        "#V#",
+        "CSC"
+    ],
+    "key": {
+        "#": {
+            "item": "irons_spellbooks:dragonskin"
+        },
+        "S": {
+            "item": "minecraft:shulker_shell"
+        },
+        "V": {
+            "item": "minecraft:ender_eye"
+        },
+        "C": {
+            "item": "phantasm:void_crystal_shard"
+        }
+    },
+    "result": {
+        "item": "cataclysm:void_eye",
+        "count": 1
+    }
+}

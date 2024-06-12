@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Fixes cataclysm's structure spawning",
+    "pack_format": 10
+  }
+}

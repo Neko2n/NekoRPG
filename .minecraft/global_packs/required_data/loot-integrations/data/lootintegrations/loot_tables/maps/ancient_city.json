@@ -1,0 +1,32 @@
+{
+    "pools": [{
+        "rolls": 1,
+        "entries": [
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:exploration_map",
+                        "destination": "lootintegrations:ancient_city",
+                        "zoom": 2,
+                        "decoration": "target_x",
+                        "skip_existing_chunks": true
+                    },
+                    { 
+                        "function": "minecraft:set_name", 
+                        "name": {
+                            "translate": "Ancient Map", 
+                            "underlined": true 
+                        } 
+                    } 
+                ],
+                "name": "minecraft:map",
+                "weight": 1
+            },
+            {
+                "type": "empty",
+                "weight": 10
+            }
+        ]
+    }]
+  }

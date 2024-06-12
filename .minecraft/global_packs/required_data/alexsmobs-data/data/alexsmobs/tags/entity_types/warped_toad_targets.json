@@ -1,0 +1,26 @@
+{
+  "__comment": "all non-player targets of the warped toad mob.",
+  "replace": false,
+  "values": [
+    "minecraft:silverfish",
+    "minecraft:spider",
+    "minecraft:cave_spider",
+    "alexsmobs:crimson_mosquito",
+    "alexsmobs:fly",
+    "alexsmobs:cockroach",
+    "alexsmobs:warped_mosco",
+    "alexsmobs:leafcutter_ant",
+    "alexsmobs:tarantula_hawk",
+    "dawnera:worm",
+    "born_in_chaos_v1:bloody_gadfly",
+    "born_in_chaos_v1:maggot",
+    "born_in_chaos_v1:botfly",
+    "born_in_chaos_v1:corpse_fly",
+    "born_in_chaos_v1:firelight",
+    "born_in_chaos_v1:firelight_not_despawn",
+    "enemyexpansion:ladybug",
+    "enemyexpansion:scorpion",
+    "enemyexpansion:tarantula",
+    "enemyexpansion:flutterfly"
+  ]
+}

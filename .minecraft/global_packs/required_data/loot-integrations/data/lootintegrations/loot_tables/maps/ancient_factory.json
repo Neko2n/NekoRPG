@@ -1,0 +1,33 @@
+{
+    "pools": [{
+        "name": "map_pool",
+        "rolls": 1,
+        "entries": [
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:exploration_map",
+                        "destination": "lootintegrations:ancient_factory",
+                        "zoom": 2,
+                        "decoration": "target_x",
+                        "skip_existing_chunks": false
+                    },
+                    { 
+                        "function": "minecraft:set_name", 
+                        "name": {
+                            "translate": "Withered Map", 
+                            "underlined": true 
+                        } 
+                    } 
+                ],
+                "name": "minecraft:map",
+                "weight": 4
+            },
+            {
+                "type": "empty",
+                "weight": 96
+            }
+        ]
+    }]
+}

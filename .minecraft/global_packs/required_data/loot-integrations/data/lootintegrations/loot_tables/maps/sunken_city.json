@@ -1,0 +1,33 @@
+{
+  "pools": [{
+      "name": "map_pool",
+      "rolls": 1,
+      "entries": [
+          {
+              "type": "minecraft:item",
+              "functions": [
+                  {
+                      "function": "minecraft:exploration_map",
+                      "destination": "lootintegrations:sunken_city",
+                      "zoom": 2,
+                      "decoration": "target_x",
+                      "skip_existing_chunks": false
+                  },
+                  { 
+                      "function": "minecraft:set_name", 
+                      "name": {
+                          "translate": "Sunken Map", 
+                          "underlined": true 
+                      } 
+                  } 
+              ],
+              "name": "minecraft:map",
+              "weight": 5
+          },
+          {
+              "type": "empty",
+              "weight": 95
+          }
+      ]
+  }]
+}

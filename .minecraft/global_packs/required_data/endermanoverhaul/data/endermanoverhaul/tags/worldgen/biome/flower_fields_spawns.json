@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:sunflower_plains",
+    "minecraft:meadow",
+    "minecraft:cherry_grove",
+    "minecraft:flower_forest",
+    "biomesoplenty:tropics",
+    "regions_unexplored:flower_fields",
+    "regions_unexplored:tropics",
+    {
+      "id": "#c:floral",
+      "required": false
+    }
+  ]
+}

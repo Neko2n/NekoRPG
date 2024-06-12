@@ -1,0 +1,6 @@
+{
+  "loot_table": "lootintegrations:endrem/rogue_eye_high",
+  "integrated_loot_tables": {
+    "bosses_of_mass_destruction:entities/void_blossom": 1
+  }
+}

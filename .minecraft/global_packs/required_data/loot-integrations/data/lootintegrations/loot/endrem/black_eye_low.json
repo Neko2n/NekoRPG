@@ -1,0 +1,8 @@
+{
+  "loot_table": "lootintegrations:endrem/black_eye_low",
+  "integrated_loot_tables": {
+    "minecraft:archaeology/ocean_ruin_warm": 1,
+    "minecraft:archaeology/ocean_ruin_cold": 1,
+    "minecraft:gameplay/fishing/treasure": 1
+  }
+}

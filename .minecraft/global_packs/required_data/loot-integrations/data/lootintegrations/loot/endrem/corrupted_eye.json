@@ -1,0 +1,9 @@
+{
+  "loot_table": "lootintegrations:endrem/corrupted_eye",
+  "integrated_loot_tables": {
+    "minecraft:entities/evoker": 1,
+    "irons_spellbooks:entities/archevoker": 1,
+    "minecraft:chests/pillager_outpost": 1,
+    "minecraft:chests/woodland_mansion": 1
+  }
+}

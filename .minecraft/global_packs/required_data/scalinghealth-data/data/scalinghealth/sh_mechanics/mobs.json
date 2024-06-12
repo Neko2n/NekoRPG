@@ -1,0 +1,194 @@
+{
+  "healthMode" : {
+    "operation" : "MULTIPLY_BASE",
+    "scaling_reduction" : 0.5
+  },
+  "general" : {
+    "passiveMultiplier" : 0.0,
+    "hostileMultiplier" : 0.375,
+    "hostilePotionChance" : 0.06,
+    "peacefulPotionChance" : 0.0,
+    "damageBoostScale" : 0.0,
+    "maxDamageBoost" : 1,
+    "spawnerModifier" : 0.5,
+    "xpBoost" : 0.05
+  },
+  "effects" :
+  [
+    {
+      "effect" : "minecraft:health_boost",
+      "level" : 1,
+      "minDifficulty" : 0,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:health_boost",
+      "level" : 2,
+      "minDifficulty" : 0,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:health_boost",
+      "level" : 3,
+      "minDifficulty" : 20,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:health_boost",
+      "level" : 4,
+      "minDifficulty" : 40,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:health_boost",
+      "level" : 5,
+      "minDifficulty" : 60,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:health_boost",
+      "level" : 6,
+      "minDifficulty" : 80,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:health_boost",
+      "level" : 7,
+      "minDifficulty" : 100,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:speed",
+      "level" : 1,
+      "minDifficulty" : 50,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:strength",
+      "level" : 1,
+      "minDifficulty" : 0,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:strength",
+      "level" : 2,
+      "minDifficulty" : 20,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:strength",
+      "level" : 3,
+      "minDifficulty" : 50,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "born_in_chaos_v1:lifesteal",
+      "level" : 1,
+      "minDifficulty" : 20,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "born_in_chaos_v1:lifesteal",
+      "level" : 2,
+      "minDifficulty" : 50,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "irons_spellbooks:evasion",
+      "level" : 1,
+      "minDifficulty" : 20,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "irons_spellbooks:evasion",
+      "level" : 2,
+      "minDifficulty" : 50,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:regeneration",
+      "level" : 1,
+      "minDifficulty" : 50,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "alexsmobs:knockback_resistance",
+      "level" : 1,
+      "minDifficulty" : 20,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "alexsmobs:knockback_resistance",
+      "level" : 2,
+      "minDifficulty" : 50,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:resistance",
+      "level" : 1,
+      "minDifficulty" : 10,
+      "durationInMinutes" : 999999.0
+    },
+    {
+      "effect" : "minecraft:resistance",
+      "level" : 2,
+      "minDifficulty" : 50,
+      "durationInMinutes" : 999999.0
+    }
+  ],
+  "blights" : {
+    "blightChance" : 0.03,
+    "blightXpBoost" : 2,
+    "notifyBlightDeath" : false,
+    "blightDifficultyModifier" : 1.7,
+    "effects" :
+    [
+      {
+        "effect" : "sizeshiftingpotions:growing",
+        "level" : 1,
+        "minDifficulty" : 0,
+        "durationInMinutes" : 999999.0
+      },
+      {
+        "effect" : "minecraft:strength",
+        "level" : 1,
+        "minDifficulty" : 0,
+        "durationInMinutes" : 999999.0
+      },
+      {
+        "effect" : "minecraft:resistance",
+        "level" : 1,
+        "minDifficulty" : 0,
+        "durationInMinutes" : 999999.0
+      },
+      {
+        "effect" : "minecraft:fire_resistance",
+        "level" : 1,
+        "minDifficulty" : 0,
+        "durationInMinutes" : 999999.0
+      },
+      {
+        "effect" : "alexsmobs:poison_resistance",
+        "level" : 1,
+        "minDifficulty" : 0,
+        "durationInMinutes" : 999999.0
+      },
+      {
+        "effect" : "minecraft:water_breathing",
+        "level" : 1,
+        "minDifficulty" : 0,
+        "durationInMinutes" : 999999.0
+      },
+      {
+        "effect" : "alexsmobs:knockback_resistance",
+        "level" : 1,
+        "minDifficulty" : 0,
+        "durationInMinutes" : 999999.0
+      }
+    ]
+  },
+  "pets" : {
+    "petsRegenDelay" : 60,
+    "petsHealthCrystalGain" : 2
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "dungeons_arise:haunted/infested_temple/infested_temple_start",
+  "size": 7,
+  "biomes": "#dungeons_arise:has_structure/infested_temple_biomes",
+  "adapt_noise": false,
+  "spawn_overrides": {
+    "monster": {
+      "bounding_box": "full",
+      "spawns": [
+        {
+          "type": "born_in_chaos_v1:skeleton_thrasher",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "type": "born_in_chaos_v1:decaying_zombie",
+          "weight": 3,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "type": "born_in_chaos_v1:zombie_lumberjack",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "type": "born_in_chaos_v1:barrel_zombie",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "type": "born_in_chaos_v1:zombie_bruiser",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "type": "born_in_chaos_v1:skeleton_demoman",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "type": "born_in_chaos_v1:decrepit_skeleton",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "type": "born_in_chaos_v1:restless_spirit",
+          "weight": 2,
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "type": "alexsmobs:murmur",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    }
+  },
+  "max_distance_from_center": 104,
+  "step": "surface_structures",
+  "start_height": {
+    "absolute": 54
+  },
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "use_expansion_hack": false
+}

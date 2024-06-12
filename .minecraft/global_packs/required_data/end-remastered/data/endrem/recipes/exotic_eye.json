@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "alexscaves:gazing_pearl"
+        },
+        {
+            "item": "alexscaves:sea_glass_shards"
+        },
+        {
+            "item": "minecraft:glow_ink_sac"
+        },
+        {
+            "tag": "minecraft:corals"
+        }
+    ],
+    "result": {
+      "item": "endrem:exotic_eye",
+      "count": 1
+    }
+  }

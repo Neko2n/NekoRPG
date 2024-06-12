@@ -1,0 +1,76 @@
+#Luck will affect how often each quality will be tried for (10 luck * 0.25 multiplier -> 2.5 rolls, meaning 2 rolls and 50% chance for another)
+#Range: 0.0 ~ 10.0
+luck_multiplier = 0.25
+#The chance of quality crops dropping its own quality (also affects other qualities) - It affects a multiplier which is calculated as: <crop_target_chance> / <quality.chance>
+#Range: 0.0 ~ 1.0
+crop_target_chance = 0.6
+#Multiplier on top of the crop target chance
+#Range: 0.0 ~ 100.0
+seed_chance_multiplier = 0.25
+
+[IRON]
+	#The chance for a quality to occur (with no luck or other bonus)
+	#Range: 0.0 ~ 1.0
+	chance = 0.10000000149011612
+	#By how much the duration of the effect will get multiplied (beneficial) or divided (harmful) for
+	#Range: 1.0 ~ 100.0
+	duration_multiplier = 1.5
+	#The addition (beneficial) or subtraction (harmful) for the probability (chance for the effect to apply)
+	#Range: 0.0 ~ 1.0
+	probability_addition = 0.10000000149011612
+	#The addition (beneficial) or subtraction (harmful) for the amplifier (level of the effect)
+	#Range: 0 ~ 255
+	amplifier_addition = 1
+	#By how much the nutrition will get multiplied for
+	#Range: 1.0 ~ 100.0
+	nutrition_multiplier = 1.2
+	#By how much the saturation will get multiplied for
+	#Range: 1.0 ~ 100.0
+	saturation_multiplier = 1.2
+	#List of effects this rarity can grant (<effect>;<chance>;<duration>;<amplifier>;<probability>)
+	effect_list = []
+
+[GOLD]
+	#The chance for a quality to occur (with no luck or other bonus)
+	#Range: 0.0 ~ 1.0
+	chance = 0.029999999329447746
+	#By how much the duration of the effect will get multiplied (beneficial) or divided (harmful) for
+	#Range: 1.0 ~ 100.0
+	duration_multiplier = 2.0
+	#The addition (beneficial) or subtraction (harmful) for the probability (chance for the effect to apply)
+	#Range: 0.0 ~ 1.0
+	probability_addition = 0.20000000298023224
+	#The addition (beneficial) or subtraction (harmful) for the amplifier (level of the effect)
+	#Range: 0 ~ 255
+	amplifier_addition = 2
+	#By how much the nutrition will get multiplied for
+	#Range: 1.0 ~ 100.0
+	nutrition_multiplier = 1.5
+	#By how much the saturation will get multiplied for
+	#Range: 1.0 ~ 100.0
+	saturation_multiplier = 1.5
+	#List of effects this rarity can grant (<effect>;<chance>;<duration>;<amplifier>;<probability>)
+	effect_list = []
+
+[DIAMOND]
+	#The chance for a quality to occur (with no luck or other bonus)
+	#Range: 0.0 ~ 1.0
+	chance = 0.004999999888241291
+	#By how much the duration of the effect will get multiplied (beneficial) or divided (harmful) for
+	#Range: 1.0 ~ 100.0
+	duration_multiplier = 2.5
+	#The addition (beneficial) or subtraction (harmful) for the probability (chance for the effect to apply)
+	#Range: 0.0 ~ 1.0
+	probability_addition = 0.30000001192092896
+	#The addition (beneficial) or subtraction (harmful) for the amplifier (level of the effect)
+	#Range: 0 ~ 255
+	amplifier_addition = 3
+	#By how much the nutrition will get multiplied for
+	#Range: 1.0 ~ 100.0
+	nutrition_multiplier = 1.8
+	#By how much the saturation will get multiplied for
+	#Range: 1.0 ~ 100.0
+	saturation_multiplier = 1.8
+	#List of effects this rarity can grant (<effect>;<chance>;<duration>;<amplifier>;<probability>)
+	effect_list = []
+

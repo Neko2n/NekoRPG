@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:carved_pumpkin",
+    "minecraft:jack_o_lantern",
+    "born_in_chaos_v1:evil_carved_pumpkin",
+    "born_in_chaos_v1:flaming_evil_pumpkin",
+    "born_in_chaos_v1:infernal_evil_pumpkin"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "result": {
+      "item": "waystones:waystone",
+      "count": 1
+    },
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SSS",
+      "EWE",
+      "SOS"
+    ],
+    "key": {
+      "E": {
+        "item": "irons_spellbooks:ender_rune"
+      },
+      "W": {
+        "item": "waystones:warp_stone"
+      },
+      "S": {
+        "tag": "forge:stone"
+      },
+      "O": {
+        "item": "minecraft:crying_obsidian"
+      }
+    }
+  }
+  

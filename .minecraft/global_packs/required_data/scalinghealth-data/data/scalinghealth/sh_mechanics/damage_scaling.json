@@ -1,0 +1,9 @@
+{
+  "difficultyWeight": 0.01,
+  "genericScale": 0.01,
+  "affectHostiles": true,
+  "affectPeacefuls": false,
+  "modBlacklist": [],
+  "mode": "MAX_HEALTH",
+  "damageScales": []
+}

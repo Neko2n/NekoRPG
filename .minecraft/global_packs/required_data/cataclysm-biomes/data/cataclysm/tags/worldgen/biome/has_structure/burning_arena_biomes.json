@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:nether_wastes",
+    "biomesoplenty:erupting_inferno",
+    "biomesoplenty:undergarden",
+    "regions_unexplored:infernal_holt"
+  ]
+}

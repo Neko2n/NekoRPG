@@ -1,0 +1,6 @@
+{
+  "loot_table": "lootintegrations:maps/ancient_city",
+  "integrated_loot_tables": {
+    "artifacts:chests/campsite_chest": 1
+  }
+}

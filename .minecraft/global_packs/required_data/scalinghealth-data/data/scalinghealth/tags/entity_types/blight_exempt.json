@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:warden",
+    "minecraft:villager",
+    "minecraft:wandering_trader", 
+    "minecraft:ender_dragon", 
+    "cataclysm:ender_guardian", 
+    "cataclysm:netherite_monstrosity", 
+    "cataclysm:ignis", 
+    "cataclysm:harbinger", 
+    "cataclysm:the_leviathan", 
+    "cataclysm:ancient_remnant",
+    "alexsmobs:void_worm"
+  ]
+}

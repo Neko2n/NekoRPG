@@ -1,0 +1,7 @@
+{
+  "loot_table": "lootintegrations:endrem/witch_eye_guaranteed",
+  "integrated_loot_tables": {
+    "cataclysm:entities/ignis": 1,
+    "alexscaves:entities/luxtructosaurus": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "item": "phantasm:crystal_shard"
+    }
+  ],
+  "result": {
+    "item": "phantasm:void_crystal_shard",
+    "count": 1
+  },
+  "time": 20
+}

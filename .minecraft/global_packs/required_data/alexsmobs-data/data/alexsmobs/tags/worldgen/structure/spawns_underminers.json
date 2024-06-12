@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:mineshaft",
+    "#bettermineshafts:better_mineshafts",
+    "#repurposed_structures:collections/mineshafts",
+    "dungeons_arise:mining_system",
+    "dungeons_arise:scorched_mines",
+    "dungeons_arise:mushroom_mines"
+  ]
+}

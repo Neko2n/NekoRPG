@@ -1,0 +1,8 @@
+{
+  "loot_table": "lootintegrations:endrem/old_eye",
+  "integrated_loot_tables": {
+    "minecraft:chests/desert_pyramid": 1,
+    "dungeons_plus:chests/leviathan/rare": 1,
+    "alexscaves:chests/caveman_house": 1
+  }
+}

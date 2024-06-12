@@ -1,0 +1,116 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:brass_nugget"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "count": 6,
+      "item": "cgm:shell"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        },
+        [
+          {
+            "item": "minecraft:dried_kelp"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        },
+        [
+          {
+            "tag": "forge:dusts/redstone"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        },
+        [
+          {
+            "item": "minecraft:gunpowder"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        },
+        [
+          {
+            "item": "create:iron_sheet"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "create:brass_nugget"
+  }
+}

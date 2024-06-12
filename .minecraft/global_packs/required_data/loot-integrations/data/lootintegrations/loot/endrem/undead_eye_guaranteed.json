@@ -1,0 +1,7 @@
+{
+  "loot_table": "lootintegrations:endrem/undead_eye_guaranteed",
+  "integrated_loot_tables": {
+    "irons_spellbooks/entities/dead_king": 1,
+    "bosses_of_mass_destruction:entities/lich": 1
+  }
+}

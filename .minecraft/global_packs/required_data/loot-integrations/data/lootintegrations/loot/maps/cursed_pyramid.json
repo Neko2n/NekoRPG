@@ -1,0 +1,7 @@
+{
+  "loot_table": "lootintegrations:maps/cursed_pyramid",
+  "integrated_loot_tables": {
+    "minecraft:chests/desert_pyramid": 1,
+    "dungeons_plus:chests/leviathan/rare": 1
+  }
+}

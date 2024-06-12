@@ -1,0 +1,348 @@
+mod_id,mod_name,mod_version,mod_file,mod_url,display_url,issue_tracker_url
+betterdungeons,YUNG's Better Dungeons,1.20-Forge-4.0.4,YungsBetterDungeons-1.20-Forge-4.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons,https://github.com/yungnickyoung/YUNGs-Better-Dungeons/issues
+habitat,Habitat,1.3.1,habitat-1.3.1.jar,,https://www.curseforge.com/minecraft/mc-mods/habitat,https://github.com/SnappyDragon18/Habitat/issues
+bop_create_mod_rose_quartz,BOP Create Mod Rose Quartz,1.0.0,bop_create_mod_rose_quartz-1.0.0.jar,,https://mcreator.net,
+createdeco,Create Deco,2.0.2-1.20.1-forge,createdeco-2.0.2-1.20.1-forge.jar,,,
+underground_villages,Underground Villages Mod,2.1.0,UndergroundVillages-forge-1.20.1-2.1.0.jar,,https://www.curseforge.com/minecraft/mc-mods/underground-villages,https://github.com/Mrbysco/UndergroundVillages/issues
+playeranimator,Player Animator,1.0.2-rc1+1.20,player-animation-lib-forge-1.0.2-rc1+1.20.jar,,,
+connectorextras_kubejs_bridge,Connector Extras KubeJS Bridge,1.10.1+1.20.1,kubejs-bridge-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+fabric_rendering_fluids_v1,Fabric Rendering Fluids (v1),3.0.28+4ac5e37a77,fabric-rendering-fluids-v1-3.0.28+4ac5e37a77.jar,,,
+fabric_models_v0,Fabric Models (v0),0.4.2+7c3892a477,fabric-models-v0-0.4.2+7c3892a477.jar,,,
+nerb,Not Enough Recipe Book,0.3,nerb-1.20.1-0.3-FORGE.jar,,,
+torohealth,ToroHealth,1.20.1-forge-1,torohealth-1.20.1-forge-1.jar,,https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators,https://github.com/ToroCraft/ToroHealth/issues
+stonycliffs,Stony Cliffs Are Cool,1.1.0,StonyCliffsLithostitched-v1.1.0.jar,,,
+mr_dungeons_andtavernsancientcityoverhaul,Dungeons and Taverns Ancient City Overhaul,1,dungeons-and-taverns-ancient-city-overhaul-1 [Forge].jar,,https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul,
+fabric_convention_tags_v1,Fabric Convention Tags,1.5.5+fa3d1c0177,fabric-convention-tags-v1-1.5.5+fa3d1c0177.jar,,,
+betterendcities,Better End Cities Vanilla,1.0.0-1.20.1,betterendcities-1.0.0-1.20.1.jar,,,
+modernfix,ModernFix,5.17.0+mc1.20.1,modernfix-forge-5.17.0+mc1.20.1.jar,,https://modrinth.com/mod/modernfix,https://github.com/embeddedt/ModernFix/issues
+fabric_command_api_v1,Fabric Command API (v1),1.2.34+f71b366f77,fabric-command-api-v1-1.2.34+f71b366f77.jar,,,
+fabric_block_view_api_v2,Fabric BlockView API (v2),1.0.1+0767707077,fabric-block-view-api-v2-1.0.1+0767707077.jar,,,
+fabric_command_api_v2,Fabric Command API (v2),2.2.13+561530ec77,fabric-command-api-v2-2.2.13+561530ec77.jar,,,
+yungsapi,YUNG's API,1.20-Forge-4.0.5,YungsApi-1.20-Forge-4.0.5.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-api,https://github.com/yungnickyoung/YUNGs-Api/issues
+maxhealthfix,MaxHealthFix,12.0.2,MaxHealthFix-Forge-1.20.1-12.0.2.jar,,https://www.curseforge.com/minecraft/mc-mods/max-health-fix,https://github.com/Darkhax-Minecraft/Max-Health-Fix/issues
+connectorextras_rei_bridge,Connector Extras REI Bridge,1.10.1+1.20.1,rei-bridge-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+lootbeams,LootBeams,1.20.1,lootbeams-1.20.1-1.2.5.jar,,https://www.curseforge.com/minecraft/mc-mods/loot-beams,
+medievalend,Medieval Buildings [The End Edition],1.0.1,forge-medievalend-1.0.1.jar,,,
+impactfulweather,Biome Particle Weather,4.1.0,BiomeParticleWeather-v4.1.0-1.20.1-Forge.jar,,https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather,https://github.com/shadowmaster435/Impactful_Weather/issues
+pickupnotifier,Pick Up Notifier,8.0.0,PickUpNotifier-v8.0.0-1.20.1-Forge.jar,,https://github.com/Fuzss/pickupnotifier,https://github.com/Fuzss/pickupnotifier/issues
+balm,Balm,7.2.2,balm-forge-1.20.1-7.2.2.jar,,https://mods.twelveiterations.com/,https://github.com/TwelveIterationMods/Balm/issues
+fabric_screen_api_v1,Fabric Screen API (v1),2.0.8+45a670a577,fabric-screen-api-v1-2.0.8+45a670a577.jar,,,
+chat_heads,Chat Heads,0.12.2,chat_heads-0.12.2-forge-1.20.jar,,,https://github.com/dzwdz/chat_heads/issues
+betterfortresses,YUNG's Better Nether Fortresses,1.20-Forge-2.0.6,YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses,https://github.com/yungnickyoung/YUNGs-Better-Fortresses/issues
+cloth_config,Cloth Config v10 API,11.1.118,cloth-config-11.1.118-forge.jar,,,https://github.com/architectury/ClothConfig/issues/
+sound_physics_remastered,Sound Physics Remastered,1.20.1-1.4.2,sound-physics-remastered-forge-1.20.1-1.4.2.jar,,https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered,https://github.com/henkelmax/sound-physics-remastered/issues
+ctov,ChoiceTheorem's Overhauled Village,3.4.3,ctov-forge-3.4.3.jar,,https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village,https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village/issues
+qualitycrops,Quality Crops,1.20.1-1.3.3,QualityCrops-1.20.1-1.3.3.jar,,,
+iter_rpg,Iter RPG,0.6.0,iter_rpg-0.6.0-forge-1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/iter-rpg,
+embeddium,Embeddium,0.3.19+mc1.20.1,embeddium-0.3.19+mc1.20.1-all.jar,,,
+rubidium,Rubidium (Embeddium),0.7.1,embeddium-0.3.19+mc1.20.1-all.jar,,,
+connectorextras_terrablender_bridge,Connector Extras Terrablender Bridge,1.10.1+1.20.1,terrablender-bridge-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+geophilic_reforged,Geophilic Reforged,1.2.0,GeophilicReforged-v1.2.0.jar,,https://modrinth.com/mod/geophilic-reforged,
+structure_gel,Structure Gel API,2.16.2,structure_gel-1.20.1-2.16.2.jar,,https://moddinglegacy.com/,https://gitlab.com/modding-legacy/structure-gel-api/-/issues
+repurposed_structures,Repurposed Structures,7.1.15+1.20.1-forge,repurposed_structures-7.1.15+1.20.1-forge.jar,,https://www.curseforge.com/minecraft/mc-mods/repurposed-structures,https://github.com/TelepathicGrunt/RepurposedStructures/issues
+fabric_game_rule_api_v1,Fabric Game Rule API (v1),1.0.40+683d4da877,fabric-game-rule-api-v1-1.0.40+683d4da877.jar,,,
+goodending,GoodEnding,1.20.1-1.0.1,GoodEnding-1.20.1-1.0.1-Forge.jar,,,
+explorify,Explorify,1.4.0,explorify-v1.4.0.jar,,https://modrinth.com/datapack/explorify,
+blur,Blur (Forge),3.1.1,blur-forge-3.1.1.jar,,https://curseforge.com/minecraft/mc-mods/blur-forge,https://github.com/dima-dencep/blur-forge/issues
+w2pets,Waystones Teleport Pets,1.0,WaystonesTeleportPets-1.20-1.20.1--1.2.jar,,,
+dungeons_plus,Dungeons Plus,1.5.0,dungeons_plus-1.20.1-1.5.0.jar,,https://moddinglegacy.com/,https://gitlab.com/groups/modding-legacy/-/issues
+amplified_nether,Amplified Nether,1.2.5,Amplified_Nether_1.20.x_v1.2.5.jar,,https://www.stardustlabs.net/,https://github.com/Stardust-Labs-MC/Amplified-Nether/issues
+volcanic_caverns,Volcanic Caverns,1.2.5,volcanic_caverns-1.2.5.jar,,,
+resourcefulconfig,Resourcefulconfig,2.1.2,resourcefulconfig-forge-1.20.1-2.1.2.jar,,,https://github.com/Team-Resourceful/Resouceful-Config/issues
+bendylib,Bendy lib,4.0.0,bendy-lib-forge-4.0.0.jar,,,
+highlighter,Highlighter,1.1.9,Highlighter-1.20.1-forge-1.1.9.jar,,https://anthonyhilyard.com/,
+spark,spark,1.10.53,spark-1.10.53-forge.jar,,,
+create_sabers,Create Sabers,1.3.0,create_sabers-1.20.1-1.3.0.jar,,https://www.curseforge.com/minecraft/mc-mods/create-sabers,
+curios,Curios API,5.9.1+1.20.1,curios-forge-5.9.1+1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/curios,https://github.com/TheIllusiveC4/Curios/issues
+oculus,Oculus,1.7.0,oculus-mc1.20.1-1.7.0.jar,,https://curseforge.com/minecraft/mc-mods/oculus,https://github.com/Asek3/Oculus/issues
+mynethersdelight,My Nether's Delight,1.20.1-1.1,MyNethersDelight-1.20.1-0.1.1.jar,,,
+searchables,Searchables,1.0.3,Searchables-forge-1.20.1-1.0.3.jar,,https://minecraft.curseforge.com/projects/searchables,https://github.com/jaredlll08/searchables/issues
+backported_wolves,Backported Wolves,1.0.3-1.20.1,backported_wolves-1.0.3-1.20.1.jar,,,
+eldritch_end,Eldritch End,0.2.31,Eldritch_End-FORGE-MC1.20.1-0.2.31_mapped_srg_1.20.1.jar,https://curseforge.com/members/elocindev/projects,https://curseforge.com/members/elocindev/projects,
+yungsextras,YUNG's Extras,1.20-Forge-4.0.3,YungsExtras-1.20-Forge-4.0.3.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-extras,https://github.com/yungnickyoung/YUNGs-Extras/issues
+mr_dungeons_andtaverns,Dungeons and Taverns,3.0.3.f,dungeons-and-taverns-3.0.3.f[Forge].jar,,https://modrinth.com/datapack/dungeons-and-taverns,https://github.com/NovaWostra/Dungeons-and-Taverns/issues
+fabric_entity_events_v1,Fabric Entity Events (v1),1.6.0+6274ab9d77,fabric-entity-events-v1-1.6.0+6274ab9d77.jar,,,
+queen_bee,Queen Bee,3.1.4,QueenBee-Forge-1.20.1-3.1.4.jar,,https://www.curseforge.com/minecraft/mc-mods/queen-bee,https://github.com/CerbonXD/QueenBeeMod/issues
+chimes,Chimes,2.0.1,Chimes-v2.0.1-1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/chimes,
+betterendisland,YUNG's Better End Island,1.20-Forge-2.0.6,YungsBetterEndIsland-1.20-Forge-2.0.6.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island,https://github.com/yungnickyoung/YUNGs-Better-End-Island/issues
+fabric_rendering_data_attachment_v1,Fabric Rendering Data Attachment (v1),0.3.37+a6081afc77,fabric-rendering-data-attachment-v1-0.3.37+a6081afc77.jar,,,
+sizeshiftingpotions,Size Shifting Potions,1.7.1,sizeshiftingpotions-1.7.1-forge.jar,,,https://github.com/UltrusBot/SizeShiftingPotions/issues
+caveoverhaul,WF's Cave Overhaul,1.2.2,caveoverhaul-forge-1.20.1-1.2.2-fixed.jar,,,
+scalinghealth,Scaling Health,8.0.2+9,ScalingHealth-1.20.1-8.0.2+9.jar,,,https://github.com/SilentChaos512/ScalingHealth
+bettermineshafts,YUNG's Better Mineshafts,1.20-Forge-4.0.4,YungsBetterMineshafts-1.20-Forge-4.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge,https://github.com/yungnickyoung/YUNGs-Better-Mineshafts/issues
+prettybeaches,Pretty Beaches,11.0.1,prettybeaches-forge-1.20-11.0.1.jar,,https://mods.twelveiterations.com/mc/prettybeaches,https://github.com/TwelveIterationMods/PrettyBeaches/issues
+sliceanddice,Create Slice & Dice,3.2.0,sliceanddice-forge-3.2.0.jar,,,https://github.com/pssbletrngle/sliceanddice/issues
+nebs,Neko's Enchanted Books,1.8.0,NekosEnchantedBooks-1.20.1-1.8.0.jar,,,
+betterjungletemples,YUNG's Better Jungle Temples,1.20-Forge-2.0.5,YungsBetterJungleTemples-1.20-Forge-2.0.5.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples,https://github.com/yungnickyoung/YUNGs-Better-Jungle-Temples/issues
+fabric_client_tags_api_v1,Fabric Client Tags,1.1.2+5d6761b877,fabric-client-tags-api-v1-1.1.2+5d6761b877.jar,,,
+fabric_dimensions_v1,Fabric Dimensions API (v1),2.1.54+8005d10d77,fabric-dimensions-v1-2.1.54+8005d10d77.jar,,,
+elytraslot,Elytra Slot,6.3.0+1.20.1,elytraslot-forge-6.3.0+1.20.1.jar,,,https://github.com/illusivesoulworks/elytraslot/issues
+mr_subsurface,Subsurface,1.0,subsurface-1.0.jar,,https://modrinth.com/datapack/subsurface,https://www.planetminecraft.com/data-pack/subsurface/
+quarkoddities,Quark Oddities,1.20.1,QuarkOddities-1.20.1.jar,,,https://github.com/Vazkii/Quark
+kiwi,Kiwi Library,11.8.8+forge,Kiwi-1.20.1-Forge-11.8.8.jar,,https://www.curseforge.com/minecraft/mc-mods/kiwi,
+bellsandwhistles,Create: Bells & Whistles,0.4.3-1.20.x,bellsandwhistles-0.4.3-1.20.x.jar,,,
+mr_ctov_farmersdelightcompat,CTOV - Farmer Delight Compat,2.1,ctov-farmers-delight-compat-2.1.jar,,https://modrinth.com/datapack/ctov-farmers-delight-compat,https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village/issues
+mr_ctov_createstructures,CTOV - Create: Structures,1.0,ctov-create-structures-1.0.jar,,https://modrinth.com/mod/ctov-create-structures,
+createbigcannons,Create Big Cannons,0.5.4-nightly-8b9cea6,createbigcannons-forge-1.20.1-0.5.4.jar,,,https://github.com/Cannoneers-of-Create/CreateBigCannons/issues
+fastload,Fastload-Reforged,3.4.0,Fastload-Reforged-mc1.20.1-3.4.0.jar,,https://www.curseforge.com/minecraft/mc-mods/fastload,https://github.com/BumbleSoftware/Fastload/issues
+endertrigon,Ender Trigon,1.0,endertrigon-1.20.1-1.0.jar,,,
+hitmarker,HitMarker,0,HitMarker-forge-1.20.1-0.jar,,,
+fabric_model_loading_api_v1,Fabric Model Loading API (v1),1.0.3+6274ab9d77,fabric-model-loading-api-v1-1.0.3+6274ab9d77.jar,,,
+jei,Just Enough Items,15.3.0.4,jei-1.20.1-forge-15.3.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/jei,https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue
+cgm,MrCrayfish's Gun Mod,1.4.17,CGM-Unofficial-1.4.17+Forge+1.20.1.jar,,https://mrcrayfish.com/,
+lithostitched,Lithostitched,1.1.5,lithostitched-forge-1.20.1-1.1.5.jar,,,https://github.com/Apollounknowndev/lithostitched/issues
+pehkui,Pehkui,3.8.0+1.20.1-forge,Pehkui-3.8.0+1.20.1-forge.jar,,https://www.curseforge.com/minecraft/mc-mods/pehkui/,https://github.com/Virtuoel/Pehkui/issues
+fabric_screen_handler_api_v1,Fabric Screen Handler API (v1),1.3.30+561530ec77,fabric-screen-handler-api-v1-1.3.30+561530ec77.jar,,,
+libraryferret,Library ferret,4.0.0,libraryferret-forge-1.20.1-4.0.0.jar,,https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge,
+caelus,Caelus API,3.2.0+1.20.1,caelus-forge-3.2.0+1.20.1.jar,,https://github.com/TheIllusiveC4/Caelus,https://github.com/TheIllusiveC4/Caelus/issues
+immersive_weathering,Immersive Weathering,1.20.1-2.0.2,immersive_weathering-1.20.1-2.0.2-forge.jar,,,
+fabric_rendering_v1,Fabric Rendering (v1),3.0.8+66e9a48f77,fabric-rendering-v1-3.0.8+66e9a48f77.jar,,,
+passablefoliage,Passable Foliage,8.2.1,PassableFoliage-1.20.1-forge-8.2.1.jar,,https://minecraft.curseforge.com/projects/passable-foliage,
+fabric_renderer_indigo,Fabric Renderer - Indigo,1.5.1+67f9824077,fabric-renderer-indigo-1.5.1+67f9824077.jar,,,
+fallingleaves,Falling Leaves,2.1.0,Fallingleaves-1.20.1-2.1.0.jar,,,https://github.com/Cheaterpaul/fallingleaves/issues
+integrated_api,Integrated API,1.5.1+1.20.1-forge,integrated_api-1.5.1+1.20.1-forge.jar,,https://www.curseforge.com/minecraft/mc-mods/integrated_api,
+mr_ctov_domesticatedinnovationcompat,CTOV - Domesticated Innovation Compat,2.0,ctov-domesticated-innovation-compat-2.0.jar,,https://modrinth.com/datapack/ctov-domesticated-innovation-compat,
+create_wizardry,Create: Wizardry,1.20.10.2.0,create_wizardry-1.20.1-0.2.0.jar,,https://mcreator.net,
+connectorextras_geckolib_fabric_compat,Connector Extras Geckolib-Fabric Compat,1.10.1+1.20.1,geckolib-fabric-compat-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+snowundertrees,Snow Under Trees,1.4.4,snowundertrees-1.20.1-1.4.4.jar,,https://www.curseforge.com/minecraft/mc-mods/snow-under-trees,
+midnightlib,MidnightLib,1.4.2,midnightlib-forge-1.4.2.jar,,,
+starlight,Starlight,1.1.2+forge.1cda73c,starlight-1.1.2+forge.1cda73c.jar,,https://www.curseforge.com/minecraft/mc-mods/starlight-forge,
+creature_compendium,Creature Compendium,1.2.1,creature_compendium-1.2.1.jar,,,
+mythicmobs,Mythic Mobs,1.20.1-connector-1.4.5,mythicmobs-1.20.1-connector-1.4.5_mapped_srg_1.20.1.jar,https://pixeldreamstudios.net,https://pixeldreamstudios.net,
+memoryleakfix,Memory Leak Fix,1.1.5,memoryleakfix-forge-1.17+-1.1.5.jar,,,https://github.com/fxmorin/memoryleakfix/issues
+fabric_particles_v1,Fabric Particles (v1),1.1.2+78e1ecb877,fabric-particles-v1-1.1.2+78e1ecb877.jar,,,
+puzzlesaccessapi,Puzzles Access Api,8.0.7,puzzlesaccessapi-forge-8.0.7.jar,,https://github.com/Fuzss/puzzlesaccessapi,https://github.com/Fuzss/puzzlesaccessapi/issues
+missingwilds,Missing Wilds,1.2.1+1.20.1,MissingWilds-forge-1.2.1+1.20.1.jar,,,https://github.com/UltrusBot/missing-wilds/issues
+forge,Forge,47.2.32,forge-1.20.1-47.2.32-universal.jar,,https://minecraftforge.net/,https://minecraftforge.net/
+idas,Integrated Dungeons and Structures,1.9.3+1.20.1,idas_forge-1.9.3+1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/idas,
+bestylewither,BE Style Wither,1.6.1,bestylewither-forge-mc1.20-1.6.1.jar,,https://www.curseforge.com/minecraft/mc-mods/be-style-wither,https://github.com/MORIMORI0317/BEStyleWither/issues
+tectonic,Tectonic,2.3.4,tectonic-forge-1.19.3-2.3.4.jar,,,
+minecraft,Minecraft,1.20.1,client-1.20.1-20230612.114412-srg.jar,,,
+smoothchunk,Smoothchunk mod,1.20.1-3.6,smoothchunk-1.20.1-3.6.jar,,,
+logprot,Logprot,1.4,logprot-1.20.1-3.4.jar,,https://github.com/ldtteam/Logprot/,https://github.com/ldtteam/Performant/issues
+terrablender,TerraBlender,3.0.1.6,TerraBlender-forge-1.20.1-3.0.1.6.jar,,,https://github.com/Glitchfiend/TerraBlender/issues
+biomesoplenty,Biomes O' Plenty,18.0.0.598,BiomesOPlenty-1.20.1-18.0.0.598.jar,,,https://github.com/Glitchfiend/BiomesOPlenty/issues
+fabric_api_base,Fabric API Base,0.4.31+ef105b4977,fabric-api-base-0.4.31+ef105b4977.jar,,,
+mousetweaks,Mouse Tweaks,2.25.1,MouseTweaks-forge-mc1.20.1-2.25.1.jar,,https://minecraft.curseforge.com/projects/mouse-tweaks,https://github.com/YaLTeR/MouseTweaks/issues
+bettercombat,Better Combat,1.8.5+1.20.1,bettercombat-forge-1.8.5+1.20.1.jar,,,
+combatroll,Combat Roll,1.3.2+1.20.1,combatroll-forge-1.3.2+1.20.1.jar,,,https://github.com/ZsoltMolnarrr/CombatRoll/issues
+necronomicon,Necronomicon,1.4.2,Necronomicon-Forge-1.4.2.jar,,,
+awesomedungeonnether,Awesome dungeon nether,3.1.1,awesomedungeonnether-forge-1.20.1-3.1.1.jar,,https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-forge,
+herdmentality,HerdMentality,12.0.3,HerdMentality-Forge-1.20.1-12.0.3.jar,,https://www.curseforge.com/minecraft/mc-mods/herd-mentality,https://github.com/Darkhax-Minecraft/herd-mentality/issues
+spectrelib,SpectreLib,0.13.15+1.20.1,spectrelib-forge-0.13.15+1.20.1.jar,,https://github.com/illusivesoulworks/spectrelib,https://github.com/illusivesoulworks/spectrelib/issues
+fabric_block_api_v1,Fabric Block API (v1),1.0.11+0e6cb7f777,fabric-block-api-v1-1.0.11+0e6cb7f777.jar,,,
+connectorextras_jei_bridge,Connector Extras JEI Bridge,1.10.1+1.20.1,jei-bridge-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+fabric_resource_conditions_api_v1,Fabric Resource Conditions API (v1),2.3.8+9ad825cd77,fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar,,,
+forgeconfigapiport,Forge Config API Port (ConnectorExtras),8.0.0,forgeconfigapiport-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+kotlinforforge,Kotlin For Forge,4.10.0,kffmod-4.10.0.jar,,,
+notenoughanimations,NotEnoughAnimations,1.7.3,notenoughanimations-forge-1.7.3-mc1.20.1.jar,,https://modrinth.com/mod/not-enough-animations,https://github.com/tr7zw/NotEnoughAnimations/issues
+flywheel,Flywheel,0.6.10-7,flywheel-forge-1.20.1-0.6.10-7.jar,,https://www.curseforge.com/minecraft/mc-mods/flywheel,https://github.com/Jozufozu/Flywheel/issues
+ecologics,Ecologics,2.2.0,ecologics-forge-1.20.1-2.2.0.jar,,https://www.curseforge.com/minecraft/mc-mods/ecologics,https://github.com/samedifferent/Ecologics/issues
+integrated_stronghold,Integrated Stronghold,1.1.1+1.20.1-forge,integrated_stronghold-1.1.1+1.20.1-forge.jar,,https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold,
+fabric_item_group_api_v1,Fabric Item Group API (v1),4.0.12+c9161c2d77,fabric-item-group-api-v1-4.0.12+c9161c2d77.jar,,,
+polymorph,Polymorph,0.49.5+1.20.1,polymorph-forge-0.49.5+1.20.1.jar,,,https://github.com/illusivesoulworks/polymorph/issues
+zeta,Zeta,1.0-16,Zeta-1.0-16.jar,,,https://github.com/VazkiiMods/Zeta
+entityculling,EntityCulling,1.6.5,entityculling-forge-1.6.5-mc1.20.1.jar,,https://modrinth.com/mod/entityculling,https://github.com/tr7zw/EntityCulling/issues
+canary,Canary,0.3.3,canary-mc1.20.1-0.3.3.jar,,https://www.curseforge.com/minecraft/mc-mods/canary,https://github.com/AbdElAziz333/Canary/issues
+ambientenvironment,Ambient Environment,11.0.0.1,AmbientEnvironment-forge-1.20.1-11.0.0.1.jar,,https://www.curseforge.com/minecraft/mc-mods/ambient-environment,https://github.com/jaredlll08/Ambient-Environment/issues
+fabric_registry_sync_v0,Fabric Registry Sync (v0),2.3.3+1c0ea72177,fabric-registry-sync-v0-2.3.3+1c0ea72177.jar,,,
+immediatelyfast,ImmediatelyFast,1.2.15+1.20.4,ImmediatelyFast-Forge-1.2.15+1.20.4.jar,,,https://github.com/RaphiMC/ImmediatelyFast/issues
+blue_endless_jankson,jankson,1.2.2,wakes-0.2.4+1.20.1$jankson-1.2.2_mapped_srg_1.20.1.jar,,,
+appleskin,AppleSkin,2.5.1+mc1.20.1,appleskin-forge-mc1.20.1-2.5.1.jar,,https://github.com/squeek502/AppleSkin,https://github.com/squeek502/AppleSkin
+fabric_recipe_api_v1,Fabric Recipe API (v1),1.0.21+514a076577,fabric-recipe-api-v1-1.0.21+514a076577.jar,,,
+fabric_object_builder_api_v1,Fabric Object Builder API (v1),11.1.3+2174fc8477,fabric-object-builder-api-v1-11.1.3+2174fc8477.jar,,,
+visuality,Visuality: Reforged,2.0.2,visuality-forge-2.0.2.jar,,https://www.curseforge.com/minecraft/mc-mods/visuality-forge,https://github.com/ChannelingMC/visuality-forge/issues/
+biomemusic,biomemusic mod,1.20.1-2.3,biomemusic-1.20.1-2.3.jar,,,
+puzzleslib,Puzzles Lib,8.1.20,PuzzlesLib-v8.1.20-1.20.1-Forge.jar,,https://github.com/Fuzss/puzzleslib,https://github.com/Fuzss/puzzleslib/issues
+smoothswapping,Smooth Swapping,0.9.2,smoothswapping-0.9.2-1.20.1-forge.jar,,,https://github.com/Schauweg/Smooth-Swapping/issues
+mns,Moog's Nether Structures,1.0.1-1.20-forge,mns-1.0.1-1.20-forge.jar,,,
+fabric_sound_api_v1,Fabric Sound API (v1),1.0.13+4f23bd8477,fabric-sound-api-v1-1.0.13+4f23bd8477.jar,,,
+dawnera,TheDawnEra,0.58.94,thedawnera-1.20.1-0.58.94.jar,,,
+immersive_melodies,Immersive Melodies,0.1.2+1.20.1,immersive_melodies-0.1.2+1.20.1-forge.jar,,https://www.curseforge.com/minecraft/mc-mods/ImmersiveMelodies,https://github.com/Luke100000/ImmersiveMelodies/issues
+fabric_message_api_v1,Fabric Message API (v1),5.1.9+52cc178c77,fabric-message-api-v1-5.1.9+52cc178c77.jar,,,
+create_oppenheimered,Create: Oppenheimered,1.0.2,create_oppenheimered-1.20.1-1.0.2.jar,,,
+phantasm,End's Phantasm,0.2,phantasm-forge-0.2.jar,,,
+responsiveshields,Responsive Shields,2.3,responsiveshields-2.3-mc1.18-19-20.x.jar,,,https://github.com/Revvilo/Responsive-Shields/issues
+weaponmaster_ydm,YDM's Weapon Master,4.2.3,weaponmaster_ydm-forge-1.20.1-4.2.3.jar,,https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master,
+treechop,HT's TreeChop,0.18.8,TreeChop-1.20.1-forge-0.19.0.jar,,https://github.com/hammertater/treechop,https://github.com/hammertater/treechop/issues
+fabric_renderer_api_v1,Fabric Renderer API (v1),3.2.1+1d29b44577,fabric-renderer-api-v1-3.2.1+1d29b44577.jar,,,
+embeddiumplus,Embeddium++,1.2.12,embeddiumplus-1.20.1-v1.2.12.jar,,https://www.curseforge.com/minecraft/mc-mods/embeddiumplus,https://github.com/SrRapero720/EmbeddiumPlus/issues
+betterwitchhuts,YUNG's Better Witch Huts,1.20-Forge-3.0.3,YungsBetterWitchHuts-1.20-Forge-3.0.3.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts,https://github.com/yungnickyoung/YUNGs-Better-Witch-Huts/issues
+netherportalfix,NetherPortalFix,13.0.1,netherportalfix-forge-1.20-13.0.1.jar,,https://mods.twelveiterations.com/mc/netherportalfix,https://github.com/TwelveIterationMods/NetherPortalFix/issues
+glowroot,Glowroot,1.0.5,glowroot1.0.5.jar,,https://modrinth.com/mod/glowroot,
+globalpacks,Global Packs,1.16.2_forge,global_packs-forge-1.19.4-1.16.2_forge.jar,,,
+satin,Satin Forge,1.20.1+1.15.0-SNAPSHOT,satin-forge-1.20.1+1.15.0-SNAPSHOT.jar,,https://github.com/dimadencep/Satin-Forge,https://github.com/dimadencep/Satin-Forge/issues
+fabric_item_api_v1,Fabric Item API (v1),2.1.28+4d0bbcfa77,fabric-item-api-v1-2.1.28+4d0bbcfa77.jar,,,
+galosphere,Galosphere,1.20.1-1.4.1,Galosphere-1.20.1-1.4.1-Forge.jar,,,
+com_github_jdiemke_delaunay_triangulator_delaunaytriangulator,DelaunayTriangulator,1.0.0,wakes-0.2.4+1.20.1$DelaunayTriangulator-1.0.0_mapped_srg_1.20.1.jar,,,
+betteroceanmonuments,YUNG's Better Ocean Monuments,1.20-Forge-3.0.4,YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments,https://github.com/yungnickyoung/YUNGs-Better-Ocean-Monuments/issues
+connectivity,Connectivity Mod,1.20.1-5.5,connectivity-1.20.1-5.5.jar,,,http://my.issue.tracker/
+immersive_aircraft,Immersive Aircraft,1.0.1+1.20.1,immersive_aircraft-1.0.1+1.20.1-forge.jar,,https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft,https://github.com/Luke100000/ImmersiveAircraft/issues
+insanelib,InsaneLib,1.13.4,InsaneLib-1.13.4-mc1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/insanelib,https://github.com/Insane96/InsaneLib/issues
+ritchiesprojectilelib,Ritchie's Projectile Library,1.0.0-369e88d+1.20.1-forge,ritchiesprojectilelib-1.0.0-369e88d+1.20.1-forge.jar,,,https://github.com/Wagers-of-Industrial-Warfare/RitchiesProjectileLib/issues
+controlling,Controlling,12.0.2,Controlling-forge-1.20.1-12.0.2.jar,,https://minecraft.curseforge.com/projects/controlling,https://github.com/jaredlll08/Controlling/issues
+prism,Prism,1.0.5,Prism-1.20.1-forge-1.0.5.jar,,https://anthonyhilyard.com/,
+placebo,Placebo,8.6.1,Placebo-1.20.1-8.6.1.jar,,,
+citadel,Citadel,2.5.4,citadel-2.5.4-1.20.1.jar,,https://github.com/Alex-the-666/Citadel,https://github.com/Alex-the-666/Citadel/issues
+alexsmobs,Alex's Mobs,1.22.8,alexsmobs-1.22.8.jar,,https://www.curseforge.com/minecraft/mc-mods/alexs-mobs,https://github.com/Alex-the-666/AlexsMobs/issues
+domesticationinnovation,Domestication Innovation,1.7.1,domesticationinnovation-1.7.1-1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/domestication-innovation,https://github.com/Alex-the-666/DomesticationInnovation/issues
+fabric_data_attachment_api_v1,Fabric Data Attachment API (v1),1.0.0+30ef839e77,fabric-data-attachment-api-v1-1.0.0+30ef839e77.jar,,,
+mixinextras,MixinExtras,0.2.0,mixinextras-forge-0.2.0.jar,,https://github.com/LlamaLad7/MixinExtras,
+cavespiderspawn,Cave Spider Spawn,1.1,cavespiderspawn-1.20.1-1.1.jar,,https://serilum.com/mod/cave-spider-spawn,https://github.com/Serilum/.issue-tracker/labels/Mod:%20Cave%20Spider%20Spawn
+bookshelf,Bookshelf,20.1.10,Bookshelf-Forge-1.20.1-20.1.10.jar,,https://www.curseforge.com/minecraft/mc-mods/bookshelf,https://github.com/Darkhax-Minecraft/Bookshelf/issues
+random_crits,Random Crits,1.3.2,Random Crits 1.3.2 - 1.20.1.jar,,https://legacy.curseforge.com/minecraft/mc-mods/random-crits,
+connectorextras_continuity_compat,Connector Extras Continuity Compat,1.10.1+1.20.1,continuity-compat-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+create_dragon_lib,Create: Dragon Lib,1.4.3,create_dragon_lib-1.20.1-1.4.3.jar,,,
+takesapillage,It Takes A Pillage,1.0.3,takesapillage-1.0.3-1.20.1.jar,,,
+additionalstructures,Additional Structures,4.2.1,Rex's-AdditionalStructures-1.20.x-(v.4.2.1).jar,,https://www.curseforge.com/minecraft/mc-mods/additional-structures,https://www.curseforge.com/minecraft/mc-mods/additional-structures/issues
+medieval_buildings,Medieval Buildings,1.0.2,medieval_buildings-forge-1.0.2(1).jar,,,
+bygonenether,Bygone Nether,1.3.2,bygonenether-1.3.2-1.20.x.jar,,,https://github.com/izofar/bygone-nether/issues
+carryon,Carry On,2.1.2.7,carryon-forge-1.20.1-2.1.2.7.jar,,https://tschipp.ch,https://github.com/Tschipp/CarryOn/issues
+melody,Melody,1.0.2,melody_forge_1.0.3_MC_1.20.1-1.20.4.jar,,,
+cameraoverhaul,Camera Overhaul,1.0.0,cameraoverhaul-1.1-1.20.4.jar,,,https://github.com/CorgiTaco/Minecraft-CameraOverhaul/issues
+spelunkers_charm,Spelunker's Charm,3.6.0,spelunkers_charm-3.6.0-1.20.1.jar,,https://mcreator.net,
+fabric_api,Forgified Fabric API,0.92.1+1.11.8+1.20.1,fabric-api-0.92.1+1.11.8+1.20.1.jar,,,
+connectorextras_modmenu_bridge,Connector Extras ModMenu Bridge,1.10.1+1.20.1,modmenu-bridge-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+modmenu,ModMenu (Connector Extras),7.2.2,modmenu-bridge-1.10.1+1.20.1.jar,,,https://github.com/Sinytra/ConnectorExtras/issues
+fabric_content_registries_v0,Fabric Content Registries (v0),4.0.11+a670df1e77,fabric-content-registries-v0-4.0.11+a670df1e77.jar,,,
+konkrete,Konkrete,1.8.0,konkrete_forge_1.8.0_MC_1.20-1.20.1.jar,,,
+enemyexpansion,Enemy Expansion,2.3.1,enemyexpansion-2.3.1-forge-1.20.1.jar,,https://infernalstudios.org/,
+astemirlib,AstemirLib,1.25,astemirlib-1.20.1-1.25.jar,,,
+farmersdelight,Farmer's Delight,1.20.1-1.2.4,FarmersDelight-1.20.1-1.2.4.jar,,https://github.com/vectorwing/FarmersDelight,https://github.com/vectorwing/FarmersDelight/issues
+entity_model_features,Entity Model Features,2.0.2,entity_model_features_forge_1.20.1-2.0.2.jar,,,https://github.com/Traben-0/Entity_Texture_Features/issues
+entity_texture_features,Entity Texture Features,6.0.1,entity_texture_features_forge_1.20.1-6.0.1.jar,,,https://github.com/Traben-0/EmissiveMod/issues
+dustrial_decor,'Dustrial Decor,1.3.2,DustrialDecor-1.3.5-1.20.jar,,,http://my.issue.tracker/
+ambientsounds,AmbientSounds,6.0.1,AmbientSounds_FORGE_v6.0.1_mc1.20.1.jar,,https://modrinth.com/mod/ambientsounds,https://github.com/CreativeMD/AmbientSounds/issues
+fabric_api_lookup_api_v1,Fabric API Lookup API (v1),1.6.36+67f9824077,fabric-api-lookup-api-v1-1.6.36+67f9824077.jar,,,
+endersdelight,Ender's Delight,1.0.3,endersdelight-1.20.1-1.0.3.jar,,,
+cataclysmiccombat,Cataclysmic Combat,1.3,cataclysmiccombat-1.3.1.jar,,,
+bfendcities,Big F&$%ing End Cities,1.0,bfendcities-1.0.jar,,,
+reach_entity_attributes,Reach Entity Attributes,2.4.0,reach-entity-attributes-2.4.0.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+born_in_chaos_v1,Born in Chaos ,1.0.0,born_in_chaos_[Forge]1.20.1_1.3.1.jar,,https://mcreator.net,
+lionfishapi,LionfishAPI,1.9,lionfishapi-1.9.jar,,,
+dungeons_enhanced,Dungeons Enhanced,5.2.2,dungeons_enhanced-1.20.1-5.2.2.jar,,https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced,https://github.com/BarionLP/DungeonsEnhanced/issues
+connectorextras_architectury_bridge,Connector Extras Architectury Bridge,1.10.1+1.20.1,architectury-bridge-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+cataclysm,Cataclysm Mod,1.99.2,L_Enders_Cataclysm-1.99.2 -1.20.1.jar,,,
+patchouli,Patchouli,1.20.1-84-FORGE,Patchouli-1.20.1-84-FORGE.jar,,,https://github.com/VazkiiMods/Patchouli
+collective,Collective,7.60,collective-1.20.1-7.60.jar,,https://serilum.com/mod/collective,https://github.com/Serilum/.issue-tracker/labels/Library:%20Collective
+mr_caves__canyons,Caves & Canyons,1.2,caves__canyons-1.2.jar,,https://modrinth.com/datapack/caves__canyons,
+cerbons_api,Cerbons API,1.1.0,CerbonsAPI-Forge-1.20.1-1.1.0.jar,,https://www.curseforge.com/minecraft/mc-mods/cerbons-api,https://github.com/CERBON-MODS/CERBONs-API/issues
+betterthirdperson,Better Third Person,1.9.0,BetterThirdPerson-Forge-1.20-1.9.0.jar,,,
+seamless_loading_screen,Seamless Loading Screen,2.0.3+1.20.1,seamless-loading-screen-2.0.3+1.20.1-forge.jar,,,
+connectormod,Connector,1.0.0-beta.43+1.20.1,Connector-1.0.0-beta.43+1.20.1-mod.jar,,https://github.com/Sinytra/Connector,https://github.com/Sinytra/Connector/issues
+resourcefullib,Resourceful Lib,2.1.25,resourcefullib-forge-1.20.1-2.1.25.jar,,,https://github.com/Team-Resourceful/ResoucefulLib/issues/new/choose
+architectury,Architectury,9.2.14,architectury-9.2.14-forge.jar,,,https://github.com/shedaniel/architectury/issues
+fabric_loot_api_v2,Fabric Loot API (v2),1.2.1+eb28f93e77,fabric-loot-api-v2-1.2.1+eb28f93e77.jar,,,
+cupboard,Cupboard utilities,1.20.1-2.6,cupboard-1.20.1-2.6.jar,,,
+connectorextras,Connector Extras,1.10.1+1.20.1,ConnectorExtras-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+mru,Mineblock's Repeated Utilities,0.4.21.20.1,mru-0.4.2+1.20.1_mapped_srg_1.20.1.jar,https://github.com/mineblock11/MRU,https://github.com/mineblock11/MRU,
+fabric_networking_api_v1,Fabric Networking API (v1),1.3.11+503a202477,fabric-networking-api-v1-1.3.11+503a202477.jar,,,
+framework,Framework,0.6.27,framework-forge-1.20.1-0.6.27.jar,,https://mrcrayfish.com/mods?id=framework,
+sullysmod,Sully's Mod,3.1.2-beta,sullysmod-3.1.2-beta.jar,,https://github.com/Uraneptus/Sullys-Mod,https://github.com/Uraneptus/Sullys-Mod/issues
+geckolib,GeckoLib 4,4.4.4,geckolib-forge-1.20.1-4.4.4.jar,,http://geckolib.com/,https://github.com/bernie-g/geckolib/issues
+crittersandcompanions,Critters and Companions,1.20.1-2.1.6,crittersandcompanions-1.20.1-2.1.6.jar,,,
+quarkdelight,Quark Delight,1.0.0,quark_delight_1.0.0_forge_1.20.1.jar,,https://curseforge.com/minecraft/mc-mods/quark-delight,
+fabric_lifecycle_events_v1,Fabric Lifecycle Events (v1),2.2.22+afab492177,fabric-lifecycle-events-v1-2.2.22+afab492177.jar,,,
+fabric_key_binding_api_v1,Fabric Key Binding API (v1),1.0.37+561530ec77,fabric-key-binding-api-v1-1.0.37+561530ec77.jar,,,
+fabric_transfer_api_v1,Fabric Transfer API (v1),3.3.5+631c9cd677,fabric-transfer-api-v1-3.3.5+631c9cd677.jar,,,
+amendments,Amendments,1.20-1.1.31,amendments-1.20-1.1.31.jar,https://www.curseforge.com/minecraft/mc-mods/amendments,,https://github.com/MehVahdJukaar/amendments/issues
+awesomedungeonend,Awesome dungeon the end,3.1.1,awesomedungeonend-forge-1.20.1-3.1.1.jar,,https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-forge,
+connectorextras_pehkui_bridge,Connector Extras Pehkui Bridge,1.10.1+1.20.1,pehkui-bridge-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+fabric_resource_loader_v0,Fabric Resource Loader (v0),0.11.10+bcd08ed377,fabric-resource-loader-v0-0.11.10+bcd08ed377.jar,,,
+map_atlases,Map Atlases,1.20-6.0.7,map_atlases-1.20-6.0.7.jar,,,
+mr_ctov_savageandravagecompat,CTOV - Savage and Ravage Compat,2.0,ctov-savage-and-ravage-compat-2.0.jar,,https://modrinth.com/mod/ctov-savage-and-ravage-compat,
+geckoanimfix,GeckoLibIrisCompat,1.0.0,GeckoLibOculusCompat-Forge-1.0.1.jar,,,
+create,Create,0.5.1.f,create-1.20.1-0.5.1.f.jar,,https://www.curseforge.com/minecraft/mc-mods/create,https://github.com/Creators-of-Create/Create/issues
+create_structures,Create: Structures,0.1.1,create-structures-0.1.1-1.20.1-FORGE.jar,,https://modrinth.com/mod/create-structures,https://github.com/FusionSwarly/Create-Structures/issues
+create_central_kitchen,Create: Central Kitchen,1.3.12,create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar,,,
+waystones,Waystones,14.1.3,waystones-forge-1.20-14.1.3.jar,,https://mods.twelveiterations.com/mc/waystones,https://github.com/TwelveIterationMods/Waystones/issues
+structory,Structory,1.3.5,Structory_1.20.x_v1.3.5.jar,,https://www.stardustlabs.net/,https://github.com/Stardust-Labs-MC/Structory/issues
+clumps,Clumps,12.0.0.4,Clumps-forge-1.20.1-12.0.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/clumps,https://github.com/jaredlll08/Clumps/issues
+fabric_mining_level_api_v1,Fabric Mining Level API (v1),2.1.50+561530ec77,fabric-mining-level-api-v1-2.1.50+561530ec77.jar,,,
+tumbleweed,Tumbleweed,0.5.5,Tumbleweed-forge-1.20.1-0.5.5.jar,,,
+artifacts,Artifacts,9.5.4,artifacts-forge-9.5.4.jar,,https://www.curseforge.com/minecraft/mc-mods/artifacts,https://github.com/ochotonida/artifacts/issues
+outer_end,The Outer End,1.0.8,TheOuterEnd-1.0.9.jar,,,
+decorative_blocks,Decorative Blocks,4.1.3,decorative_blocks-forge-1.20.1-4.1.3.jar,,,
+make_bubbles_pop,Make Bubbles Pop,0.2.0-forge,make_bubbles_pop-0.2.0-forge-mc1.19.4+.jar,,https://github.com/Tschipcraft/make_bubbles_pop,
+everycomp,Every Compat,1.20-2.6.55,everycomp-1.20-2.6.55.jar,,https://www.curseforge.com/minecraft/mc-mods/every-compat,https://github.com/MehVahdJukaar/WoodGood/issues
+betterdeserttemples,YUNG's Better Desert Temples,1.20-Forge-3.0.3,YungsBetterDesertTemples-1.20-Forge-3.0.3.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples,https://github.com/yungnickyoung/YUNGs-Better-Desert-Temples/issues
+netherdepthsupgrade,Nether Depths Upgrade,3.1.5-1.20,netherdepthsupgrade-3.1.5-1.20.jar,,,https://github.com/Scouter456/Nether_Depths_Upgrade/issues
+blockswap,Block Swap,5.0.0.0,Block Swap-forge-1.20.1-5.0.0.0.jar,,https://github.com/CorgiTaco/Block-Swap/,https://github.com/CorgiTaco/Block-Swap/issues
+qualitysdelight,Quality's Delight,1.20.1-1.5.3,QualitysDelight-1.20.1-1.5.3.jar,,,
+oceansdelight,Ocean's Delight,1.0.2-1.20,oceansdelight-1.0.2-1.20.jar,,,https://github.com/Scouter456/Oceans_Delight/issues
+bosses_of_mass_destruction,Bosses of Mass Destruction,1.1.2,BOMD-Forge-1.20.1-1.1.2.jar,,https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge,https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE/issues
+blueprint,Blueprint,7.1.0,blueprint-1.20.1-7.1.0.jar,,https://www.teamabnormals.com/mods/blueprint,https://github.com/team-abnormals/blueprint/issues
+environmental,Environmental,4.0.0,environmental-1.20.1-4.0.0.jar,,https://www.teamabnormals.com/mods/environmental,https://github.com/team-abnormals/environmental/issues
+savage_and_ravage,Savage & Ravage,6.0.0,savage_and_ravage-1.20.1-6.0.0.jar,,https://www.teamabnormals.com/mods/savage-and-ravage,https://github.com/team-abnormals/savage-and-ravage/issues
+upgrade_aquatic,Upgrade Aquatic,6.0.0,upgrade_aquatic-1.20.1-6.0.0.jar,,https://www.teamabnormals.com/mods/upgrade-aquatic,https://github.com/team-abnormals/upgrade-aquatic/issues
+endergetic,The Endergetic Expansion,5.0.0,endergetic-1.20.1-5.0.0.jar,,,https://github.com/team-abnormals/endergetic/issues
+neapolitan,Neapolitan,5.0.0,neapolitan-1.20.1-5.0.0.jar,,https://www.teamabnormals.com/mods/neapolitan,https://github.com/team-abnormals/neapolitan/issues
+personality,Personality,4.0.0,personality-1.20.1-4.0.0.jar,,https://www.teamabnormals.com/mods/personality,https://github.com/team-abnormals/personality/issues
+allurement,Allurement,4.0.0,allurement-1.20.1-4.0.0.jar,,https://www.teamabnormals.com/mods/allurement,https://github.com/team-abnormals/allurement/issues
+collectorsreap,Collector's Reap,1.3,collectorsreap-1.20.1-1.3.jar,,https://www.curseforge.com/minecraft/mc-mods/collectors-reap,https://github.com/brnbrd/CollectorsReap/issues
+buzzier_bees,Buzzier Bees,6.0.0,buzzier_bees-1.20.1-6.0.0.jar,,https://www.teamabnormals.com/mods/buzzier-bees,https://github.com/team-abnormals/buzzier-bees/issues
+berry_good,Berry Good,7.0.0,berry_good-1.20.1-7.0.0.jar,,https://www.teamabnormals.com/mods/berry-good,https://github.com/team-abnormals/berry-good/issues
+experimentalsettingsdisabler,Experimental Settings Disabler,3.0,experimentalsettingsdisabler-1.20.1-3.0.jar,,,
+azurelib,AzureLib,2.0.22,azurelib-neo-1.20.1-2.0.22.jar,,https://modrinth.com/mod/azurelib,https://github.com/AzureDoom/AzureLib/issues
+connectorextras_energy_bridge,Connector Extras Energy Bridge,1.10.1+1.20.1,energy-bridge-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+watut,What Are They Up To,1.20.1-1.1.1,watut-forge-1.20.1-1.1.1.jar,,,
+mr_ctov_ironsspellsnspellbookscompat,CTOV - Iron's Spells 'n Spellbooks compat,1.2,ctov-irons-spells-n-spellbooks-compat-1.2.jar,,https://modrinth.com/datapack/ctov-irons-spells-n-spellbooks-compat,
+seasonals,Seasonals,1.20.1-5.0.0,seasonals-1.20.1-5.0.0.jar,,,
+fabric_transitive_access_wideners_v1,Fabric Transitive Access Wideners (v1),4.3.1+1880499877,fabric-transitive-access-wideners-v1-4.3.1+1880499877.jar,,,
+alexscaves,Alex's Caves,1.1.4,alexscaves-1.1.4.jar,,,https://github.com/AlexModGuy/AlexsCavesBetaTest/issues
+enchdesc,EnchantmentDescriptions,17.0.15,EnchantmentDescriptions-Forge-1.20.1-17.0.15.jar,,https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions,https://github.com/Darkhax-Minecraft/Enchantment-Descriptions/issues
+radiantgear,Radiant Gear,2.1.5+1.20.1,radiantgear-forge-2.1.5+1.20.1.jar,,,https://github.com/illusivesoulworks/radiantgear/issues
+moonlight,Moonlight Library,1.20-2.11.31,moonlight-1.20-2.11.31-forge.jar,https://www.curseforge.com/minecraft/mc-mods/selene,,https://github.com/MehVahdJukaar/Moonlight/issues
+extragore,Extra Gore,5.2.3,extragore-1.20.1-5.2.3.jar,,,
+endermanoverhaul,Enderman Overhaul,1.0.4,endermanoverhaul-forge-1.20.1-1.0.4.jar,,https://modrinth.com/mod/enderman-overhaul,https://github.com/bonsaistudi0s/endermanoverhaul/issues
+regions_unexplored,Regions Unexplored,0.5.5,RegionsUnexploredForge-0.5.5+1.20.1.jar,,https://discord.gg/Ss8UHPqHPj,
+netherdungeons,Nether Dungeons,1.1.0-snapshot3,netherdungeons-1.1.0-snapshot3.jar,,,
+alexscaves_trimmed,Alex's Caves: Trimmed!,1.0.2,alexscavestrimmed-1.1.0.jar,,,
+taxcp,Tax' Castle Pillager,1.0.1,TaxCastlePillager+M.1.20.1+ForM.1.0.1.jar,,https://legacy.curseforge.com/minecraft/mc-mods/taxcastlepillager,
+silentlib,Silent Lib,8.0.0,silent-lib-1.20.1-8.0.0.jar,,,https://github.com/SilentChaos512/SilentLib
+fabric_blockrenderlayer_v1,Fabric BlockRenderLayer Registration (v1),1.1.41+1d0da21e77,fabric-blockrenderlayer-v1-1.1.41+1d0da21e77.jar,,,
+mixinsquared,MixinSquared,0.1.1,mixinsquared-forge-0.1.1.jar,,https://github.com/Bawnorton/MixinSquared,
+obscure_tooltips,Obscure Tooltips,2.2,Obscure-Tooltips-2.2.jar,,,
+amecsapi,Amecs API,1.5.3+mc1.20-pre1,amecsapi-1.5.3+mc1.20-pre1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+betterfarmerscombat,Better Farmer's Combat,1.1,betterfarmerscombat-1.2-1.20.1.jar,,,
+another_furniture,Another Furniture,1.20.1-3.0.1,another_furniture-forge-1.20.1-3.0.1.jar,,https://www.curseforge.com/minecraft/mc-mods/another-furniture,https://github.com/starfish-studios/AnotherFurniture/issues
+creativecore,CreativeCore,2.11.28,CreativeCore_FORGE_v2.11.28_mc1.20.1.jar,,https://modrinth.com/mod/creativecore,https://github.com/CreativeMD/CreativeCore/issues
+smoothboot,Smooth Boot (Reloaded),0.0.4,smoothboot(reloaded)-mc1.20.1-0.0.4.jar,,https://modrinth.com/mod/smooth-boot-reloaded,https://github.com/AbdElAziz333/Smooth-Boot-Reloaded/issues
+iguanatweaksreborn,Iguana Tweaks Reborn,3.10.3-mc1.20.1,IguanaTweaksReborn-3.10.3-mc1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/iguanatweaks-reborn,
+cavedust,Cave Dust,2.0.4,cavedust-2.0.4-1.20.1-forge.jar,,,
+atmospheric,Atmospheric,6.0.0,atmospheric-1.20.1-6.0.0.jar,,https://www.teamabnormals.com/mods/atmospheric,https://github.com/team-abnormals/atmospheric/issues
+sounds,Sounds,0.8.11.20.1,Sounds-0.8.1+1.20.1_mapped_srg_1.20.1.jar,https://imb11.dev/,https://imb11.dev/,
+iceberg,Iceberg,1.1.21,Iceberg-1.20.1-forge-1.1.21.jar,,https://anthonyhilyard.com/,
+citresewn,CIT Resewn,1.20.1-5,citresewn-1.20.1-5.jar,,,
+quark,Quark,4.0-443,Quark-4.0-443.jar,,,https://github.com/VazkiiMods/Quark
+supplementaries,Supplementaries,1.20-2.8.11,supplementaries-1.20-2.8.11.jar,https://www.curseforge.com/minecraft/mc-mods/supplementaries,,https://github.com/MehVahdJukaar/Supplementaries/issues
+suppsquared,Supplementaries Squared,1.20-1.1.14,suppsquared-1.20-1.1.14.jar,,,
+legendarytooltips,Legendary Tooltips,1.4.5,LegendaryTooltips-1.20.1-forge-1.4.5.jar,,https://anthonyhilyard.com/,
+galospheretrimming,Galosphere Trimming,1.0.0,galospheretrimming-1.20.1-1.0.0.jar,,https://modrinth.com/mod/galosphere-trimming,https://github.com/KreloX/GalosphereTrimming/issues
+mes,Moog's End Structures,1.3.1-1.20-forge,mes-1.3.1-1.20-forge.jar,,,
+abnormals_delight,Abnormals Delight,5.0.0,abnormals_delight-1.20.1-5.0.0.jar,,https://www.teamabnormals.com/mods/abnormals-delight,https://github.com/team-abnormals/abnormals-delight/issues
+legendary_monsters,LegendaryMonsters,1.20.1,legendarymonsters-1.0.7 MC1.20.1.jar,,,
+irons_spellbooks,Iron's Spells 'n Spellbooks,1.20.1-3.1.6,irons_spellbooks-1.20.1-3.1.6.jar,,https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks,https://github.com/iron431/Irons-Spells-n-Spellbooks/issues
+additional_attributes,Additional Attributes,1.0.2,additional_attributes-1.20.1-1.0.2-all.jar,,,
+inventoryhud,Inventory HUD+(Forge edition),3.4.18,invhud.forge.1.20.1-3.4.18.jar,,https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge,
+fabric_biome_api_v1,Fabric Biome API (v1),13.0.13+dc36698e77,fabric-biome-api-v1-13.0.13+dc36698e77.jar,,,
+fancymenu,FancyMenu,3.2.3,fancymenu_forge_3.2.3_MC_1.20.1.jar,,,
+coroutil,CoroUtil,1.20.1-1.3.7,coroutil-forge-1.20.1-1.3.7.jar,,,
+wabi_sabi_structures,Wabi-Sabi Structures,2.0.0-1.20,Wabi-Sabi-Structures-2.0.0-1.20-Forge.jar,,,
+mvs,Moog's Voyager Structures,4.1.2-1.20-forge,mvs-4.1.2-1.20-forge.jar,,,
+creeperoverhaul,Creeper Overhaul,3.0.2,creeperoverhaul-3.0.2-forge.jar,,,
+alexsdelight,Alex's Delight,1.5,alexsdelight-1.5.jar,,,
+ferritecore,Ferrite Core,6.0.1,ferritecore-6.0.1-forge.jar,,,
+yet_another_config_lib_v3,YetAnotherConfigLib,3.4.2+1.20.1-forge,YetAnotherConfigLib-3.4.2+1.20.1-forge.jar,,,
+etcetera,Etcetera,1.20.1-1.1.3,Etcetera-1.20.1-1.1.3-Forge.jar,,,
+damagevignette,DamageVignette,2.0.2,DamageVignette-2.0.2-forge+mc1.20.jar,,https://modrinth.com/mod/damagevignette,https://github.com/Octol1ttle/DamageVignette/issues
+charmofundying,Charm of Undying,6.5.0+1.20.1,charmofundying-forge-6.5.0+1.20.1.jar,,,https://github.com/illusivesoulworks/charmofundying/issues
+spawn,Spawn,1.20.1-1.0.2,spawn-1.0.2-forge.jar,,,
+wakes,Wakes,0.2.41.20.1,wakes-0.2.4+1.20.1_mapped_srg_1.20.1.jar,https://modrinth.com/mod/wakes,https://modrinth.com/mod/wakes,
+plenty_of_golems,plenty of golems,1.3.0,Plenty_of_Golems-V1.3.1-Forge_1.20.1.jar,,https://mcreator.net,
+expandability,ExpandAbility,9.0.4,expandability-forge-9.0.4.jar,,,https://github.com/florensie/expandability/issues
+connectorextras_emi_bridge,Connector Extras EMI Bridge,1.10.1+1.20.1,emi-bridge-1.10.1+1.20.1.jar,,https://github.com/Sinytra/ConnectorExtras,https://github.com/Sinytra/ConnectorExtras/issues
+overflowingbars,Overflowing Bars,8.0.0,OverflowingBars-v8.0.0-1.20.1-Forge.jar,,https://github.com/Fuzss/overflowingbars,https://github.com/Fuzss/overflowingbars/issues
+fabric_data_generation_api_v1,Fabric Data Generation API (v1),12.3.4+369cb3a477,fabric-data-generation-api-v1-12.3.4+369cb3a477.jar,,,
+fabric_events_interaction_v0,Fabric Events Interaction (v0),0.6.2+0d0bd5a777,fabric-events-interaction-v0-0.6.2+0d0bd5a777.jar,,,
+presencefootsteps,Presence Footsteps (Forge),1.20.1-1.9.1-beta.1,PresenceFootsteps-1.20.1-1.9.1-beta.1.jar,,https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge,https://github.com/PaintNinja/Presence-Footsteps-Forge
