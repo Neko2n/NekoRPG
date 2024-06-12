@@ -33,7 +33,7 @@
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "regions_unexplored:infernal_holt"
+        "value": "minecraft:nether_wastes"
       }
     ]
   ]

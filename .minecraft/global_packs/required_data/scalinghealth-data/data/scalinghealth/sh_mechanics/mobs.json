@@ -140,15 +140,9 @@
     "blightChance" : 0.03,
     "blightXpBoost" : 2,
     "notifyBlightDeath" : false,
-    "blightDifficultyModifier" : 1.7,
+    "blightDifficultyModifier" : 2,
     "effects" :
     [
-      {
-        "effect" : "sizeshiftingpotions:growing",
-        "level" : 1,
-        "minDifficulty" : 0,
-        "durationInMinutes" : 999999.0
-      },
       {
         "effect" : "minecraft:strength",
         "level" : 1,

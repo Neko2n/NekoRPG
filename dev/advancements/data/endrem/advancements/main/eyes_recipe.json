@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "eyes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:ender_eye"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "endrem:cursed_eye"
+    ]
+  },
+  "requirements": [
+    [
+      "eyes"
+    ]
+  ]
+}
