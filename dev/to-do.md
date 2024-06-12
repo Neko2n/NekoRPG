@@ -1,0 +1,15 @@
+# TO-DO
+- Find replacements or updates for all of the outdated mods
+- Clean up mods
+- Advancements
+  - End remastered ✅
+- Fix battle music ender dragon pitch shifting happening when there are still crystals
+- Pots and mimics pot loot tables 
+- Supplementaries(?) cave pot loot tables 
+- Remove born in chaos from datapacks 
+- Remake Dungeons Arise spawner changes datapack 
+- Config mutant monsters 
+  - Disable mutant creeper 
+  - Disable chemical X
+- Add less
+  - a
