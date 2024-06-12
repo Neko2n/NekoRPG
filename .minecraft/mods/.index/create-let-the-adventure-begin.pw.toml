@@ -1,0 +1,13 @@
+filename = 'create_ltab_forge-2.0.0.jar'
+name = 'Create_ltab_f'
+side = 'both'
+
+[download]
+hash = '9b96401efd439259d16fa54d06f21e0510b05606'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5410420
+project-id = 1007872

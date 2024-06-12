@@ -1,0 +1,13 @@
+filename = 'CombatNouveau-v8.0.5-1.20.1-Forge.jar'
+name = 'Combat Nouveau'
+side = 'both'
+
+[download]
+hash = '8ccd73ee2dbb65b96851b77dcfcbda484123b72b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5137621
+project-id = 969425

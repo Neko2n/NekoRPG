@@ -1,0 +1,13 @@
+filename = 'betternethermap-1.2-1.20.1.jar'
+name = 'Cave Maps (Better Nether Map Port)'
+side = 'both'
+
+[download]
+hash = 'ce2a7075b4a522d802fba224d6f3581832818492'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5280734
+project-id = 810686

@@ -1,6 +1,5 @@
 .minecraft/*
 !.minecraft/mod_data
-!.minecraft/config
 !.minecraft/options.txt
 !.minecraft/shaderpacks
 !.minecraft/resourcepacks
@@ -8,6 +7,11 @@
 !.minecraft/defaultconfigs
 !.minecraft/icon.png
 !.minecraft/modlist.txt
+!.minecraft/mods
+!.minecraft/config
+.minecraft/mods/*.jar*
+!.minecraft/mods/*.local*
+.minecraft/mods/.connector
 .minecraft/config/spark
 .minecraft/config/sounds
 .minecraft/config/sound_physics_remastered

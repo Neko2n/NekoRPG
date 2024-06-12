@@ -1,0 +1,13 @@
+filename = 'make_bubbles_pop-0.2.0-forge-mc1.19.4+.jar'
+name = 'Make Bubbles Pop'
+side = 'both'
+
+[download]
+hash = 'a6029ea4fcb9537fc034d2bfb4c2ee353639a4c8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4701524
+project-id = 605235

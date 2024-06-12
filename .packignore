@@ -16,3 +16,9 @@
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 .minecraft/whitelist.json
+.minecraft/config/spark
+.minecraft/config/sounds
+.minecraft/config/sound_physics_remastered
+.minecraft/config/fml.toml
+.minecraft/config/forge-client.toml
+.minecraft/config/blockswap/known_states

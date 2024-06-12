@@ -1,0 +1,13 @@
+filename = 'creature_compendium-1.2.1.jar'
+name = 'Creature Compendium: Beasts, Golems & Curses'
+side = 'both'
+
+[download]
+hash = '32d62cec5895898d80f045ce2a85b6bbd4de9615'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5219066
+project-id = 989333

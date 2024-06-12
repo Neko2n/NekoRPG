@@ -1,0 +1,13 @@
+filename = 'waterframes-1.20.1-2.0.9.jar'
+name = 'WATERFrAMES: Media Displays'
+side = 'both'
+
+[download]
+hash = 'b2a43c5011a36292efd3020df58a9e02ff568029'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5391750
+project-id = 834607

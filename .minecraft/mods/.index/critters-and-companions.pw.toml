@@ -1,0 +1,13 @@
+filename = 'crittersandcompanions-1.20.1-2.1.6.jar'
+name = 'Critters and Companions'
+side = 'both'
+
+[download]
+hash = '618d5ca644bf4b0f9e276661286e11552943700a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5367019
+project-id = 574913

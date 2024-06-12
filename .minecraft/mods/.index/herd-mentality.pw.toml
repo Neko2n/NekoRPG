@@ -1,0 +1,13 @@
+filename = 'HerdMentality-Forge-1.20.1-12.0.3.jar'
+name = 'HeardMentality'
+side = 'both'
+
+[download]
+hash = '212a2e7604a5c36b4d9a8411ba91a76ca21be897'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4965786
+project-id = 377572

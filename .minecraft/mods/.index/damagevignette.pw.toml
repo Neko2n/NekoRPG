@@ -1,0 +1,13 @@
+filename = 'DamageVignette-2.0.2-forge+mc1.20.jar'
+name = 'DamageVignette'
+side = 'both'
+
+[download]
+hash = '3220954153d4cac4073f69f7411218f1ea48d0f7a14f2ba12db012c6fa2bb0aac52961ea97278c3ff2a1e28130c07ded1279a8106f2ae4cd23a4c4abd3103be3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TsEhjL6r/versions/Ekre1nh1/DamageVignette-2.0.2-forge%2Bmc1.20.jar'
+
+[update.modrinth]
+mod-id = 'TsEhjL6r'
+version = 'Ekre1nh1'

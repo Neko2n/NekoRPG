@@ -1,0 +1,13 @@
+filename = 'alexscavestrimmed-1.1.0.jar'
+name = "Alex's Caves: Trimmed!"
+side = 'both'
+
+[download]
+hash = '7d5891fdd395a939baaebf9564156f27bba2051f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5359156
+project-id = 978419

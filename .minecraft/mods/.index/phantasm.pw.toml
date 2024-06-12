@@ -1,0 +1,13 @@
+filename = 'phantasm-0.3.jar'
+name = "End's Phantasm"
+side = 'both'
+
+[download]
+hash = '950982c42c2c62c60cca6eaef9f87d0ffa9615b8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5388150
+project-id = 565254

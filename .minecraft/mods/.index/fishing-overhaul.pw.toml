@@ -1,0 +1,13 @@
+filename = 'fishingoverhaul-1.20.1-1.0.0.jar'
+name = 'Fishing Overhaul'
+side = 'both'
+
+[download]
+hash = '8d9076c68e19fa93ceeaea9fbe6ddb06e261b94f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5245015
+project-id = 491332

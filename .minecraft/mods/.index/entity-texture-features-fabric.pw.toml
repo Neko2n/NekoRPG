@@ -1,0 +1,13 @@
+filename = 'entity_texture_features_forge_1.20.1-6.1.jar'
+name = 'Entity Texture Features'
+side = 'both'
+
+[download]
+hash = 'd7efcdb8d91580f3b2c4d022fdab2237798ee85e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5420336
+project-id = 568563

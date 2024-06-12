@@ -1,0 +1,13 @@
+filename = 'Kiwi-1.20.1-Forge-11.8.9.jar'
+name = 'Kiwi Library'
+side = 'both'
+
+[download]
+hash = '20f0a36d64c7cfdca930197bcc172c2dc8f1a3b1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5413410
+project-id = 303657

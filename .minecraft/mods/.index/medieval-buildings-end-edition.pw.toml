@@ -1,0 +1,13 @@
+filename = 'forge-medievalend-1.0.1.jar'
+name = 'Medieval Buildings [End Edition]'
+side = 'both'
+
+[download]
+hash = '54a775af0b3b68b2d44227cddf06b062412e5bff6622507fd8cc600a234aca27afbfd17a5e5a94dee44a380a2f518a42cf67a850a27d2c09fddee940aa1b5b5e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bq6nqeOx/versions/GtiP8x44/forge-medievalend-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'bq6nqeOx'
+version = 'GtiP8x44'

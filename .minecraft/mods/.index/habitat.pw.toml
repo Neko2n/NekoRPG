@@ -1,0 +1,13 @@
+filename = 'habitat-1.3.1.jar'
+name = 'Habitat'
+side = 'both'
+
+[download]
+hash = '690effaccfd09984dd60b1d8a7b33ffc76533ec9f14005f4ebed0690a14f64fe38e7bd14850e75f86a7b72be6c24f0b1ef1e1d5e3b654bf41f6eface04e5896b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jFW6Fg1K/versions/eIyBsZkq/habitat-1.3.1.jar'
+
+[update.modrinth]
+mod-id = 'jFW6Fg1K'
+version = 'eIyBsZkq'
