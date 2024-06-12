@@ -1,5 +1,0 @@
-#Whether the Netherite Forge Overlay should display while riding it
-overlay_forge = true
-#Whether collateral damage caused by tamed Netherite Forges damages owners
-fire_friendly = true
-
