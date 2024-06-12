@@ -10,3 +10,6 @@
 !.minecraft/modlist.txt
 .minecraft/config/spark
 .minecraft/config/sounds
+.minecraft/config/sound_physics_remastered
+.minecraft/config/fml.toml
+.minecraft/config/forge-client.toml
