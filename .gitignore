@@ -13,3 +13,4 @@
 .minecraft/config/sound_physics_remastered
 .minecraft/config/fml.toml
 .minecraft/config/forge-client.toml
+.minecraft/config/blockswap/known_states
