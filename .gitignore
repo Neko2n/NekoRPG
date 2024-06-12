@@ -17,3 +17,4 @@ instance.cfg*
 .minecraft/config/fml.toml
 .minecraft/config/forge-client.toml
 .minecraft/config/blockswap/known_states
+*.ini
