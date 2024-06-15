@@ -1,5 +1,4 @@
 .minecraft/*
-instance.cfg*
 !.minecraft/options.txt
 !.minecraft/resourcepacks
 !.minecraft/global_packs
