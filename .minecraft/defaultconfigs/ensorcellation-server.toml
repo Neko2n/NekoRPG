@@ -155,7 +155,7 @@
 
 	[Enchantments.Leech]
 		#If TRUE, the Leech Enchantment is available for various Weapons.
-		Enable = true
+		Enable = false
 		#This sets whether or not the Enchantment is considered a 'treasure' enchantment.
 		Treasure = true
 		#This option adjusts the maximum allowable level for the Enchantment.
@@ -173,9 +173,9 @@
 
 	[Enchantments.Vorpal]
 		#If TRUE, the Vorpal Enchantment is available for various Weapons.
-		Enable = true
+		Enable = false
 		#This sets whether or not the Enchantment is considered a 'treasure' enchantment.
-		Treasure = true
+		Treasure = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 3
@@ -255,7 +255,7 @@
 		#This sets whether or not the Enchantment is considered a 'treasure' enchantment.
 		Treasure = true
 		#This sets whether or not the Enchantment works on Players.
-		"Allow Player Stealing" = true
+		"Allow Player Stealing" = false
 
 	[Enchantments.Bulwark]
 		#If TRUE, the Bulwark Enchantment is available for Shields.
@@ -274,9 +274,9 @@
 
 	[Enchantments.Soulbound]
 		#If TRUE, the Soulbound Enchantment is available.
-		Enable = true
+		Enable = false
 		#This sets whether or not the Enchantment is considered a 'treasure' enchantment.
-		Treasure = false
+		Treasure = true
 		#This option adjusts the maximum allowable level for the Enchantment. If permanent, this setting is ignored.
 		#Range: 1 ~ 10
 		"Max Level" = 3
