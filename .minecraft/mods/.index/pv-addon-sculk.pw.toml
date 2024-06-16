@@ -1,6 +1,6 @@
 filename = 'pv-addon-sculk-1.0.0.jar'
 name = 'pv-addon-sculk'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '23c652153d9f0d9e45c402b7ad4cdfe10d846022c25395c5b3117f7e607e9a242ce7218473db58a36fb10ca6c500684f0dd67cb1b6ddfe385195066201f4d638'
