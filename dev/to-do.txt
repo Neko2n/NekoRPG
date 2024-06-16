@@ -4,12 +4,9 @@
 - Advancements
 	- End remastered ✅
 	- 
-- Fix battle music ender dragon pitch shifting happening when there are still crystals
 - Pots and mimics pot loot tables 
-- Supplementaries(?) cave pot loot tables 
-- Remove born in chaos from datapacks 
+- Supplementaries(?) cave pot loot tables
 - Remake Dungeons Arise spawner changes datapack 
-- Config mutant monsters 
-	- Disable mutant creeper 
-	- Disable chemical X
+- Disable mutant monsters chemical X brewing recipes
 - Ensorcellation config
+- Replace scaling health's heart crystals and blights
