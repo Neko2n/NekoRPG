@@ -17,3 +17,4 @@
 .minecraft/config/forge-client.toml
 .minecraft/config/blockswap/known_states
 *.ini
+instance.cfg*
