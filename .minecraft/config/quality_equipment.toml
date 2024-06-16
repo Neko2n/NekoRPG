@@ -1,11 +1,11 @@
 
 ["Material overrides"]
 	#This material will be used to reforge an item that does not have a material override or repair item
-	Fallback = "minecraft:obsidian"
+	Fallback = "minecraft:barrier"
 	#In this list you can define different reforge items for specific equipment.
 	#This can override repair items and will be used instead of the fallback item in case no repair item exists.
 	#The left item is the equipment and right is the material.
-	Overrides = ["minecraft:bow,minecraft:string", "minecraft:crossbow,minecraft:iron_ingot"]
+	Overrides = ["minecraft:bow,minecraft:string", "minecraft:crossbow,minecraft:iron_ingot", "alexscaves:dreadbow,alexscaves:shadow_silk", "minecraft:trident,upgrade_aquatic:thrasher_tooth", "spearsmod:wooden_spear,minecraft:copper_ingot", "spearsmod:diamond_spear,outer_end:halite_crystal", "spearsmod:golden_spear,minecraft:gold_ingot", "spearsmod:iron_spear,biomesoplenty:rose_quartz_chunk", "spearsmod:stone_spear,minecraft:quartz", "alexscaves:limestone_spear,alexscaves:limestone", "alexscaves:extinction_spear,alexscaves:tectonic_shard"]
 
 [Reforges]
 	#A list of equipment that cannot be reforged.
@@ -14,5 +14,5 @@
 	AutoReforge = true
 	#The chance an item has of being automatically reforged.
 	#Max is 1 (100%) and minimum is 0.1 (10%).
-	AutoReforgeChance = 0.5
+	AutoReforgeChance = 1
 

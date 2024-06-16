@@ -10,8 +10,8 @@
     "auto": true,
     "gripType": "cgm:mini_gun",
     "maxAmmo": 32,
-    "rate": 5,
-    "recoilAngle": 2.0,
+    "rate": 4,
+    "recoilAngle": 3.0,
     "reloadAmount": 2,
     "spread": 30.0
   },
