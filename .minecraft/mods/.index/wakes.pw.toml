@@ -1,0 +1,13 @@
+filename = 'wakes-0.2.2.local.jar'
+name = 'Wakes'
+side = 'both'
+
+[download]
+hash = '0645ea6159d87015a2e0c42c236aaec241c9a8cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5014621
+project-id = 884267
