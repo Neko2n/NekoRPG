@@ -1,0 +1,13 @@
+filename = 'enchantwithmob-1.20.1-11.12.0.jar'
+name = 'Enchant With Mob'
+side = 'both'
+
+[download]
+hash = '293592b3a3e0c54cfeb6573d98a78d10307252dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5414658
+project-id = 913523

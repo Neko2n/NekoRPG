@@ -1,0 +1,13 @@
+filename = 'bagus_lib-1.20.1-4.6.0.jar'
+name = 'Bagus Lib'
+side = 'both'
+
+[download]
+hash = '62c2b63a01d506596698425249fee075b571643d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5269776
+project-id = 866533
