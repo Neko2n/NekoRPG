@@ -14,5 +14,5 @@
 	AutoReforge = true
 	#The chance an item has of being automatically reforged.
 	#Max is 1 (100%) and minimum is 0.1 (10%).
-	AutoReforgeChance = 1
+	AutoReforgeChance = 0.5
 
