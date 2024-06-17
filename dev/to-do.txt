@@ -10,3 +10,6 @@
 - Disable mutant monsters chemical X brewing recipes
 - Ensorcellation config
 - Replace scaling health's heart crystals and blights
+- Allow crafting a bucket of blood with empty bottles to get a blood vial
+- Allow filling empty bottles via. create spouts with blood to get a blood vial
+- Remove create wizardry
