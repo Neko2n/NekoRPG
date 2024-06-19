@@ -17,3 +17,4 @@
 - Add back custom artifacts loot tables
 - Remove The Dawn Era
 	- Remove worms from Tumbleweeds
+- Alex's caves magnetic items tag

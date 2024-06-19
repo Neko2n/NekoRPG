@@ -1,6 +1,6 @@
-"Show Enchanted Mob Hud" = true
+"Show Enchanted Mob Hud" = false
 #Disable Poison Mob Enchant Particle. [true / false]
-"Disable Poison Particle" = true
+"Disable Poison Particle" = false
 #Disable Aura Render. [true / false]
-"Disable Aura Render" = true
+"Disable Aura Render" = false
 
