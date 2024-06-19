@@ -1,5 +1,5 @@
 {
-  "parent": "endrem:main/witch_eye",
+  "parent": "endrem:main/nether_eye",
   "display": {
     "icon": {
       "item": "endrem:wither_eye"

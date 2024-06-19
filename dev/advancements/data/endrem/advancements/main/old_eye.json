@@ -1,5 +1,5 @@
 {
-  "parent": "endrem:main/root",
+  "parent": "endrem:main/lost_eye",
   "display": {
     "icon": {
       "item": "endrem:old_eye"

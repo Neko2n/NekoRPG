@@ -1,5 +1,5 @@
 {
-  "parent": "endrem:main/corrupted_eye",
+  "parent": "endrem:main/root",
   "display": {
     "icon": {
       "item": "endrem:cursed_eye"
