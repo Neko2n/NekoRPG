@@ -12,6 +12,9 @@
         },
         {
             "item": "create:copper_sheet"
+        },
+        {
+            "item": "minecraft:jukebox"
         }
     ],
     "result": {

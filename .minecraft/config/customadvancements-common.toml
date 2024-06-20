@@ -5,7 +5,7 @@
 	#Whether the mod should remove all advancements
 	noAdvancements = false
 	#Whether the mod should remove all recipe advancements
-	noRecipeAdvancements = false
+	noRecipeAdvancements = true
 	#Blacklist of Advancements that should be removed by the mod
 	advancementsBlacklist = []
 	#Whether the Blacklist of Advancements should be a Whitelist

@@ -87,11 +87,11 @@
 			maple = true
 			mauve = true
 			palm = true
-			pine = true
+			pine = false
 			pink_bioshroom = true
 			redwood = true
 			socotra = true
-			willow = true
+			willow = false
 			yellow_bioshroom = true
 
 		[types.wood_type.atmospheric]
@@ -111,18 +111,18 @@
 		[types.leaves_type.biomesoplenty]
 			origin = true
 			flowering_oak = true
-			maple = true
+			maple = false
 			orange_autumn = true
 			yellow_autumn = true
 			rainbow_birch = true
 			snowblossom = true
 			fir = true
-			redwood = true
+			redwood = false
 			mahogany = true
 			jacaranda = true
 			palm = true
-			willow = true
-			dead = true
+			willow = false
+			dead = false
 			magic = true
 			umbran = true
 			hellbark = true
@@ -130,14 +130,14 @@
 		[types.leaves_type.regions_unexplored]
 			bamboo = true
 			golden_larch = true
-			alpha = true
+			alpha = false
 			apple_oak = true
 			baobab = true
 			blackwood = true
 			magnolia = true
 			cypress = true
 			dead = true
-			dead_pine = true
+			dead_pine = false
 			eucalyptus = true
 			flowering = true
 			kapok = true
@@ -146,7 +146,7 @@
 			mauve = true
 			orange_maple = true
 			palm = true
-			pine = true
+			pine = false
 			blue_magnolia = true
 			pink_magnolia = true
 			redwood = true
@@ -253,9 +253,6 @@
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
-
-		[entries.wood_type.missingwilds]
-			fallen_log = true
 
 		[entries.wood_type.quark]
 			hollow_log = true

@@ -31,13 +31,13 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 16.0,
-                "min": 4.0
+                "max": 8.0,
+                "min": 1.0
               },
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:salmon"
+          "name": "sullysmod:lanternfish"
         },
         {
           "type": "minecraft:item",
@@ -113,6 +113,21 @@
             }
           ],
           "name": "minecraft:wheat"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 16.0,
+                "min": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "miners_delight:cave_carrot"
         },
         {
           "type": "minecraft:item",

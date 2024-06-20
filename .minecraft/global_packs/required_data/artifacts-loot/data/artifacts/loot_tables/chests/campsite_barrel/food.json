@@ -95,7 +95,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:rabbit_stew"
+          "name": "sullysmod:cooked_lanternfish"
         }
       ],
       "rolls": 3.0
