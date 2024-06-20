@@ -2,13 +2,14 @@
 - Find replacements or updates for all of the outdated mods
 - Clean up mods
 - Advancements
-- Pots and mimics pot loot tables 
-- Supplementaries(?) cave pot loot tables
-- Disable mutant monsters chemical X brewing recipes
-- Allow crafting a bucket of blood with empty bottles to get a blood vial
-- Allow filling empty bottles via. create spouts with blood to get a blood vial
-- Add modded mobs to quark's monster boxes
-- Enchant with mob projectile config
-- Fix loot tables
+- Fix tumbleweed loot tables
 - Alex's caves magnetic items tag
 - Dungeon crawl datapack
+
+# LOW-PRIORITY
+- Disable mutant monsters chemical X brewing recipes
+- Enchant with mob projectile config
+- Add modded mobs to quark's monster boxes
+- Allow crafting a bucket of blood with empty bottles to get a blood vial
+- Allow filling empty bottles via. create spouts with blood to get a blood vial
+- Supplementaries urn (cave pot) loot tables
