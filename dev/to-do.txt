@@ -1,12 +1,19 @@
 # TO-DO
-- Find replacements or updates for all of the outdated mods
 - Clean up mods
+- Update Abnormal's mods
+- Update Euphoria Patches
+    - For more colored light compat
 - Advancements
+    - Husbandry
+    - Story
+    - Magic
+    - Innovation (Redstone)
 - Fix tumbleweed loot tables
 - Alex's caves magnetic items tag
 - Dungeon crawl datapack
 
 # LOW-PRIORITY
+- Find replacements or updates for all of the outdated mods
 - Disable mutant monsters chemical X brewing recipes
 - Enchant with mob projectile config
 - Add modded mobs to quark's monster boxes
