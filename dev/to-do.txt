@@ -7,6 +7,7 @@
     - Husbandry
     - Story
     - Magic
+    - Spelunking
     - Innovation (Redstone)
 - Fix tumbleweed loot tables
 - Alex's caves magnetic items tag

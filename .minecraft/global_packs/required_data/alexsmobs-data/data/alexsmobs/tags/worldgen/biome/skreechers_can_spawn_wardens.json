@@ -1,9 +1,6 @@
 {
   "replace": false,
   "values": [
-    "minecraft:deep_dark",
-    "deeperdarker:deeplands",
-    "deeperdarker:echoing_forest",
-    "deeperdarker:overcast_columns"
+    "minecraft:deep_dark"
   ]
 }
