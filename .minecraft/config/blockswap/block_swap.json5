@@ -97,6 +97,7 @@ to make editing this file much easier.
 		"biomesoplenty:palm_wood" : "regions_unexplored:palm_wood",
 		"regions_unexplored:barley" : "biomesoplenty:barley",
 		"biomesoplenty:cattail" : "environmental:cattail",
-		"regions_unexplored:cattail" : "environmental:cattail"
+		"regions_unexplored:cattail" : "environmental:cattail",
+		"regions_unexplored:clover" : "biomesoplenty:clover"
 	}
 }

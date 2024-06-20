@@ -1,0 +1,13 @@
+filename = 'customadvancements-1.20.1-7.0.8.jar'
+name = 'Custom Advancements'
+side = 'both'
+
+[download]
+hash = '18d14107d8a2debbb2c402c41a80b5395932a02ba261cd9e334e0ce0051ad23107c2b2b029584a2889500f3ff938b341ab2a1399da7f1bd89c6f0a7308d6a05c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cvjKMjpc/versions/qqEtVwDK/customadvancements-1.20.1-7.0.8.jar'
+
+[update.modrinth]
+mod-id = 'cvjKMjpc'
+version = 'qqEtVwDK'

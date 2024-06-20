@@ -2,13 +2,33 @@
 - Find replacements or updates for all of the outdated mods
 - Clean up mods
 - Advancements
-	- End remastered ✅
-	- 
+	- End remastered
+	- Queen Bee
+	- Mowzie's Mobs
+	- Cataclysm 
+	- IDAS 
+	- Better Dungeons 
+	- It Takes a Pillage 
+	- Farmer's Delight 
+	- Create 
+	- Better Desert Temples 
+	- Installed Datapacks?
+	- Regions Unexplored
+	- Biomes o Plenty
+	- Mutant Monsters 
+	- Alex's Caves 
+	- Nether Depths Upgrade 
+	- Dungeons Enhanced 
+	- Iron's Spells and Spellbooks 
+	- Alex's Mobs 
+	- Bygone Nether 
+	- Sculk Story
+	- Glowroot
+	- Genshin Instruments
+	- Enemy Expansion
 - Pots and mimics pot loot tables 
 - Supplementaries(?) cave pot loot tables
-- Remake Dungeons Arise spawner changes datapack 
 - Disable mutant monsters chemical X brewing recipes
-- Replace scaling health's heart crystals and blights
 - Allow crafting a bucket of blood with empty bottles to get a blood vial
 - Allow filling empty bottles via. create spouts with blood to get a blood vial
 - Add modded mobs to quark's monster boxes
@@ -18,3 +38,4 @@
 - Remove The Dawn Era
 	- Remove worms from Tumbleweeds
 - Alex's caves magnetic items tag
+- Dungeon crawl datapack
