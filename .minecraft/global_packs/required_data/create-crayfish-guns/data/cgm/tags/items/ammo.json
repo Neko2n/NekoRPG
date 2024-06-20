@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cgm:basic_bullet",
+    "cgm:advanced_bullet",
+    "cgm:shell",
+    "cgm:missile"
+  ]
+}

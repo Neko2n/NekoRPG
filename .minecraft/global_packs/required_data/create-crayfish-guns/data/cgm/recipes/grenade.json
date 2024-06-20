@@ -1,13 +1,2 @@
 {
-  "type": "cgm:workbench",
-  "materials": [
-    {
-      "count": 1,
-      "item": "minecraft:tnt"
-    }
-  ],
-  "result": {
-    "count": 4,
-    "item": "cgm:grenade"
-  }
 }

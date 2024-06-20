@@ -1,16 +1,2 @@
 {
-  "type": "cgm:workbench",
-  "materials": [
-    {
-      "count": 1,
-      "item": "create:sturdy_sheet"
-    },
-    {
-      "count": 1,
-      "item": "minecraft:sponge"
-    }
-  ],
-  "result": {
-    "item": "cgm:silencer"
-  }
 }

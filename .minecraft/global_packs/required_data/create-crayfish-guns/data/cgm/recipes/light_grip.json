@@ -1,16 +1,2 @@
 {
-  "type": "cgm:workbench",
-  "materials": [
-    {
-      "count": 1,
-      "tag": "forge:stripped_logs"
-    },
-    {
-      "count": 3,
-      "item": "create:brass_nugget"
-    }
-  ],
-  "result": {
-    "item": "cgm:light_grip"
-  }
 }
