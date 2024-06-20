@@ -12,6 +12,9 @@
 - Fix tumbleweed loot tables
 - Alex's caves magnetic items tag
 - Dungeon crawl datapack
+- Tiered config
+    - Port reforge materials from Quality Tools config
+    - If it doesn't work, bring back Quality Tools instead
 
 # LOW-PRIORITY
 - Find replacements or updates for all of the outdated mods
