@@ -1,0 +1,41 @@
+{
+  "weight": 5,
+  "verifiers": [
+    {
+      "tag": "minecraft:trimmable_armor"
+    },
+    {
+      "tag": "forge:armors"
+    },
+    {
+      "tag": "forge:armors/helmets"
+    },
+    {
+      "tag": "forge:armors/chestplates"
+    },
+    {
+      "tag": "forge:armors/leggings"
+    },
+    {
+      "tag": "forge:armors/boots"
+    },
+    {
+      "tag": "forge:armor"
+    },
+    {
+      "tag": "forge:armor/helmets"
+    },
+    {
+      "tag": "forge:armor/chestplates"
+    },
+    {
+      "tag": "forge:armor/leggings"
+    },
+    {
+      "tag": "forge:armor/boots"
+    }
+  ],
+  "tiers": [
+    "tiered:standard_armors/common"
+  ]
+}

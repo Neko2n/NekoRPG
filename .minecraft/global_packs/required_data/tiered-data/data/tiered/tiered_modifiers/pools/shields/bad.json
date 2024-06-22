@@ -1,0 +1,15 @@
+{
+  "weight": 3,
+  "verifiers": [
+    {
+      "tag": "forge:shields"
+    },
+    {
+      "tag": "forge:tools/shields"
+    }
+  ],
+  "tiers": [
+    "tiered:shields/dented",
+    "tiered:shields/unchained"
+  ]
+}

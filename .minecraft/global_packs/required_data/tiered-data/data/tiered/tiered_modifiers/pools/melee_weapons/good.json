@@ -1,0 +1,37 @@
+{
+  "weight": 2,
+  "verifiers": [
+    {
+      "tag": "minecraft:swords"
+    },
+    {
+      "tag": "minecraft:axes"
+    },
+    {
+      "tag": "forge:spears"
+    },
+    {
+      "tag": "forge:tools/bows"
+    },
+    {
+      "tag": "forge:tools/tridents"
+    },
+    {
+      "tag": "forge:tools/swords"
+    },
+    {
+      "tag": "forge:tools/axe"
+    },
+    {
+      "tag": "forge:tools/axes"
+    }
+  ],
+  "tiers": [
+    "tiered:melee_weapons/sharp",
+    "tiered:melee_weapons/keen",
+    "tiered:melee_weapons/critical",
+    "tiered:melee_weapons/epic",
+    "tiered:melee_weapons/legendary",
+    "tiered:melee_weapons/rare"
+  ]
+}

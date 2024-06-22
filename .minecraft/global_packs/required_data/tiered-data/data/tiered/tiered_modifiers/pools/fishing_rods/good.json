@@ -1,0 +1,15 @@
+{
+  "weight": 1,
+  "verifiers": [
+    {
+      "id": "minecraft:fishing_rod"
+    },
+    {
+      "id": "netherdepthsupgrade:lava_fishing_rod"
+    }
+  ],
+  "tiers": [
+    "tiered:fishing_rods/lucky",
+    "tiered:fishing_rods/luring"
+  ]
+}

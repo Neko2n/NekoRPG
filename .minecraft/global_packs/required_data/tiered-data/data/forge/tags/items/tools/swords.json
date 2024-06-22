@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "immersive_weathering:ice_sickle",
+        "etcetera:hammer",
+        "cataclysm:khopesh",
+        "savage_and_ravage:cleaver_of_beheading",
+        "irons_spellbooks:magehunter",
+        "irons_spellbooks:keeper_flamberge",
+        "phantasm:crystalline_sword"
+    ]
+}
