@@ -104,6 +104,7 @@ to make editing this file much easier.
 		"regions_unexplored:dead_pine_leaves" : "environmental:pine_leaves",
 		"biomesoplenty:redwood_log" : "regions_unexplored:redwood_log",
 		"biomesoplenty:redwood_leaves" : "regions_unexplored:redwood_leaves",
-		"biomesoplenty:maple_leaves" : "biomesoplenty:orange_autumn_leaves"
+		"biomesoplenty:maple_leaves" : "biomesoplenty:orange_autumn_leaves",
+		"environmental:giant_tall_grass" : "biomesoplenty:high_grass"
 	}
 }
