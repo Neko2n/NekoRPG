@@ -105,6 +105,23 @@ to make editing this file much easier.
 		"biomesoplenty:redwood_log" : "regions_unexplored:redwood_log",
 		"biomesoplenty:redwood_leaves" : "regions_unexplored:redwood_leaves",
 		"biomesoplenty:maple_leaves" : "biomesoplenty:orange_autumn_leaves",
-		"environmental:giant_tall_grass" : "biomesoplenty:high_grass"
+		"environmental:giant_tall_grass" : "biomesoplenty:high_grass",
+		"valhelsia_structures:white_sleeping_bag": "upgrade_aquatic:white_bedroll",
+		"valhelsia_structures:orange_sleeping_bag": "upgrade_aquatic:orange_bedroll",
+		"valhelsia_structures:magenta_sleeping_bag": "upgrade_aquatic:magenta_bedroll",
+		"valhelsia_structures:light_blue_sleeping_bag": "upgrade_aquatic:light_blue_bedroll",
+		"valhelsia_structures:yellow_sleeping_bag": "upgrade_aquatic:yellow_bedroll",
+		"valhelsia_structures:lime_sleeping_bag": "upgrade_aquatic:lime_bedroll",
+		"valhelsia_structures:pink_sleeping_bag": "upgrade_aquatic:pink_bedroll",
+		"valhelsia_structures:gray_sleeping_bag": "upgrade_aquatic:gray_bedroll",
+		"valhelsia_structures:light_gray_sleeping_bag": "upgrade_aquatic:light_gray_bedroll",
+		"valhelsia_structures:cyan_sleeping_bag": "upgrade_aquatic:cyan_bedroll",
+		"valhelsia_structures:purple_sleeping_bag": "upgrade_aquatic:purple_bedroll",
+		"valhelsia_structures:blue_sleeping_bag": "upgrade_aquatic:blue_bedroll",
+		"valhelsia_structures:brown_sleeping_bag": "upgrade_aquatic:brown_bedroll",
+		"valhelsia_structures:green_sleeping_bag": "upgrade_aquatic:green_bedroll",
+		"valhelsia_structures:red_sleeping_bag": "upgrade_aquatic:red_bedroll",
+		"valhelsia_structures:black_sleeping_bag": "upgrade_aquatic:black_bedroll",
+
 	}
 }
