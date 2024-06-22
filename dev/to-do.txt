@@ -12,6 +12,7 @@
 - Fix tumbleweed loot tables
 - Alex's caves magnetic items tag
 - Dungeon crawl datapack
+- Clean config directory
 
 # LOW-PRIORITY
 - Find replacements or updates for all of the outdated mods
