@@ -1,13 +1,13 @@
-filename = 'Tiered-1.20.1-6.0.5-Forge.jar'
-name = 'Tiered (Forge)'
+filename = 'Tiered-1.20.1-6.0.6-Forge.jar'
+name = 'Tiered'
 side = 'both'
 
 [download]
-hash = '145a1e100eaab1186fd4ac900ac0b0e00d848e60'
+hash = 'b7a1ffe40e6529afaa4cabda4b0d0a10559ffed9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5431785
+file-id = 5448351
 project-id = 453889

@@ -49,9 +49,6 @@
 			muddy_oak = true
 			cypress = true
 
-		[types.wood_type.deeperdarker]
-			echo = true
-
 		[types.wood_type.endergetic]
 			poise = true
 
@@ -174,9 +171,6 @@
 		[types.leaves_type.ecologics]
 			coconut = true
 			walnut = true
-
-		[types.leaves_type.deeperdarker]
-			echo = true
 
 		[types.leaves_type.environmental]
 			hibiscus = true

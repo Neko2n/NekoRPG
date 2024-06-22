@@ -1,13 +1,13 @@
-filename = 'immersiveui-forge-0.1.jar'
-name = 'Immersive UI'
+filename = 'immersiveui-forge-0.1.1.jar'
+name = 'ImmersiveUI'
 side = 'both'
 
 [download]
-hash = '6efee5bd21e908e5cc8a6ffa2b421fbb9026c60d'
+hash = 'e8176c7689016e02de2d2d814fc35a9906944f02'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5410434
+file-id = 5452733
 project-id = 1021685
