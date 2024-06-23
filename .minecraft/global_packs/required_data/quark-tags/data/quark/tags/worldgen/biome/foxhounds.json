@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "biomesoplenty:erupting_inferno",
+        "regions_unexplored:infernal_holt",
+        "minecraft:nether_wastes",
+        "minecraft:crimson_forest",
+        "minecraft:warped_forest", 
+        "regions_unexplored:blackstone_basin",
+        "minecraft:soul_sand_valley"
+    ]
+}

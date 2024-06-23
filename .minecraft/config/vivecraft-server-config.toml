@@ -48,7 +48,7 @@
 [vrChanges]
 	#Distance at which creepers swell and explode for VR players. Vanilla: 3
 	# default: 1.75, min: 0.10, max: 10.00
-	creeperSwellDistance = 3
+	creeperSwellDistance = 1.75
 
 	#Bow damage adjustments
 	[vrChanges.bow]

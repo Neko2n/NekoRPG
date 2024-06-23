@@ -62,7 +62,7 @@
 	Gravisand = false
 	"Dispensers Place Blocks" = true
 	Chute = false
-	Crafter = true
+	Crafter = false
 
 	[automation.pistons_move_tile_entities]
 		"Enable Chests Moving Together" = true
@@ -145,8 +145,8 @@
 
 	[building.variant_ladders]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodworks
 		# - woodster
+		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -154,8 +154,8 @@
 
 	[building.variant_bookshelves]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodworks
 		# - woodster
+		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -191,8 +191,8 @@
 
 	[building.thatch]
 		#This feature disables itself if any of the following mods are loaded:
-		# - goated
 		# - environmental
+		# - goated
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -234,8 +234,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodworks
 		# - immersive_weathering
+		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -372,7 +372,7 @@
 		# - <color> being a hex color (without the #) for the map to display. You can generate one here - https://htmlcolorcodes.com/
 		#Here's an example of a map to locate Ice Mountains:
 		#minecraft:ice_mountains,2,8,14,7FE4FF
-		Customs = ["alexscaves:abyssal_chasm,12,24,040054", "alexscaves:forlorn_hollows,12,24,301f17", "alexscaves:magnetic_caves,12,24,0026FC", "alexscaves:primordial_caves,18,32,70DB04", "alexscaves:toxic_caves,12,24,00B009", "galosphere:pink_salt_caves,8,16,D18AA6", "galosphere:crystal_canyons,8,16,C888F2", "galosphere:lichen_caves,8,16,91BFAC", "minecraft:deep_dark,12,24,000000", "minecraft:lush_caves,8,16,3B522E", "minecraft:dripstone_caves,8,16,5C4A3E", "biomesoplenty:origin_valley,12,24,5EFF00", "biomesoplenty:mystic_grove,12,24,00BFFF", "minecraft:mushroom_fields,8,16,6E5858", "environmental:blossom_valleys,8,16,E68CE4", "glowroot:glowroot_caves,8,16,00FFFF", "minecraft:ice_spikes,8,16,7FE4FF"]
+		Customs = ["minecraft:lush_caves,8,16,3B522E", "biomesoplenty:origin_valley,12,24,5EFF00", "biomesoplenty:mystic_grove,12,24,00BFFF", "minecraft:mushroom_fields,8,16,6E5858", "environmental:blossom_valleys,8,16,E68CE4", "minecraft:ice_spikes,8,16,7FE4FF"]
 		#Set to false to make it so the default quark Pathfinder Map Built-In don't get added, and only the custom ones do
 		"Apply Default Trades" = false
 		#How many steps in the search should the Pathfinder's Quill do per tick? The higher this value, the faster it'll find a result, but the higher chance it'll lag the game while doing so
@@ -760,7 +760,7 @@
 
 [world]
 	"Nether Obsidian Spikes" = true
-	Permafrost = true
+	Permafrost = false
 	"Fairy Rings" = true
 	"Big Stone Clusters" = false
 	"Spiral Spires" = true
@@ -770,7 +770,7 @@
 	"Glimmering Weald" = true
 	"Monster Box" = true
 	"Azalea Wood" = true
-	"No More Lava Pockets" = true
+	"No More Lava Pockets" = false
 	Corundum = true
 	"Chorus Vegetation" = true
 	"Fallen Logs" = true
@@ -1286,17 +1286,17 @@
 
 		[world.corundum.generation_settings]
 			#Allowed values: [0,)
-			Rarity = 400
+			Rarity = 50
 			"Min Y Level" = 0
-			"Max Y Level" = 64
+			"Max Y Level" = 60
 			#Allowed values: [0,)
-			"Horizontal Size" = 72
+			"Horizontal Size" = 24
 			#Allowed values: [0,)
-			"Vertical Size" = 20
+			"Vertical Size" = 18
 			#Allowed values: [0,)
-			"Horizontal Variation" = 22
+			"Horizontal Variation" = 8
 			#Allowed values: [0,)
-			"Vertical Variation" = 4
+			"Vertical Variation" = 6
 
 			[world.corundum.generation_settings.dimensions]
 				"Is Blacklist" = false
@@ -1363,12 +1363,12 @@
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[mobs.foxhound.spawn_config.biomes.tags]
-					"Biome Tags" = ["minecraft:is_nether"]
+					"Biome Tags" = ["quark:foxhounds"]
 					"Is Blacklist" = false
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.foxhound.spawn_config.biomes.biomes]
-					Biomes = ["minecraft:basalt_deltas", "regions_unexplored:blackstone_basin", "regions_unexplored:mycotoxic_undergrowth", "regions_unexplored:withered_abyss", "minecraft:crimson_forest", "minecraft:warped_forest"]
+					Biomes = []
 					"Is Blacklist" = true
 
 		[mobs.foxhound.lesser_spawn_config]
@@ -1385,13 +1385,13 @@
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[mobs.foxhound.lesser_spawn_config.biomes.tags]
-					"Biome Tags" = []
-					"Is Blacklist" = true
+					"Biome Tags" = ["quark:lesser_foxhounds"]
+					"Is Blacklist" = false
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.foxhound.lesser_spawn_config.biomes.biomes]
-					Biomes = ["minecraft:soul_sand_valley"]
-					"Is Blacklist" = false
+					Biomes = []
+					"Is Blacklist" = true
 
 	[mobs.wraith]
 		#List of sound sets to use with wraiths.

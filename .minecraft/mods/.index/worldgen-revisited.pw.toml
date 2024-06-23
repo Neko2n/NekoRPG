@@ -1,0 +1,13 @@
+filename = 'worldgenrevisited-experimental-forge-1.20.1-0.4.4.jar'
+name = 'Worldgen Revisited - Now with noise caves!'
+side = 'both'
+
+[download]
+hash = 'b6d2482b6d9235f21911b87ad1b5a1fdd14a0a1e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4944025
+project-id = 906526

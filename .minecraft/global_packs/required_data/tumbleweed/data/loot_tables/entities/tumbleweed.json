@@ -28,7 +28,7 @@
           "weight": 1
         },
         {
-          "type": "empty",
+          "type": "minecraft:empty",
           "weight": 20
         },
         {
@@ -44,7 +44,7 @@
           "type": "minecraft:tag",
           "expand": true,
           "name": "minecraft:creeper_drop_music_discs",
-          "weight": 1
+          "weight": 10
         }
       ],
       "rolls": 1

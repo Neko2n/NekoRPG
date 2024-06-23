@@ -9,10 +9,11 @@
     - Magic
     - Spelunking
     - Innovation (Redstone)
-- Fix tumbleweed loot tables
-- Alex's caves magnetic items tag
+    - Rework adventure to not be biome-based (since biome-based quests don't work)
 - Dungeon crawl datapack
 - Clean config directory
+- Integrated loot for dungeons enhanced
+- Test if foxhounds spawn
 
 # LOW-PRIORITY
 - Find replacements or updates for all of the outdated mods
