@@ -9,6 +9,10 @@
     - Dungeons enhanced
     - Dungeon crawl
 - Test if foxhounds spawn
+- EEEAAB's mobs
+    - Endrem drops
+    - Advancements
+    - Remove eye recipes and instead add explorer maps to their structures
 
 # LOW-PRIORITY
 - Find replacements or updates for all of the outdated mods

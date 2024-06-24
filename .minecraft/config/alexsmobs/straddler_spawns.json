@@ -20,6 +20,13 @@
         "negate": false,
         "value": "regions_unexplored:blackstone_basin"
       }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:erupting_inferno"
+      }
     ]
   ]
 }
