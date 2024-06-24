@@ -145,8 +145,8 @@
 
 	[building.variant_ladders]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -154,8 +154,8 @@
 
 	[building.variant_bookshelves]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -191,8 +191,8 @@
 
 	[building.thatch]
 		#This feature disables itself if any of the following mods are loaded:
-		# - environmental
 		# - goated
+		# - environmental
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -234,8 +234,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - immersive_weathering
 		# - woodworks
+		# - immersive_weathering
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -1363,12 +1363,12 @@
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[mobs.foxhound.spawn_config.biomes.tags]
-					"Biome Tags" = ["quark:foxhounds"]
+					"Biome Tags" = ["minecraft:is_nether"]
 					"Is Blacklist" = false
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.foxhound.spawn_config.biomes.biomes]
-					Biomes = []
+					Biomes = ["biomesoplenty:visceral_heap", "biomesoplenty:crystalline_chasm", "biomesoplenty:undergrowth", "minecraft:basalt_deltas", "minecraft:warped_forest"]
 					"Is Blacklist" = true
 
 		[mobs.foxhound.lesser_spawn_config]
@@ -1385,13 +1385,13 @@
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[mobs.foxhound.lesser_spawn_config.biomes.tags]
-					"Biome Tags" = ["quark:lesser_foxhounds"]
-					"Is Blacklist" = false
+					"Biome Tags" = []
+					"Is Blacklist" = true
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.foxhound.lesser_spawn_config.biomes.biomes]
-					Biomes = []
-					"Is Blacklist" = true
+					Biomes = ["minecraft:soul_sand_valley"]
+					"Is Blacklist" = false
 
 	[mobs.wraith]
 		#List of sound sets to use with wraiths.

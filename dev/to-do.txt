@@ -1,18 +1,13 @@
 # TO-DO
 - Clean up mods
 - Update Abnormal's mods
-- Update Euphoria Patches
-    - For more colored light compat
 - Advancements
-    - Husbandry
-    - Story
-    - Magic
-    - Spelunking
-    - Innovation (Redstone)
-    - Rework adventure to not be biome-based (since biome-based quests don't work)
+    - innovation/redstone
 - Dungeon crawl datapack
 - Clean config directory
-- Integrated loot for dungeons enhanced
+- Integrated loot
+    - Dungeons enhanced
+    - Dungeon crawl
 - Test if foxhounds spawn
 
 # LOW-PRIORITY
@@ -23,3 +18,4 @@
 - Allow crafting a bucket of blood with empty bottles to get a blood vial
 - Allow filling empty bottles via. create spouts with blood to get a blood vial
 - Supplementaries urn (cave pot) loot tables
+- Polish jade with sandpaper

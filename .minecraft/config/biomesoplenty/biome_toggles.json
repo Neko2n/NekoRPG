@@ -55,7 +55,7 @@
   "snowy_maple_woods_enabled": false,
   "spider_nest_enabled": true,
   "tropics_enabled": true,
-  "tundra_enabled": true,
+  "tundra_enabled": false,
   "undergrowth_enabled": true,
   "visceral_heap_enabled": true,
   "volcanic_plains_enabled": false,

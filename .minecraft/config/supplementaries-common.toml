@@ -95,13 +95,13 @@
 
 	[functional.rope]
 		#So you came here to disable supp rope not because they are bad but because they are the easiest to disable, despite them doing all the stuff other ropes can do. Well too bad, this config doesnt do anything :P. Learn how to use datapacks to disable stuff, like its normally done
-		enabled = true
+		enabled = false
 		#Allows ropes to be supported & attached to solid block sides
 		block_side_attachment = true
 		#Makes sliding down ropes as fast as free falling, still negating fall damage
 		slide_on_fall = true
 		#In case you want to disable supplementaries ropes you can specify here another mod rope and they will be used for rope arrows and in mineshafts instead
-		rope_override = "supplementaries:rope"
+		rope_override = "farmersdelight:rope"
 		#Enables horizontal placement of ropes
 		horizontal_ropes = true
 
