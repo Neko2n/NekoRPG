@@ -5,6 +5,9 @@
     "dungeons_arise:chests/mines_treasure_big": 1,
     "alexscaves:chests/forlorn_ruins": 1,
     "alexscaves:chests/magnetic_ruins": 1,
-    "alexscaves:chests/toxic_ruins": 1
+    "alexscaves:chests/toxic_ruins": 1,
+    "dungeoncrawl:chests/stage_3": 1,
+    "dungeoncrawl:chests/stage_4": 1,
+    "dungeoncrawl:chests/stage_5": 1
   }
 }

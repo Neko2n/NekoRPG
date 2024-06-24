@@ -4,15 +4,15 @@
 - Advancements
     - innovation/redstone
 - Dungeon crawl datapack
+    - Change all the nether content to deep dark / sculk
 - Clean config directory
 - Integrated loot
-    - Dungeons enhanced
-    - Dungeon crawl
-- Test if foxhounds spawn
-- EEEAAB's mobs
+    - EEEAAB's Mobs
+- EEEAAB's Mobs
     - Endrem drops
     - Advancements
     - Remove eye recipes and instead add explorer maps to their structures
+- Ribbits trade tables
 
 # LOW-PRIORITY
 - Find replacements or updates for all of the outdated mods

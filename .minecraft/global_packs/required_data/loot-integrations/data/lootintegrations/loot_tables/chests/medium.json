@@ -1,6 +1,125 @@
 {
   "pools": [
     {
+      "rolls": 1,
+      "conditions": [
+        {
+          "chance": 0.3,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "max": 30.0,
+                "min": 15.0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:book",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "artifacts:artifact",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scalinghealth:heart_crystal_shard",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "create:experience_nugget",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 6
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "irons_spellbooks:scroll_gen",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "irons_spellbooks:ring_gen",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "irons_spellbooks:magic_items/basic_curios",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 7
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "irons_spellbooks:magic_items/poor_ink",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "irons_spellbooks:magic_items/random_potion_or_elixir",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "irons_spellbooks:magic_items/decent_ink",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "irons_spellbooks:magic_items/good_ink",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "irons_spellbooks:magic_items/great_ink",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 10
+        }
+      ]
+    },
+    {
       "rolls": 14,
       "entries": [
         {

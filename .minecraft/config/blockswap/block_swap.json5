@@ -132,13 +132,13 @@ to make editing this file much easier.
 		"valhelsia_structures:green_sleeping_bag": "upgrade_aquatic:green_bedroll",
 		"valhelsia_structures:red_sleeping_bag": "upgrade_aquatic:red_bedroll",
 		"valhelsia_structures:black_sleeping_bag": "upgrade_aquatic:black_bedroll",
-		"biomesoplenty:huge_lily_pad": "goodending:large_lily_pad",
-		"environmental:large_lily_pad": "goodending:large_lily_pad",
-		"environmental:giant_lily_pad": "minecraft:air",
+		"biomesoplenty:huge_lily_pad": "environmental:large_lily_pad",
+		"goodending:large_lily_pad": "minecraft:air",
 		"goodending:purple_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
 		"goodending:pink_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
 		"goodending:yellow_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
 		"regions_unexplored:spanish_moss": "biomesoplenty:spanish_moss",
+		"regions_unexplored:spanish_moss_plant": "biomesoplenty:spanish_moss_plant",
 		"regions_unexplored:hibiscus": "environmental:orange_hibiscus",
 		"biomesoplenty:pink_hibiscus": "environmental:pink_hibiscus",
 		"regions_unexplored:mossy_stone": "immersive_weathering:mossy_stone",
@@ -151,6 +151,8 @@ to make editing this file much easier.
 		"biomesoplenty:dead_grass": "regions_unexplored:medium_grass",
 		"immersive_weathering:frosty_grass": "regions_unexplored:frozen_grass",
 		"regions_unexplored:alpha_rose": "biomesoplenty:rose",
-		"environmental:violet": "biomesoplenty:violet"
+		"environmental:violet": "biomesoplenty:violet",
+		"goodending:duckweed": "environmental:duckweed",
+		"regions_unexplored:duckweed": "environmental:duckweed"
 	}
 }

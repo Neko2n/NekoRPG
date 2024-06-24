@@ -2,7 +2,6 @@
   "loot_table": "lootintegrations:maps/nether_bosses",
   "integrated_loot_tables": {
     "minecraft:chests/nether_bridge": 1,
-    "minecraft:chests/bastion_treasure": 1,
-    "lootintegrations:chests/nether": 1
+    "minecraft:chests/bastion_treasure": 1
   }
 }

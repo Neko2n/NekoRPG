@@ -1,6 +1,6 @@
 {
   "loot_table": "lootintegrations:chests/nether",
-  "max_result_itemcount": 12,
+  "max_result_itemcount": 20,
   "integrated_loot_tables": {
     "dungeons_plus:chests/soul_prison/common": 6,
     "totw_additions:chests/nether_tower/nether_tower_chest": 6,
@@ -15,6 +15,15 @@
     "infernalexp:chests/basalt_delta_ruin": 4,
     "infernalexp:chests/desolate_bastion_outpost": 6,
     "infernalexp:chests/glowstone_canyon_ruin": 4,
-    "bosses_of_mass_destruction:chests/gauntlet": 10
+    "bosses_of_mass_destruction:chests/gauntlet": 9,
+    "betterdungeons:small_nether_dungeon/chests/common": 4,
+    "betterfortresses:chests/extra": 6,
+    "betterfortresses:chests/obsidian": 6,
+    "betterfortresses:chests/puzzle": 6,
+    "betterfortresses:chests/hall": 6,
+    "betterfortresses:chests/quarters": 2,
+    "betterfortresses:chests/storage": 2,
+    "betterfortresses:chests/worship": 2,
+    "irons_spellbooks:chests/battleground/piglin_camp": 3
   }
 }

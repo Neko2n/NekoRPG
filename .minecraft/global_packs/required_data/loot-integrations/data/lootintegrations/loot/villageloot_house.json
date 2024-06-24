@@ -1,7 +1,26 @@
 {
   "loot_table": "lootintegrations:chests/village",
-  "max_result_itemcount": 12,
+  "max_result_itemcount": 16,
   "integrated_loot_tables": {
+    "ribbits:chests/fisherman_main": 3,
+    "ribbits:chests/fisherman_storage": 3,
+    "ribbits:chests/gardener": 3,
+    "ribbits:chests/merchant": 3,
+    "ribbits:chests/nitwit": 2,
+    "ribbits:chests/sorcerer": 3,
+    "dungeons_enhanced:chests/stables": 3,
+    "dungeons_enhanced:chests/ruined/house": 6,
+    "dungeons_enhanced:chests/mushroom_house": 6,
+    "dungeons_enhanced:chests/miners_house": 6,
+    "dungeons_enhanced:chests/castle/quarters": 6,
+    "dungeons_enhanced:chests/castle/armory": 6,
+    "dungeons_enhanced:chests/witch_tower": 6,
+    "dungeons_enhanced:chests/watch_tower": 3,
+    "dungeons_enhanced:chests/tree_house/roof": 6,
+    "dungeons_enhanced:chests/tree_house/kitchen": 6,
+    "dungeons_enhanced:chests/fishing_ship": 6,
+    "dungeons_enhanced:chests/hay_storage": 6,
+    "dungeons_enhanced:chests/ruined_building": 6,
     "dungeons_arise:chests/bandit_village/bandit_village_normal": 6,
     "dungeons_arise:chests/bandit_village/bandit_village_supply": 6,
     "dungeons_arise:chests/bandit_village/bandit_village_tents": 6,
@@ -27,6 +46,11 @@
     "wythers:chests/village/badlands_ruins": 3,
     "wythers:chests/village/forest_ruins_big_house": 3,
     "wythers:chests/village/forest_ruins_butcher": 3,
-    "wythers:chests/village/forest_ruins_tannery": 3
+    "wythers:chests/village/forest_ruins_tannery": 3,
+    "betterdeserttemples:chests/food_storage": 3,
+    "betterstrongholds:chests/mess": 1,
+    "betterwitchhuts:chests/hut_0": 3,
+    "yungsextras:desert/ruins": 3,
+    "irons_spellbooks:chests/priest_house": 6
   }
 }

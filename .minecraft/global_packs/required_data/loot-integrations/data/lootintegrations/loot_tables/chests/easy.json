@@ -1,11 +1,26 @@
 {
   "pools": [
     {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "create:experience_nugget",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        }
+      ]
+    },
+    {
       "rolls": 10,
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "minecraft:chests/simple_dungeon"
+          "name": "minecraft:chests/simple_dungeon",
+          "weight": 8
         }
       ]
     }
