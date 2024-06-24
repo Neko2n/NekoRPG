@@ -12,6 +12,7 @@
 !.minecraft/mods/*.local*
 .minecraft/mods/.connector
 .minecraft/config/spark
+.minecraft/config/jei/world
 .minecraft/config/sounds
 .minecraft/config/sound_physics_remastered
 .minecraft/config/fml.toml
