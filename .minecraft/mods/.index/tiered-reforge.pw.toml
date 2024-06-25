@@ -1,0 +1,13 @@
+filename = 'tieredreforge-1.0.2.jar'
+name = 'Tiered Reforge'
+side = 'both'
+
+[download]
+hash = '39192f8c6583a1e6a18610179057daa7e3645406'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5332294
+project-id = 1010230
