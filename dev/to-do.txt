@@ -8,6 +8,8 @@
 - Clean config directory
 - Integrated loot
     - EEEAAB's Mobs
+    - Ecologics pots
+    - Supplementaries urns
 - EEEAAB's Mobs
     - Endrem drops
     - Advancements
