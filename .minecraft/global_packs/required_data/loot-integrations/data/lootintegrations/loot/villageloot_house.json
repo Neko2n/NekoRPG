@@ -51,6 +51,13 @@
     "betterstrongholds:chests/mess": 1,
     "betterwitchhuts:chests/hut_0": 3,
     "yungsextras:desert/ruins": 3,
-    "irons_spellbooks:chests/priest_house": 6
+    "irons_spellbooks:chests/priest_house": 6,
+    "subterrestrial:chests/cabin/bedroom": 2,
+    "subterrestrial:chests/cabin/kitchen": 5,
+    "subterrestrial:chests/cabin/beekeeping": 3,
+    "subterrestrial:chests/cabin/brewing": 2,
+    "subterrestrial:chests/cabin/fletching": 5,
+    "subterrestrial:chests/cabin/music": 2,
+    "subterrestrial:chests/cabin/weaving": 5
   }
 }

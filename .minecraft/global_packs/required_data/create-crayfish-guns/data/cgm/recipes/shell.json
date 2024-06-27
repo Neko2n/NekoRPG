@@ -50,7 +50,7 @@
         },
         [
           {
-            "tag": "forge:dusts/redstone"
+            "item": "create:brass_nugget"
           }
         ]
       ],
@@ -86,7 +86,7 @@
         },
         [
           {
-            "item": "create:iron_sheet"
+            "item": "biomesoplenty:rose_quartz_chunk"
           }
         ]
       ],

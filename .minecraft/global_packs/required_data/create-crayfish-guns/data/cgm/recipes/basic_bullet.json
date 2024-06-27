@@ -32,7 +32,7 @@
         },
         [
           {
-            "tag": "forge:dusts/redstone"
+            "item": "create:brass_nugget"
           }
         ]
       ],

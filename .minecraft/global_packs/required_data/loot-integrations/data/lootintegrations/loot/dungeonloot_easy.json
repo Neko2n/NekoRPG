@@ -172,6 +172,15 @@
     "irons_spellbooks:chests/sewer_loot": 3,
     "irons_spellbooks:chests/mangrove_hut": 5,
     "irons_spellbooks:chests/generic_magic_treasure": 3,
-    "irons_spellbooks:chests/pyromancer_tower/burnt_chest": 2
+    "irons_spellbooks:chests/pyromancer_tower/burnt_chest": 2,
+    "artifacts:chests/campsite_barrel": 2,
+    "artifacts:chests/campsite_chest": 5,
+    "subterrestrial:chests/cabin/bedroom": 3,
+    "subterrestrial:chests/cabin/enchanting": 3,
+    "subterrestrial:chests/cabin/enhanced_enchanting": 5,
+    "subterrestrial:chests/cabin/metalworks": 3,
+    "subterrestrial:chests/cabin/enhanced_metalworks": 5,
+    "subterrestrial:chests/cabin/main": 3,
+    "subterrestrial:chests/cabin/brewing": 3
   }
 }

@@ -3,7 +3,7 @@
   "blight.scalinghealth.killedByPlayer": "Blight %s was killed by %s!",
   "block.scalinghealth.deepslate_heart_crystal_ore": "Heart Crystal Ore",
   "block.scalinghealth.deepslate_power_crystal_ore": "Power Crystal Ore",
-  "block.scalinghealth.heart_crystal_ore": "Stone Heart Crystal Ore",
+  "block.scalinghealth.heart_crystal_ore": "Nether Heart Crystal Ore",
   "block.scalinghealth.power_crystal_ore": "Stone Power Crystal Ore",
   "command.scalinghealth.difficulty.area": "Area Difficulty: %s",
   "command.scalinghealth.difficulty.player": "Player Difficulty: %s",

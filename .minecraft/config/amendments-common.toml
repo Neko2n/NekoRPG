@@ -41,10 +41,10 @@
 		"minecraft:instant_damage" = "minecraft:instant_health"
 		"minecraft:instant_health" = "minecraft:instant_damage"
 		"minecraft:luck" = "minecraft:unluck"
-		"sizeshiftingpotions:growing" = "sizeshiftingpotions:shrinking"
-		"sizeshiftingpotions:shrinking" = "sizeshiftingpotions:growing"
 		"alexsmobs:poison_resistance" = "minecraft:poison"
 		"minecraft:poison" = "alexsmobs:poison_resistance"
+		"minecraft:wither" = "minecraft:regeneration"
+		"minecraft:regeneration" = "minecraft:wither"
 
 [tripwire_hook]
 	#Allows placing tools on tripwire hooks

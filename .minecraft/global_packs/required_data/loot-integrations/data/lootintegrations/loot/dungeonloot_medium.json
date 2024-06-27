@@ -40,6 +40,8 @@
     "irons_spellbooks:chests/catacombs/coffin_loot": 7,
     "irons_spellbooks:chests/catacombs/crypt_loot": 3,
     "irons_spellbooks:chests/evoker_fort": 6,
-    "irons_spellbooks:chests/mountain_tower/mountain_tower": 5
+    "irons_spellbooks:chests/mountain_tower/mountain_tower": 5,
+    "eeeabsmobs:chests/rare_ancient_tomb": 5,
+    "eeeabsmobs:chests/unusual_ancient_tomb": 5
   }
 }

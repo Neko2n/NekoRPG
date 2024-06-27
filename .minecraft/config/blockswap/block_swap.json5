@@ -9,7 +9,7 @@ to make editing this file much easier.
 */
 {
 	// Generates all block states for all blocks in the registry.
-	"generate_all_known_states": true,
+	"generate_all_known_states": false,
 	// Whether blocks are replaced in existing chunks.
 	"retro_gen": false,
 	/* A map of states that specifies what the "old" block state is and what its "new" block state is.
@@ -153,6 +153,46 @@ to make editing this file much easier.
 		"regions_unexplored:alpha_rose": "biomesoplenty:rose",
 		"environmental:violet": "biomesoplenty:violet",
 		"goodending:duckweed": "environmental:duckweed",
-		"regions_unexplored:duckweed": "environmental:duckweed"
+		"regions_unexplored:duckweed": "environmental:duckweed",
+		"valhelsia_structures:metal_framed_glass": "quark:framed_glass",
+		"valhelsia_structures:white_metal_framed_glass": "quark:white_framed_glass",
+		"valhelsia_structures:orange_metal_framed_glass": "quark:orange_framed_glass",
+		"valhelsia_structures:magenta_metal_framed_glass": "quark:magenta_framed_glass",
+		"valhelsia_structures:light_blue_metal_framed_glass": "quark:light_blue_framed_glass",
+		"valhelsia_structures:yellow_metal_framed_glass": "quark:yellow_framed_glass",
+		"valhelsia_structures:lime_metal_framed_glass": "quark:lime_framed_glass",
+		"valhelsia_structures:pink_metal_framed_glass": "quark:pink_framed_glass",
+		"valhelsia_structures:gray_metal_framed_glass": "quark:gray_framed_glass",
+		"valhelsia_structures:light_gray_metal_framed_glass": "quark:light_gray_framed_glass",
+		"valhelsia_structures:cyan_metal_framed_glass": "quark:cyan_framed_glass",
+		"valhelsia_structures:purple_metal_framed_glass": "quark:purple_framed_glass",
+		"valhelsia_structures:blue_metal_framed_glass": "quark:blue_framed_glass",
+		"valhelsia_structures:brown_metal_framed_glass": "quark:brown_framed_glass",
+		"valhelsia_structures:green_metal_framed_glass": "quark:green_framed_glass",
+		"valhelsia_structures:red_metal_framed_glass": "quark:red_framed_glass",
+		"valhelsia_structures:black_metal_framed_glass": "quark:black_framed_glass",
+		"valhelsia_structures:metal_framed_glass_pane": "quark:framed_glass_pane",
+		"valhelsia_structures:white_metal_framed_glass_pane": "quark:white_framed_glass_pane",
+		"valhelsia_structures:orange_metal_framed_glass_pane": "quark:orange_framed_glass_pane",
+		"valhelsia_structures:magenta_metal_framed_glass_pane": "quark:magenta_framed_glass_pane",
+		"valhelsia_structures:light_blue_metal_framed_glass_pane": "quark:light_blue_framed_glass_pane",
+		"valhelsia_structures:yellow_metal_framed_glass_pane": "quark:yellow_framed_glass_pane",
+		"valhelsia_structures:lime_metal_framed_glass_pane": "quark:lime_framed_glass_pane",
+		"valhelsia_structures:pink_metal_framed_glass_pane": "quark:pink_framed_glass_pane",
+		"valhelsia_structures:gray_metal_framed_glass_pane": "quark:gray_framed_glass_pane",
+		"valhelsia_structures:light_gray_metal_framed_glass_pane": "quark:light_gray_framed_glass_pane",
+		"valhelsia_structures:cyan_metal_framed_glass_pane": "quark:cyan_framed_glass_pane",
+		"valhelsia_structures:purple_metal_framed_glass_pane": "quark:purple_framed_glass_pane",
+		"valhelsia_structures:blue_metal_framed_glass_pane": "quark:blue_framed_glass_pane",
+		"valhelsia_structures:brown_metal_framed_glass_pane": "quark:brown_framed_glass_pane",
+		"valhelsia_structures:green_metal_framed_glass_pane": "quark:green_framed_glass_pane",
+		"valhelsia_structures:red_metal_framed_glass_pane": "quark:red_framed_glass_pane",
+		"valhelsia_structures:black_metal_framed_glass_pane": "quark:black_framed_glass_pane",
+		"valhelsia_structures:big_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:cracked_big_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:cracked_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:brazier": "piglinproliferation:stone_fire_ring",
+		"valhelsia_structures:soul_brazier": "piglinproliferation:stone_soul_fire_ring"
 	}
 }

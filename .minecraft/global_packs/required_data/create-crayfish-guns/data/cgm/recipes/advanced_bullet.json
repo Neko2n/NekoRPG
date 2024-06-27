@@ -6,7 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "count": 2,
+      "count": 1,
       "item": "cgm:advanced_bullet"
     }
   ],
@@ -69,6 +69,24 @@
         [
           {
             "tag": "forge:nuggets/zinc"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:brass_nugget"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_nugget"
+        },
+        [
+          {
+            "tag": "forge:nuggets/copper"
           }
         ]
       ],

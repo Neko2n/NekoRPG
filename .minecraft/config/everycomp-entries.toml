@@ -11,8 +11,8 @@
 			fairy_ring_mushroom = true
 
 		[types.wood_type.ecologics]
-			flowering_azalea = true
-			azalea = true
+			flowering_azalea = false
+			azalea = false
 			coconut = true
 			walnut = true
 

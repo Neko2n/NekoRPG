@@ -9,7 +9,7 @@
             "item": "minecraft:amethyst_shard"
         },
         {
-            "item": "minecraft:ender_pearl"
+            "tag": "forge:ender_pearls"
         },
         {
             "item": "irons_spellbooks:arcane_essence",

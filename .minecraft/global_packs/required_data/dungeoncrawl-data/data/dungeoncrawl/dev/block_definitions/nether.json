@@ -1,0 +1,8 @@
+{
+  "fallback": "dungeoncrawl:default",
+  "definition": {
+    "minecraft:deepslate_bricks": "solid",
+    "create:small_deepslate_bricks": "floor",
+    "minecraft:cobbled_deepslate": "normal"
+  }
+}

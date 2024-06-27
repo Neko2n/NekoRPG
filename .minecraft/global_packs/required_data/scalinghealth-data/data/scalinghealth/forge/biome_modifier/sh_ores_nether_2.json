@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "biomesoplenty:crystalline_chasm",
+  "features": [
+    "scalinghealth:heart_crystal_stone_ore_increased"
+  ],
+  "step": "underground_ores"
+}

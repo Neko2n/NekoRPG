@@ -1,7 +1,16 @@
 {
   "loot_table": "lootintegrations:maps/nether_bosses",
   "integrated_loot_tables": {
+    "dungeons_plus:chests/soul_prison/common": 1,
     "minecraft:chests/nether_bridge": 1,
-    "minecraft:chests/bastion_treasure": 1
+    "minecraft:chests/bastion_treasure": 1,
+    "betterdungeons:small_nether_dungeon/chests/common": 1,
+    "betterfortresses:chests/extra": 1,
+    "betterfortresses:chests/obsidian": 1,
+    "betterfortresses:chests/puzzle": 1,
+    "betterfortresses:chests/hall": 1,
+    "betterfortresses:chests/quarters": 1,
+    "betterfortresses:chests/storage": 1,
+    "betterfortresses:chests/worship": 1
   }
 }

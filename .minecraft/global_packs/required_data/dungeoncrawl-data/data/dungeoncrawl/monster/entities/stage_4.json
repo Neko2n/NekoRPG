@@ -1,0 +1,56 @@
+{
+  "common": [
+    {
+      "entity": "minecraft:zombie"
+    },
+    {
+      "entity": "minecraft:husk",
+      "weight": 2
+    },
+    {
+      "entity": "minecraft:skeleton"
+    },
+    {
+      "entity": "minecraft:stray",
+      "weight": 2
+    },
+    {
+      "entity": "minecraft:cave_spider",
+      "weight": 2
+    },
+    {
+      "entity": "sullysmod:bouldering_zombie"
+    },
+    {
+      "entity": "quark:wraith"
+    },
+    {
+      "entity": "quark:forgotten"
+    },
+    {
+      "entity": "variantsandventures:thicket",
+      "weight": 2
+    },
+    {
+      "entity": "variantsandventures:verdant",
+      "weight": 2
+    }
+  ],
+  "rare": [
+    {
+      "entity": "minecraft:wither_skeleton"
+    },
+    {
+      "entity": "minecraft:silverfish"
+    },
+    {
+      "entity": "creeperoverhaul:cave_creeper"
+    },
+    {
+      "entity": "endermanoverhaul:cave_enderman"
+    },
+    {
+      "entity": "creeperoverhaul:dripstone_creeper"
+    }
+  ]
+}

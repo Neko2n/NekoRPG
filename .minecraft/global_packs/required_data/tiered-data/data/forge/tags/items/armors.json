@@ -30,6 +30,10 @@
         "cataclysm:bloom_stone_pauldrons",
         "spelunkers_charm:mining_helmet",
         "spelunkers_charm:candle_helmet",
-        "mowziesmobs:wrought_helmet"
+        "mowziesmobs:wrought_helmet",
+        "eeeabsmobs:ghost_warrior_helmet",
+        "eeeabsmobs:ghost_warrior_chestplate",
+        "eeeabsmobs:ghost_warrior_leggings",
+        "eeeabsmobs:ghost_warrior_boots"
     ]
 }

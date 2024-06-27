@@ -1,0 +1,64 @@
+{
+  "melee": [
+    {
+      "item": "minecraft:golden_sword"
+    },
+    {
+      "item": "minecraft:golden_pickaxe"
+    },
+    {
+      "item": "minecraft:golden_axe"
+    },
+    {
+      "item": "minecraft:golden_shovel"
+    },
+    {
+      "item": "farmersdelight:golden_knife"
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "weight": 3
+    },
+    {
+      "item": "minecraft:iron_pickaxe",
+      "weight": 3
+    },
+    {
+      "item": "minecraft:iron_axe",
+      "weight": 3
+    },
+    {
+      "item": "minecraft:iron_shovel",
+      "weight": 3
+    },
+    {
+      "item": "farmersdelight:iron_knife",
+      "weight": 2
+    },
+    {
+      "item": "spearsmod:wooden_spear",
+      "weight": 3
+    },
+    {
+      "item": "minecraft:diamond_axe",
+      "weight": 2
+    },
+    {
+      "item": "minecraft:diamond_shovel",
+      "weight": 2
+    },
+    {
+      "item": "farmersdelight:diamond_knife",
+      "weight": 1
+    },
+    {
+      "item": "etcetera:hammer",
+      "weight": 1
+    }
+  ],
+  "ranged": [
+    {
+      "item": "minecraft:bow"
+    }
+  ]
+}

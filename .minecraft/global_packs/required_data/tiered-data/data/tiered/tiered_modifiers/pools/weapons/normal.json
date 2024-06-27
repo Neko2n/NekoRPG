@@ -2,6 +2,9 @@
   "weight": 5,
   "verifiers": [
     {
+      "id": "alexsmobs:tendon_whip"
+    },
+    {
       "tag": "minecraft:tools"
     },
     {

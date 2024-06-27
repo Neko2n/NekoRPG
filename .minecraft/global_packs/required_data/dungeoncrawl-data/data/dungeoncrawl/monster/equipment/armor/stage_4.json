@@ -1,0 +1,79 @@
+{
+  "helmet": [
+    {
+      "item": "minecraft:leather_helmet"
+    },
+    {
+      "item": "minecraft:chainmail_helmet",
+      "weight": 2
+    },
+    {
+      "item": "minecraft:diamond_helmet"
+    },
+    {
+      "item": "minecraft:golden_helmet",
+      "weight": 2
+    },
+    {
+      "item": "minecraft:iron_helmet",
+      "weight": 2
+    },
+    {
+      "item": "environmental:thief_hood"
+    }
+  ],
+  "chestplate": [
+    {
+      "item": "minecraft:leather_chestplate"
+    },
+    {
+      "item": "minecraft:chainmail_chestplate",
+      "weight": 2
+    },
+    {
+      "item": "minecraft:golden_chestplate",
+      "weight": 2
+    },
+    {
+      "item": "minecraft:iron_chestplate",
+      "weight": 2
+    }
+  ],
+  "leggings": [
+    {
+      "item": "minecraft:leather_leggings"
+    },
+    {
+      "item": "minecraft:chainmail_leggings",
+      "weight": 2
+    },
+    {
+      "item": "minecraft:golden_leggings",
+      "weight": 2
+    },
+    {
+      "item": "minecraft:iron_leggings",
+      "weight": 2
+    }
+  ],
+  "boots": [
+    {
+      "item": "minecraft:leather_boots"
+    },
+    {
+      "item": "minecraft:chainmail_boots",
+      "weight": 2
+    },
+    {
+      "item": "minecraft:diamond_boots"
+    },
+    {
+      "item": "minecraft:golden_boots",
+      "weight": 2
+    },
+    {
+      "item": "minecraft:iron_boots",
+      "weight": 2
+    }
+  ]
+}

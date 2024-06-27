@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": [
+    "scalinghealth:heart_crystal_stone_ore"
+  ],
+  "step": "underground_ores"
+}

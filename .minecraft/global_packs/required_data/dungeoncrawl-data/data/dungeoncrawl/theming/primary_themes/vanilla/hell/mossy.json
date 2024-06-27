@@ -1,0 +1,200 @@
+{
+  "id": 81,
+  "secondary_theme": [{"key": "dungeoncrawl:vanilla/catacombs/overgrown"}],
+  "decorations": [
+    {
+      "type": "vines"
+    }
+  ],
+  "theme": {
+    "generic": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "regions_unexplored:deepslate_grass_block",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate"
+        },
+        {
+          "block": "minecraft:deepslate_bricks"
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks"
+        }
+      ]
+    },
+    "solid": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:deepslate_bricks",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks"
+        },
+        {
+          "block": "minecraft:chiseled_deepslate_bricks"
+        },
+        {
+          "block": "regions_unexplored:deepslate_grass_block"
+        }
+      ]
+    },
+    "pillar": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:deepslate_bricks",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks"
+        },
+        {
+          "block": "minecraft:chiseled_deepslate_bricks"
+        }
+      ]
+    },
+    "floor": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:chiseled_deepslate_bricks"
+        },
+        {
+          "block": "regions_unexplored:deepslate_grass_block"
+        },
+        {
+          "block": "minecraft:deepslate_bricks"
+        },
+        {
+          "block": "minecraft:obsidian"
+        }
+      ]
+    },
+    "stairs": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "regions_unexplored:deepslate_grass_block_stairs",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_brick_stairs",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_stairs"
+        },
+        {
+          "block": "minecraft:deepslate_brick_stairs"
+        }
+      ]
+    },
+    "solid_stairs": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "regions_unexplored:deepslate_grass_block_stairs",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_brick_stairs",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_stairs"
+        },
+        {
+          "block": "minecraft:deepslate_brick_stairs"
+        }
+      ]
+    },
+    "material": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:deepslate_bricks",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks"
+        },
+        {
+          "block": "minecraft:chiseled_deepslate_bricks"
+        },
+        {
+          "block": "regions_unexplored:deepslate_grass_block"
+        }
+      ]
+    },
+    "slab": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "regions_unexplored:deepslate_grass_block_slab",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_brick_slab",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_slab"
+        },
+        {
+          "block": "minecraft:deepslate_brick_slab"
+        }
+      ]
+    },
+    "solid_slab": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "regions_unexplored:deepslate_grass_block_slab",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_brick_slab",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_slab"
+        },
+        {
+          "block": "minecraft:deepslate_brick_slab"
+        }
+      ]
+    },
+    "wall": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "regions_unexplored:deepslate_grass_block_wall",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_brick_wall",
+          "weight": 2
+        },
+        {
+          "block": "minecraft:deepslate_wall"
+        },
+        {
+          "block": "minecraft:deepslate_brick_wall"
+        }
+      ]
+    },
+    "fencing": {
+      "type": "block",
+      "block": "minecraft:iron_bars"
+    },
+    "fluid": {
+      "type": "block",
+      "block": "minecraft:water"
+    }
+  }
+}
