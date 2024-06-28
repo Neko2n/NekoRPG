@@ -2,14 +2,9 @@
 - Clean up mods
 - Update Abnormal's mods
 - Clean config directory
-- Integrated loot
-    - Ecologics pots
-    - Supplementaries urns
 - Ribbits trade tables
 - Enchant with mob projectile config
 - Add modded mobs to quark's monster boxes
-- Allow filling empty bottles via. create spouts with blood to get a blood vial
-- Polish jade with sandpaper
 
 # LOW-PRIORITY
 - Find replacements or updates for outdated mods

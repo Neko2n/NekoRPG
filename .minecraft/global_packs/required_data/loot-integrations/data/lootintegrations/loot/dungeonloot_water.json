@@ -10,6 +10,7 @@
     "dungeons_arise:chests/illager_galley/illager_galley_treasure": 9,
     "dungeons_arise:chests/typhon/typhon_treasure": 9,
     "philipsruins:chests/ocean_ruins_loot": 4,
-    "betteroceanmonuments:chests/upper_side_chamber": 6
+    "betteroceanmonuments:chests/upper_side_chamber": 6,
+    "structory:mood/ocean": 2
   }
 }

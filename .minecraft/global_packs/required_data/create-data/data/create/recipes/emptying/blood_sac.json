@@ -1,0 +1,14 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "alexsmobs:blood_sac"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "fluid": "biomesoplenty:blood"
+    }
+  ]
+}

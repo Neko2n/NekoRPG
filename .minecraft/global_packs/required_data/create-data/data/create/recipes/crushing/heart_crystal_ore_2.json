@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "scalinghealth:deepslate_heart_crystal_ore"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "item": "scalinghealth:heart_crystal_shard"
+    },
+    {
+      "chance": 0.5,
+      "item": "scalinghealth:heart_crystal_shard"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:cobbled_deepslate"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "scalinghealth:heart_crystal_ore"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "scalinghealth:heart_crystal_shard"
+    },
+    {
+      "chance": 0.5,
+      "item": "scalinghealth:heart_crystal_shard"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:netherrack"
+    }
+  ]
+}

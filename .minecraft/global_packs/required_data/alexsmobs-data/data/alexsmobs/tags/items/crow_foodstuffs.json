@@ -7,8 +7,8 @@
     "alexsmobs:terrapin_egg",
     "alexsmobs:caiman_egg",
     "minecraft:sugar",
+    "supplementaries:candy",
     "#forge:seeds",
-    "#dawnera:prehistoric_egg",
     "#forge:eggs"
   ]
 }

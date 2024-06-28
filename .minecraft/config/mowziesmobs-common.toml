@@ -552,7 +552,7 @@
 			max_group_size = 4
 			#Probability of a spawn attempt succeeding. 1 for normal spawning, 0 will prevent spawning. Used to make mobs extra rare.
 			#Range: 0.0 ~ 1.0
-			extra_rarity = 1.0
+			extra_rarity = 0.1
 			#Names of dimensions this mob can spawn in
 			dimensions = ["minecraft:the_nether"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
@@ -615,7 +615,7 @@
 			#Names of dimensions this mob can spawn in
 			dimensions = ["minecraft:the_nether"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
-			allowed_blocks = ["biomesoplenty:bramble"]
+			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
 			allowed_block_tags = ["minecraft:valid_spawn", "minecraft:logs", "minecraft:base_stone_nether"]
 			#Maximum height for this spawn. -65 to ignore.

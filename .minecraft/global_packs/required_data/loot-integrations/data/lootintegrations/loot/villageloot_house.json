@@ -58,6 +58,11 @@
     "subterrestrial:chests/cabin/brewing": 2,
     "subterrestrial:chests/cabin/fletching": 5,
     "subterrestrial:chests/cabin/music": 2,
-    "subterrestrial:chests/cabin/weaving": 5
+    "subterrestrial:chests/cabin/weaving": 5,
+    "structory:harvest/old_manor/common": 2,
+    "structory:harvest/manor2/loot": 2,
+    "structory:outcast/settlement": 2,
+    "structory:ruin/taiga/illager_high": 1,
+    "structory:ruin/taiga/illager_low": 1
   }
 }
