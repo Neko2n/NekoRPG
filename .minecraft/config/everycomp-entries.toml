@@ -23,12 +23,12 @@
 
 		[types.wood_type.biomesoplenty]
 			fir = true
-			redwood = true
+			redwood = false
 			mahogany = true
 			jacaranda = true
-			palm = true
-			willow = true
-			dead = true
+			palm = false
+			willow = false
+			dead = false
 			magic = true
 			umbran = true
 			hellbark = true
@@ -46,8 +46,8 @@
 			rotten = true
 
 		[types.wood_type.goodending]
-			muddy_oak = true
-			cypress = true
+			muddy_oak = false
+			cypress = false
 
 		[types.wood_type.endergetic]
 			poise = true
@@ -67,23 +67,23 @@
 			thornwood = true
 
 		[types.wood_type.regions_unexplored]
-			alpha = true
+			alpha = false
 			baobab = true
 			blackwood = true
 			blue_bioshroom = true
 			brimwood = true
 			cobalt = true
 			cypress = true
-			dead = true
+			dead = false
 			eucalyptus = true
 			green_bioshroom = true
 			joshua = true
-			kapok = true
-			larch = true
+			kapok = false
+			larch = false
 			magnolia = true
 			maple = true
 			mauve = true
-			palm = true
+			palm = false
 			pine = false
 			pink_bioshroom = true
 			redwood = true
@@ -117,7 +117,7 @@
 			redwood = false
 			mahogany = true
 			jacaranda = true
-			palm = true
+			palm = false
 			willow = false
 			dead = false
 			magic = true
@@ -126,7 +126,7 @@
 
 		[types.leaves_type.regions_unexplored]
 			bamboo = true
-			golden_larch = true
+			golden_larch = false
 			alpha = false
 			apple_oak = true
 			baobab = true
@@ -137,12 +137,12 @@
 			dead_pine = false
 			eucalyptus = true
 			flowering = true
-			kapok = true
-			larch = true
+			kapok = false
+			larch = false
 			maple = true
 			mauve = true
 			orange_maple = true
-			palm = true
+			palm = false
 			pine = false
 			blue_magnolia = true
 			pink_magnolia = true
@@ -154,7 +154,7 @@
 			silver_birch = true
 			socotra = true
 			white_magnolia = true
-			willow = true
+			willow = false
 			ashen = true
 
 		[types.leaves_type.phantasm]
@@ -164,7 +164,7 @@
 			azure = true
 
 		[types.leaves_type.goodending]
-			cypress = true
+			cypress = false
 			dense_birch = true
 			dense_dark_oak = true
 

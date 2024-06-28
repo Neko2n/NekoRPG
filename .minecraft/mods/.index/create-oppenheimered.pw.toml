@@ -1,13 +1,13 @@
-filename = 'create_oppenheimered-1.20.1-1.0.2.jar'
+filename = 'create_oppenheimered-1.0.3.jar'
 name = 'Create: Oppenheimered'
 side = 'both'
 
 [download]
-hash = 'cade89103cd0c888116d566392474c031bd913c8'
+hash = '18803cb9f6a91b8b3c333f9f6937c8837719bf97'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5155927
+file-id = 5480326
 project-id = 934958
