@@ -1,13 +1,13 @@
-filename = 'tact-1.1.6+1.20.1.jar'
+filename = 'tact-1.1.8+1.20.1.jar'
 name = 'TACT'
 side = 'both'
 
 [download]
-hash = '8a9b0ccb6d4d3655ac50d205d064e4bf398e3f0a'
+hash = 'b0be7b1a366b6252943ec95d60c2506ef74f81df'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5405998
+file-id = 5482785
 project-id = 926263
