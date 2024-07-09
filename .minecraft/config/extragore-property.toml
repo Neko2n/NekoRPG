@@ -13,14 +13,20 @@
 # - Heavy: The particle will sink to the bottom when it's underwater.
 # - Light: The particle will float up to the top of the water.
 
+# Particle State Options:
+# - Liquid: The particle will get larger during its lifetime.
+# - Solid: The particle will remain the same size all the time.
+
 # Color Settings:
 # Set an RGB color value to visually distinguish particles for various entities.
 
 # How to Use:
-# 1. Define a group with a name, including behavior, color and entities values.
+# 1. Define a group with a name, including behavior, weight, state, color and entity values.
 # 2. Example:
 #    ["Color Group Name"]
 #    behavior = Choose from "Stuck", "Bounce" or "None"
+#    weight = Choose from "Heavy" or "Light"
+#    state = Choose from "Liquid" or "Solid"
 #    color = "R,G,B"
 #    entities = ["entityID1", "entityID2"]
 # 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
@@ -40,13 +46,19 @@ entities = ["minecraft:enderman",  "endermanoverhaul:flower_fields_enderman", "e
 behavior = "Bounce"
 weight = "Heavy"
 color = "255,255,255"
-entities = ["minecraft:skeleton", "irons_spellbooks:summoned_skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:allay", "alexscaves:magnetron", "alexsmobs:bone_serpent", "alexsmobs:bone_serpent_part", "netherdepthsupgrade:wither_bonefish", "bosses_of_mass_destruction:gauntlet", "cataclysm:the_harbinger", "mowziesmobs:ferrous_wroughtnaut", "creature_compendium:netherite_forge", "alexscaves:boundroid", "alexscaves:ferrouslime", "cataclysm:netherite_monstrosity", "netherdepthsupgrade:bonefish", "alexsmobs:soul_vulture", "outer_end:sinker", "bosses_of_mass_destruction:lich", "alexscaves:teletor", "alexscaves:notor", "alexsmobs:straddler", "alexscaves:boundroid_winch", "cataclysm:ancient_remnant", "irons_spellbooks:citadel_keeper", "sullysmod:copper_golem", "alexscaves:mine_guardian", "irons_spellbooks:dead_king", "alexsmobs:skelewag", "cataclysm:the_prowler", "cataclysm:the_watcher", "savage_and_ravage:skeleton_villager", "mutantmonsters:mutant_skeleton", "cataclysm:wadjet", "cataclysm:modern_remnant", "minecraft:wither"]
+entities = ["minecraft:skeleton", "cataclysm:coral_golem", "cataclysm:coralssus", "irons_spellbooks:summoned_skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:allay", "alexscaves:magnetron", "alexsmobs:bone_serpent", "alexsmobs:bone_serpent_part", "cataclysm:the_harbinger", "mowziesmobs:ferrous_wroughtnaut", "alexscaves:boundroid", "alexscaves:ferrouslime", "netherdepthsupgrade:bonefish", "outer_end:sinker", "bosses_of_mass_destruction:lich", "alexscaves:teletor", "alexscaves:notor", "alexsmobs:straddler", "alexscaves:boundroid_winch", "cataclysm:ancient_remnant", "sullysmod:copper_golem", "irons_spellbooks:dead_king", "alexsmobs:skelewag", "cataclysm:the_prowler", "cataclysm:the_watcher", "savage_and_ravage:skeleton_villager", "mutantmonsters:mutant_skeleton", "cataclysm:wadjet", "cataclysm:kobolediator", "cataclysm:koboleton", "cataclysm:modern_remnant"]
+
+["Orange Group"]
+behavior = "Bounce"
+weight = "Heavy"
+color = "200,160,50"
+entities = ["sullysmod:copper_golem"]
 
 ["Green Group"]
 behavior = "Stuck"
 weight = "Light"
 color = "0,255,0"
-entities = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch", "mowziesmobs:naga", "mowziesmobs:foliaath", "variantsandventures:thicket", "alexscaves:gammaroach", "mowziesmobs:lantern", "alexscaves:brainiac", "sullysmod:jungle_spider", "alexscaves:nucleeper", "alexsmobs:fly", "variantsandventures:verdant", "alexscaves:radgill", "mowziesmobs:baby_foliaath", "alexsmobs:flutter", "crittersandcompanions:dragonfly", "atmospheric:cochineal", "spawn:ant", "alexsmobs:cockroach", "cataclysm:kobolediator", "variantsandventures:murk", "alexsmobs:leafcutter_ant", "neapolitan:plantain_spider"]
+entities = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch", "mowziesmobs:naga", "mowziesmobs:foliaath", "variantsandventures:thicket", "alexscaves:gammaroach", "mowziesmobs:lantern", "alexscaves:brainiac", "sullysmod:jungle_spider", "alexscaves:nucleeper", "alexsmobs:fly", "variantsandventures:verdant", "alexscaves:radgill", "mowziesmobs:baby_foliaath", "alexsmobs:flutter", "crittersandcompanions:dragonfly", "atmospheric:cochineal", "spawn:ant", "alexsmobs:cockroach", "variantsandventures:murk", "alexsmobs:leafcutter_ant", "neapolitan:plantain_spider"]
 
 ["Pink Group"]
 behavior = "Stuck"
@@ -54,17 +66,29 @@ weight = "Light"
 color = "255,0,120"
 entities = ["mobcompack:crystallineslime"]
 
+["Wither Group"]
+behavior = "Bounce"
+weight = "Heavy"
+color = "50,50,50"
+entities = ["minecraft:wither_skeleton", "netherdepthsupgrade:obsidianfish", "netherdepthsupgrade:wither_bonefish", "bosses_of_mass_destruction:gauntlet", "creature_compendium:netherite_forge", "alexsmobs:soul_vulture", "cataclysm:netherite_monstrosity", "alexscaves:mine_guardian", "irons_spellbooks:citadel_keeper", "minecraft:wither"]
+
 ["Yellow Group"]
 behavior = "Bounce"
 weight = "Heavy"
-color = "255,255,0"
-entities = ["minecraft:blaze", "minecraft:magma_cube", "netherdepthsupgrade:searing_cod", "alexscaves:luxtructosaurus", "alexsmobs:sunbird", "netherdepthsupgrade:blazefish", "cataclysm:ignis", "alexsmobs:warped_toad", "cataclysm:ignited_revenant", "netherdepthsupgrade:magmacubefish", "alexsmobs:laviathan", "cataclysm:ignited_berserker", "minecraft:strider", "alexsmobs:banana_slug", "alexsmobs:guster"]
+color = "255,220,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "netherdepthsupgrade:searing_cod", "alexscaves:luxtructosaurus", "alexsmobs:sunbird", "netherdepthsupgrade:blazefish", "cataclysm:ignis", "alexsmobs:warped_toad", "cataclysm:ignited_revenant", "netherdepthsupgrade:magmacubefish", "alexsmobs:laviathan", "cataclysm:ignited_berserker", "minecraft:strider", "alexsmobs:banana_slug"]
+
+["Black Group"]
+behavior = "Stuck"
+weight = "Heavy"
+color = "15,15,15"
+entities = ["minecraft:warden", "alexsmobs:skreecher", "alexscaves:gloomoth", "alexscaves:forsaken", "alexscaves:watcher"]
 
 ["Blue Group"]
 behavior = "None"
 weight = "Light"
 color = "0,0,255"
-entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid", "cataclysm:deepling_warlock", "cataclysm:deepling_brute", "cataclysm:deepling", "cataclysm:deepling_angler", "cataclysm:deepling_priest", "upgrade_aquatic:immortal_jellyfish", "alexsmobs:giant_squid", "alexsmobs:comb_jelly", "cataclysm:coral_golem", "upgrade_aquatic:lionfish", "alexsmobs:warped_mosco", "alexsmobs:mimic_octopus", "upgrade_aquatic:cassiopea_jellyfish", "outer_end:spectrafly", "alexscaves:hullbreaker", "upgrade_aquatic:box_jellyfish", "cataclysm:coralssus"]
+entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid", "cataclysm:deepling_warlock", "cataclysm:deepling_brute", "cataclysm:deepling", "cataclysm:deepling_angler", "cataclysm:deepling_priest", "upgrade_aquatic:immortal_jellyfish", "alexsmobs:giant_squid", "alexsmobs:comb_jelly", "alexsmobs:warped_mosco", "alexsmobs:mimic_octopus", "upgrade_aquatic:cassiopea_jellyfish", "outer_end:spectrafly", "alexscaves:hullbreaker", "upgrade_aquatic:box_jellyfish"]
 
 # Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
 "255,0,0" = [
@@ -76,7 +100,6 @@ entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian",
     "minecraft:horse",
     "minecraft:llama",
     "alexscaves:underzealot",
-    "alexsmobs:skreecher",
     "minecraft:tadpole",
     "environmental:yak",
     "alexscaves:corrodent",
@@ -104,10 +127,9 @@ entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian",
     "alexscaves:deep_one",
     "mobcompack:jawbreaker",
     "alexsmobs:crow",
+    "alexsmobs:guster",
     "eeeabsmobs:corpse_to_player",
     "irons_spellbooks:magehunter_vindicator",
-    "netherdepthsupgrade:obsidianfish",
-    "cataclysm:koboleton",
     "minecraft:chicken",
     "minecraft:zombie",
     "alexsmobs:emu",
@@ -137,7 +159,6 @@ entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian",
     "creeperoverhaul:bamboo_creeper",
     "minecraft:cat",
     "minecraft:tropical_fish",
-    "alexscaves:gloomoth",
     "spawn:tuna",
     "alexscaves:vesper",
     "alexscaves:lanternfish",
@@ -216,7 +237,6 @@ entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian",
     "spelunkers_charm:sound_entity",
     "alexsmobs:gazelle",
     "minecraft:sniffer",
-    "alexscaves:watcher",
     "mowziesmobs:umvuthana_follower_player",
     "alexsmobs:seal",
     "environmental:deer",
@@ -292,7 +312,6 @@ entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian",
     "eeeabsmobs:immortal_knight",
     "galosphere:preserved",
     "alexsmobs:komodo_dragon",
-    "alexscaves:forsaken",
     "quark:stoneling",
     "irons_spellbooks:summoned_polar_bear",
     "alexsmobs:crocodile",
@@ -329,6 +348,7 @@ entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian",
     "mutantmonsters:spider_pig",
     "mowziesmobs:umvuthi",
     "alexsmobs:toucan",
+    "upgrade_aquatic:lionfish",
     "habitat:passerine",
     "raided:inquisitor",
     "irons_spellbooks:pyromancer",
