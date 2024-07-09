@@ -10,11 +10,11 @@ balanced_food_mechanics = false
 #Sprinting and attacking no longer interfere with each other, making critical hits possible at all times.
 critical_hits_while_sprinting = true
 #Expand all entity hitboxes by 10%, making hitting a target possible from a slightly greater range and with much increased accuracy.
-inflate_hitboxes = true
+inflate_hitboxes = false
 #Attacking will no longer stop the player from sprinting. Very useful when swimming, so you can fight underwater without being stopped on every hit.
 sprint_attacks = true
 #Disables damage immunity when hit by a projectile. Makes it possible for entities to be hit by multiple projectiles at once (useful for the multishot enchantment).
-no_projectile_immunity = true
+no_projectile_immunity = false
 
 [shield]
 	#Shields knock back attackers (see MC-147694).
@@ -64,7 +64,7 @@ no_projectile_immunity = true
 
 [attributes]
 	#Makes it so that swords, hoes, and tridents have an increased reach when attacking.
-	additional_attack_reach = true
+	additional_attack_reach = false
 	#Overrides for setting and balancing attack reach values of items.
 	#Takes precedence over any changes made by "additional_attack_reach" option.
 	#As with all items, this value is added on top of the default attack reach of the player (which is 3.0 by default, and has a hard cap at 6.0).

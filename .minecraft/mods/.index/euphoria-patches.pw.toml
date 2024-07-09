@@ -1,13 +1,13 @@
-filename = 'EuphoriaPatcher-0.3.3-forge.jar'
+filename = 'EuphoriaPatcher-0.3.4-forge.jar'
 name = 'Euphoria Patcher'
 side = 'both'
 
 [download]
-hash = '1160ebb0d1c68bdfc1227c3aa158f4c13baca2d6'
+hash = 'e89826307c2f35daf5499bd69b07bfef2c3ddfba'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5407439
+file-id = 5511963
 project-id = 915902

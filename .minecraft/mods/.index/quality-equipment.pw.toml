@@ -1,0 +1,13 @@
+filename = 'quality_equipment-1.5-forge_neoforge-1.20.1.jar'
+name = 'Quality Equipment'
+side = 'both'
+
+[download]
+hash = 'ca1b1501b5cf9d3890fb955dabf31105db25b31f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5497622
+project-id = 667174

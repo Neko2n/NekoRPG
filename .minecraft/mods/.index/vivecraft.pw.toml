@@ -3,11 +3,11 @@ name = 'Vivecraft'
 side = 'both'
 
 [download]
-hash = '6df5f6939fa57528c6da39fd7ab9f4adda15e0742c4109c5d7a8f99e5f3b447512244bd7b07d42fb153f96e1c6e3e50c2eb0eb6d8393622c9ced187d574a957b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/wGoQDPN5/versions/c1FDoTSa/vivecraft-1.20.1-1.1.9-forge.jar'
+hash = '25083389f1562a7420f5e690b73a640c0281248f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'wGoQDPN5'
-version = 'c1FDoTSa'
+[update.curseforge]
+file-id = 5293383
+project-id = 667903

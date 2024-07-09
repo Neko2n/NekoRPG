@@ -13,12 +13,6 @@
 	#Range: -0.5 ~ 1.0
 	health_pitch_amount = 0.05
 	#
-	#How much the battle music changes in pitch during the second phase of the Ender Dragon fight    
-	#    > Values below zero shift the pitch down, above zero shift the pitch up  
-	#    > Set to zero to disable     
-	#Range: -0.5 ~ 1.0
-	dragon_pitch_amount = 0.05
-	#
 	#At what HP should the battle music shift in pitch
 	#Range: > 1
 	health_pitch_thresh = 6
@@ -40,4 +34,10 @@
 	#A generic battle song to play for any other undefined hostile entity      
 	#    > Leave blank for no default battle music       
 	default_song = ""
+	#
+	#How much the battle music changes in pitch during the second phases of the Ender Dragon and Wither fights    
+	#    > Values below zero shift the pitch down, above zero shift the pitch up  
+	#    > Set to zero to disable     
+	#Range: -0.5 ~ 1.0
+	phase2_pitch_amount = 0.05
 

@@ -1,0 +1,13 @@
+filename = 'configurableiframes-1.0.0.jar'
+name = 'Configurable IFrames'
+side = 'both'
+
+[download]
+hash = '5182b8ef8b9a23926d884082d75b3e329adeb64b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5096139
+project-id = 972979

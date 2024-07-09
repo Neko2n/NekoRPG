@@ -5,6 +5,7 @@
 - Ribbits trade tables
 - Enchant with mob projectile config
 - Add modded mobs to quark's monster boxes
+- Quality Tools
 
 # LOW-PRIORITY
 - Find replacements or updates for outdated mods
