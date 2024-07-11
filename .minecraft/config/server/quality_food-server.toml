@@ -30,8 +30,12 @@ farmland_config = []
 	#By how much the saturation will get multiplied for
 	#Range: 1.0 ~ 100.0
 	saturation_multiplier = 1.2
-	#List of effects this rarity can grant (<effect>;<chance>;<duration>;<amplifier>;<probability>)
+	#List of effects this rarity can grant (the item can be a tag) (<item>;<effect>;<chance>;<duration>;<amplifier>;<probability>)
 	effect_list = []
+	#Additive bonus to the chance an ingredient gives (when crafting through a crafting table)
+	#This value is divided by the amount of ingredient types (which can have quality) (i.e. 1x diamond & 1x no quality -> total bonus of 0.35 (if diamond provides a bonus of 0.7))
+	#Range: 0.0 ~ 1.0
+	crating_bonus = 0.15000000596046448
 
 [GOLD]
 	#The chance for a quality to occur (with no luck or other bonus)
@@ -52,8 +56,12 @@ farmland_config = []
 	#By how much the saturation will get multiplied for
 	#Range: 1.0 ~ 100.0
 	saturation_multiplier = 1.5
-	#List of effects this rarity can grant (<effect>;<chance>;<duration>;<amplifier>;<probability>)
+	#List of effects this rarity can grant (the item can be a tag) (<item>;<effect>;<chance>;<duration>;<amplifier>;<probability>)
 	effect_list = []
+	#Additive bonus to the chance an ingredient gives (when crafting through a crafting table)
+	#This value is divided by the amount of ingredient types (which can have quality) (i.e. 1x diamond & 1x no quality -> total bonus of 0.35 (if diamond provides a bonus of 0.7))
+	#Range: 0.0 ~ 1.0
+	crating_bonus = 0.4000000059604645
 
 [DIAMOND]
 	#The chance for a quality to occur (with no luck or other bonus)
@@ -74,10 +82,22 @@ farmland_config = []
 	#By how much the saturation will get multiplied for
 	#Range: 1.0 ~ 100.0
 	saturation_multiplier = 1.8
-	#List of effects this rarity can grant (<effect>;<chance>;<duration>;<amplifier>;<probability>)
+	#List of effects this rarity can grant (the item can be a tag) (<item>;<effect>;<chance>;<duration>;<amplifier>;<probability>)
 	effect_list = []
+	#Additive bonus to the chance an ingredient gives (when crafting through a crafting table)
+	#This value is divided by the amount of ingredient types (which can have quality) (i.e. 1x diamond & 1x no quality -> total bonus of 0.35 (if diamond provides a bonus of 0.7))
+	#Range: 0.0 ~ 1.0
+	crating_bonus = 0.699999988079071
 
 [Compatibility]
 	#Handle Quark harvest & replant automatically (if you have custom behaviour configured regarding the quality block state turn this off)
 	quark_handle_config = true
+
+[Crafting]
+	#Define recipes (namespace:path) which should not result in quality being applied (e.g. when the items can be converted back and forth)
+	no_quality_recipes = ["minecraft:hay_block", "minecraft:wheat", "quark:building/crafting/compressed/apple_crate", "quark:building/crafting/compressed/apple_crate_uncompress", "quark:building/crafting/compressed/beetroot_crate", "quark:building/crafting/compressed/beetroot_crate_uncompress", "quark:building/crafting/compressed/berry_sack", "quark:building/crafting/compressed/berry_sack_uncompress", "quark:building/crafting/compressed/carrot_crate", "quark:building/crafting/compressed/carrot_crate_uncompress", "quark:building/crafting/compressed/chorus_fruit_block", "quark:building/crafting/compressed/chorus_fruit_block_uncompress", "quark:building/crafting/compressed/cocoa_bean_sack", "quark:building/crafting/compressed/cocoa_bean_sack_uncompress", "quark:building/crafting/compressed/glowberry_sack", "quark:building/crafting/compressed/glowberry_sack_uncompress", "quark:building/crafting/compressed/golden_apple_crate", "quark:building/crafting/compressed/golden_apple_crate_uncompress", "quark:building/crafting/compressed/golden_carrot_crate", "quark:building/crafting/compressed/golden_carrot_crate_uncompress", "quark:building/crafting/compressed/potato_crate", "quark:building/crafting/compressed/potato_crate_uncompress", "quark:building/crafting/compressed/sugar_cane_block", "quark:building/crafting/compressed/sugar_cane_block_uncompress", "farmersdelight:carrot_crate", "farmersdelight:carrot_from_crate", "farmersdelight:potato_crate", "farmersdelight:potato_from_crate", "farmersdelight:beetroot_crate", "farmersdelight:beetroot_from_crate", "farmersdelight:cabbage_crate", "farmersdelight:cabbage", "farmersdelight:tomato_crate", "farmersdelight:tomato", "farmersdelight:onion_crate", "farmersdelight:onion", "farmersdelight:rice_bale", "farmersdelight:rice_panicle", "farmersdelight:rice_bag", "farmersdelight:rice_from_bag", "vinery:white_grape_crate", "vinery:white_grape", "vinery:red_grape_crate", "vinery:red_grape", "vinery:cherry_crate", "vinery:cherries", "vinery:apple_crate", "vinery:apples", "supplementaries:sugar_cube", "supplementaries:sugar_cube_uncrafting"]
+	#Define recipes (namespace:path) which should result in the quality should be always be applied to the result (only if all ingredients have the same quality)
+	retain_quality_recipes = ["minecraft:pumpkin_seeds", "minecraft:melon_seeds", "minecraft:sugar_from_sugar_cane", "minecraft:sugar_from_honey_bottle", "farmersdelight:tomato_seeds", "farmersdelight:rice", "vinery:seed_from_red_grape", "vinery:seed_from_white_grape", "vinery:seed_from_red_savanna_grape", "vinery:seed_from_white_savanna_grape", "vinery:seed_from_red_taiga_grape", "vinery:seed_from_white_taiga_grape", "vinery:seed_from_red_jungle_grape", "vinery:seed_from_white_jungle_grape"]
+	#Defines whether (de)compacting should be handled automatically (in terms of retaining quality)
+	handle_compacting = true
 

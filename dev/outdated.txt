@@ -1,11 +1,9 @@
-| Immersive Structures:Nether edition
 ?| The Endergetic Expansion
 | Dolt Compat
 | Peculiars
 | Unstructured [FORGE]
 ?| Environmental
 ?| Atmospheric
-| Create Compats (by NoCube)
 | Apocalyptic Fortress
 ?| MrCrayfish's Gun Mod
 | Pyromancer

@@ -217,6 +217,7 @@
     "structory:mood/mushroom": 2,
     "structory:mood/ocean": 2,
     "structory:mood/snowy": 3,
-    "structory:mood/taiga": 2
+    "structory:mood/taiga": 2,
+    "quark:misc/monster_box": 1
   }
 }

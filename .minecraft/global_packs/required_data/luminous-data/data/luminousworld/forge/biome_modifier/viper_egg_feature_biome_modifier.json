@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cold_ocean",
+    "deep_cold_ocean",
+    "frozen_ocean"
+  ],
+  "features": "luminousworld:viper_egg_feature",
+  "step": "surface_structures"
+}

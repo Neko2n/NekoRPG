@@ -13,7 +13,7 @@ allowPoisonCloudProjectiles = ["minecraft:arrow", "minecraft:snowball"]
 #Allow the multi shot for projectile. Use the full name(eg: minecraft:arrow.
 allowMultiShotProjectiles = ["minecraft:arrow", "minecraft:snowball"]
 #Whitelist the projectile mob enchant for mob. Use the full name(eg: minecraft:zombie.
-whitelistShootEntity = ["minecraft:skeleton", "minecraft:pillager", "minecraft:shulker", "minecraft:llama", "minecraft:piglin", "minecraft:snow_golem", "minecraft:player"]
+whitelistShootEntity = ["minecraft:skeleton", "minecraft:pillager", "minecraft:shulker", "minecraft:llama", "minecraft:piglin", "minecraft:snow_golem", "minecraft:player", "variantsandventures:verdant", "variantsandventures:murk", "mutantmonsters:mutant_skeleton", "quark:forgotten", "luminousworld:hollow"]
 #Set the MobEnchant on the EnderDragon. If you want more harder fight. should set it! eg: enchantwithmob:thorn.
 "Buffed Dragon" = []
 #Enable the the spawning of enchanted animal mobs. [true / false]

@@ -3,11 +3,11 @@ name = "Archer's Paradox"
 side = 'both'
 
 [download]
-hash = '3ac67b4dfbd2f292d668577e522a1b0ccaa688df85ba42f580f40cee473dfa1ed93570416dc2501ffff76cd4d2bb9e7aae9f679082980b771a4653a4c15b2c13'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/euzGeN6k/versions/mucZ9uPP/archers_paradox-1.20.1-5.0.0.17.jar'
+hash = '09991b139e2ee89c55f1e14385329ef41776870f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'euzGeN6k'
-version = 'mucZ9uPP'
+[update.curseforge]
+file-id = 4970684
+project-id = 353399
