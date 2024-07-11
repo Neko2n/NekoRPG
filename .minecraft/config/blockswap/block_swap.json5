@@ -73,19 +73,12 @@
 	],
 	
 	"swapper": {
-		//"goodending:muddy_oak_log" : "minecraft:oak_log",
-		//"goodending:stripped_muddy_oak_log" : "minecraft:stripped_oak_log",
-		//"goodending:muddy_oak_wood" : "minecraft:oak_wood",
 		"regions_unexplored:larch_log" : "atmospheric:aspen_log",
 		"regions_unexplored:stripped_larch_log" : "atmospheric:stripped_aspen_log",
 		"regions_unexplored:larch_wood" : "atmospheric:aspen_wood",
 		"regions_unexplored:larch_branch": "everycomp:ru/atmospheric/aspen_branch",
 		"regions_unexplored:larch_leaves" : "atmospheric:green_aspen_leaves",
 		"regions_unexplored:golden_larch_leaves" : "atmospheric:aspen_leaves",
-		//"goodending:cypress_log" : "regions_unexplored:cypress_log",
-		//"goodending:stripped_cypress_log" : "regions_unexplored:stripped_cypress_log",
-		//"goodending:cypress_wood" : "regions_unexplored:cypress_wood",
-		//"goodending:cypress_leaves" : "regions_unexplored:cypress_leaves",
 		"regions_unexplored:kapok_log" : "regions_unexplored:cypress_log",
 		"regions_unexplored:stripped_kapok_log" : "regions_unexplored:stripped_cypress_log",
 		"regions_unexplored:kapok_wood" : "regions_unexplored:cypress_wood",
@@ -141,10 +134,6 @@
 		"supplementaries:wild_flax": "minecraft:air",
 		"supplementaries:flax_block": "farmersdelight:straw_bale",
 		"biomesoplenty:huge_lily_pad": "environmental:large_lily_pad",
-		//"goodending:large_lily_pad": "minecraft:air",
-		//"goodending:purple_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
-		//"goodending:pink_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
-		//"goodending:yellow_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
 		"regions_unexplored:spanish_moss": "biomesoplenty:spanish_moss",
 		"regions_unexplored:spanish_moss_plant": "biomesoplenty:spanish_moss_plant",
 		"regions_unexplored:hibiscus": "environmental:orange_hibiscus",
@@ -160,8 +149,20 @@
 		"immersive_weathering:frosty_grass": "regions_unexplored:frozen_grass",
 		"regions_unexplored:alpha_rose": "biomesoplenty:rose",
 		"environmental:violet": "biomesoplenty:violet",
-		//"goodending:duckweed": "environmental:duckweed",
 		"regions_unexplored:duckweed": "environmental:duckweed",
+		//
+		//"goodending:cypress_log" : "regions_unexplored:cypress_log",
+		//"goodending:stripped_cypress_log" : "regions_unexplored:stripped_cypress_log",
+		//"goodending:cypress_wood" : "regions_unexplored:cypress_wood",
+		//"goodending:cypress_leaves" : "regions_unexplored:cypress_leaves",
+		//"goodending:muddy_oak_log" : "minecraft:oak_log",
+		//"goodending:stripped_muddy_oak_log" : "minecraft:stripped_oak_log",
+		//"goodending:muddy_oak_wood" : "minecraft:oak_wood",
+		//"goodending:large_lily_pad": "minecraft:air",
+		//"goodending:purple_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
+		//"goodending:pink_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
+		//"goodending:yellow_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
+		//"goodending:duckweed": "environmental:duckweed",
 		//
 		"valhelsia_structures:white_sleeping_bag": "upgrade_aquatic:white_bedroll",
 		"valhelsia_structures:orange_sleeping_bag": "upgrade_aquatic:orange_bedroll",
@@ -255,8 +256,8 @@
 		"valhelsia_structures:brazier": "piglinproliferation:stone_fire_ring",
 		"valhelsia_structures:soul_brazier": "piglinproliferation:stone_soul_fire_ring",
 		//
-		"luminousworld:groundpebbles_3": "spelunkers_charm:rock_pile_1",
-		"luminousworld:groundpebbles_2": "spelunkers_charm:rock_pile_2",
-		"luminousworld:groundpebbles_1": "spelunkers_charm:rock_pile_3"
+		//"luminousworld:groundpebbles_3": "spelunkers_charm:rock_pile_1",
+		//"luminousworld:groundpebbles_2": "spelunkers_charm:rock_pile_2",
+		//"luminousworld:groundpebbles_1": "spelunkers_charm:rock_pile_3"
 	}
 }

@@ -83,7 +83,7 @@ behavior = "Bounce"
 weight = "Heavy"
 state = "Solid"
 color = "50,50,50"
-entities = ["minecraft:wither_skeleton", "luminousworld:treant", "netherdepthsupgrade:obsidianfish", "netherdepthsupgrade:wither_bonefish", "bosses_of_mass_destruction:gauntlet", "creature_compendium:netherite_forge", "alexsmobs:soul_vulture", "cataclysm:netherite_monstrosity", "alexscaves:mine_guardian", "irons_spellbooks:citadel_keeper", "minecraft:wither"]
+entities = ["minecraft:wither_skeleton", "netherdepthsupgrade:obsidianfish", "netherdepthsupgrade:wither_bonefish", "bosses_of_mass_destruction:gauntlet", "creature_compendium:netherite_forge", "alexsmobs:soul_vulture", "cataclysm:netherite_monstrosity", "alexscaves:mine_guardian", "irons_spellbooks:citadel_keeper", "minecraft:wither"]
 
 ["Yellow Group"]
 behavior = "Bounce"

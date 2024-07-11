@@ -7,7 +7,7 @@
 	#Enable blood particle effect for both players and mobs, overriding other settings.
 	Both = true
 	#Entity list which will be blacklisted from getting blood particle effect.
-	Blacklisted_Entity = ["minecraft:ender_dragon", "luminousworld:enderfly", "luminousworld:chorus_morpho_butterfly", "luminousworld:crimson_butterfly", "luminousworld:glowstonebutterfly", "luminousworld:soulbutterfly", "luminousworld:mourning_cloak", "luminousworld:ringlet", "luminousworld:charaxes", "luminousworld:orangetip", "luminousworld:littlewood", "luminousworld:zebra_longwing", "luminousworld:rusty", "luminousworld:emerald_swallowtail", "luminousworld:white_hairstreak", "luminousworld:hairstreak", "luminousworld:buckeye", "luminousworld:yellow_swallowtail", "luminousworld:blue_monarch", "luminousworld:spring_azure", "luminousworld:swallowtail", "luminousworld:monarch", "alexsmobs:guster", "endermanoverhaul:spirit", "galosphere:spectre", "quark:wraith", "irons_spellbooks:summoned_vex", "minecraft:vex", "alexsmobs:void_worm", "alexsmobs:void_worm_part", "alexsmobs:spectre", "phantasm:crystie", "goodending:firefly_swarm", "minecraft:allay"]
+	Blacklisted_Entity = ["minecraft:ender_dragon", "alexsmobs:guster", "endermanoverhaul:spirit", "galosphere:spectre", "quark:wraith", "irons_spellbooks:summoned_vex", "minecraft:vex", "alexsmobs:void_worm", "alexsmobs:void_worm_part", "alexsmobs:spectre", "phantasm:crystie", "goodending:firefly_swarm", "minecraft:allay"]
 
 ["Blood Particle Configuration"]
 	#Max size value of the particle when hitting small entities.
