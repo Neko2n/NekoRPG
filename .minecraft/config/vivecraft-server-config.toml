@@ -3,7 +3,7 @@
 	#will print clients that connect with vivecraft, and what version they are using, to the log.
 	debug = false
 	#will check for a newer version and alert any OP when they login to the server.
-	checkForUpdate = true
+	checkForUpdate = false
 	#What updates to check for.
 	# r: Release, b: Beta, a: Alpha
 	checkForUpdateType = "r"
@@ -108,13 +108,13 @@
 	limitedSurvival = true
 	#Maximum blocks players can teleport up. Set to 0 to disable.
 	# default: 4, min: 1, max: 16
-	upLimit = 4
+	upLimit = 1
 	#Maximum blocks players can teleport down. Set to 0 to disable.
 	# default: 4, min: 1, max: 16
 	downLimit = 4
 	#Maximum blocks players can teleport horizontally. Set to 0 to disable.
 	# default: 16, min: 1, max: 32
-	horizontalLimit = 16
+	horizontalLimit = 4
 
 #World scale settings
 [worldScale]

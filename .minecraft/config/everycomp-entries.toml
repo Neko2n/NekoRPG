@@ -45,10 +45,6 @@
 		[types.wood_type.spawn]
 			rotten = true
 
-		[types.wood_type.goodending]
-			muddy_oak = false
-			cypress = false
-
 		[types.wood_type.endergetic]
 			poise = true
 
@@ -163,11 +159,6 @@
 		[types.leaves_type.outer_end]
 			azure = true
 
-		[types.leaves_type.goodending]
-			cypress = false
-			dense_birch = true
-			dense_dark_oak = true
-
 		[types.leaves_type.ecologics]
 			coconut = true
 			walnut = true
@@ -211,9 +202,6 @@
 			orange_blossom = true
 			yellow_blossom = true
 			red_blossom = true
-
-		[types.leaves_type.luminousworld]
-			yellow_birch = true
 
 	[types.cake]
 

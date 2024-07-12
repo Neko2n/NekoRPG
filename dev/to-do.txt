@@ -1,12 +1,7 @@
 # TO-DO
-- Clean up mods
-- Update Abnormal's mods
-- Clean config directory
-- Ribbits trade tables
-- Enchant with mob projectile config
-- Fix shields
+- 
 
 # LOW-PRIORITY
-- Find replacements or updates for outdated mods
 - Disable mutant monsters chemical X brewing recipes
 - Allow clicking on blood with an empty bottle to get a blood vial
+- 
