@@ -1,6 +1,6 @@
 filename = 'battlemusic-1.20.1-1.1.0.jar'
 name = 'Battle Music'
-side = 'client'
+side = 'both'
 
 [download]
 hash = '1acbf0d88fb192a940c115c7b2a17faa3efe2092ad98530206927cf99ef26db55df5b05a41788380a575bd4613f37f832a0866e8fab3a8166d735cce447375dd'
