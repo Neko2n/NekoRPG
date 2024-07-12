@@ -7,22 +7,23 @@
                 "type": "minecraft:item",
                 "functions": [
                     {
-                        "function": "minecraft:exploration_map",
-                        "destination": "lootintegrations:nether_boss",
-                        "zoom": 2,
-                        "decoration": "target_x",
-                        "skip_existing_chunks": true
-                    },
-                    { 
-                        "function": "minecraft:set_name", 
-                        "name": {
-                            "translate": "Charred Map", 
-                            "underlined": true 
-                        } 
-                    } 
+                        "function": "minecraft:set_nbt",
+                        "tag": "{furledMapData:{destination:\"cataclysm:burning_arena\",description:'{\"translate\":\"[Infernal Arena]\"}'}}"
+                    }
                 ],
-                "name": "minecraft:map",
-                "weight": 10
+                "name": "irons_spellbooks:furled_map",
+                "weight": 4
+            },
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:set_nbt",
+                        "tag": "{furledMapData:{destination:\"cataclysm:soul_black_smith\",description:'{\"translate\":\"[Soul Forge]\"}'}}"
+                    }
+                ],
+                "name": "irons_spellbooks:furled_map",
+                "weight": 6
             },
             {
                 "type": "empty",

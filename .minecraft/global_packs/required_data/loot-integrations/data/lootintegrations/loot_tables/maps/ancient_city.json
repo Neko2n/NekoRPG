@@ -1,32 +1,23 @@
 {
     "pools": [{
+        "name": "map_pool",
         "rolls": 1,
         "entries": [
             {
                 "type": "minecraft:item",
                 "functions": [
                     {
-                        "function": "minecraft:exploration_map",
-                        "destination": "lootintegrations:ancient_city",
-                        "zoom": 2,
-                        "decoration": "target_x",
-                        "skip_existing_chunks": true
-                    },
-                    { 
-                        "function": "minecraft:set_name", 
-                        "name": {
-                            "translate": "Ancient Map", 
-                            "underlined": true 
-                        } 
-                    } 
+                        "function": "minecraft:set_nbt",
+                        "tag": "{furledMapData:{destination:\"minecraft:ancient_city\",description:'{\"translate\":\"[Ancient City]\"}'}}"
+                    }
                 ],
-                "name": "minecraft:map",
-                "weight": 1
+                "name": "irons_spellbooks:furled_map",
+                "weight": 8
             },
             {
                 "type": "empty",
-                "weight": 10
+                "weight": 92
             }
         ]
     }]
-  }
+}

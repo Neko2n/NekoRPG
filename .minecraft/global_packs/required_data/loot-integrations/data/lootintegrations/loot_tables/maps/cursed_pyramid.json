@@ -7,21 +7,11 @@
                 "type": "minecraft:item",
                 "functions": [
                     {
-                        "function": "minecraft:exploration_map",
-                        "destination": "lootintegrations:cursed_pyramid",
-                        "zoom": 2,
-                        "decoration": "target_x",
-                        "skip_existing_chunks": false
-                    },
-                    { 
-                        "function": "minecraft:set_name", 
-                        "name": {
-                            "translate": "Cursed Map", 
-                            "underlined": true 
-                        } 
-                    } 
+                        "function": "minecraft:set_nbt",
+                        "tag": "{furledMapData:{destination:\"cataclysm:cursed_pyramid\",description:'{\"translate\":\"[Cursed Pyramid]\"}'}}"
+                    }
                 ],
-                "name": "minecraft:map",
+                "name": "irons_spellbooks:furled_map",
                 "weight": 10
             },
             {

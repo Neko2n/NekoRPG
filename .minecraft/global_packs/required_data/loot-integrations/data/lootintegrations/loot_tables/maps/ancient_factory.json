@@ -7,21 +7,11 @@
                 "type": "minecraft:item",
                 "functions": [
                     {
-                        "function": "minecraft:exploration_map",
-                        "destination": "lootintegrations:ancient_factory",
-                        "zoom": 2,
-                        "decoration": "target_x",
-                        "skip_existing_chunks": false
-                    },
-                    { 
-                        "function": "minecraft:set_name", 
-                        "name": {
-                            "translate": "Withered Map", 
-                            "underlined": true 
-                        } 
-                    } 
+                        "function": "minecraft:set_nbt",
+                        "tag": "{furledMapData:{destination:\"cataclysm:ancient_factory\",description:'{\"translate\":\"[Forgotten Factory]\"}'}}"
+                    }
                 ],
-                "name": "minecraft:map",
+                "name": "irons_spellbooks:furled_map",
                 "weight": 4
             },
             {
