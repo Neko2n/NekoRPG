@@ -1,0 +1,363 @@
+# ExtraGore Particle Group Configuration
+# ------------------------------------------------------
+# This file enables the creation of custom blood particle properties for various entities.
+# Begin by uniquely naming each property group to effectively manage different settings.
+
+# Particle Behavior Options:
+# - Bounce: The particle will bounce off surfaces like a solid object.
+# - Stick: The particle will stick to walls and other surfaces.
+# - Magic: Some particles will fall to the ground while the majority will fly up to the sky.
+# - None: The particle won't have any special effects.
+
+# Particle Weight Options:
+# - Heavy: The particle will sink to the bottom when it's underwater.
+# - Light: The particle will float up to the top of the water.
+
+# Particle State Options:
+# - Liquid: The particle will get larger during its lifetime.
+# - Solid: The particle will remain the same size all the time.
+
+# Color Settings:
+# Set an RGB color value to visually distinguish particles for various entities.
+
+# How to Use:
+# 1. Define a group with a name, including behavior, weight, state, color and entity values.
+# 2. Example:
+#    ["Color Group Name"]
+#    behavior = Choose from "Stuck", "Bounce" or "None"
+#    weight = Choose from "Heavy" or "Light"
+#    state = Choose from "Liquid" or "Solid"
+#    color = "R,G,B"
+#    entities = ["entityID1", "entityID2"]
+# 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
+# 4. Add your custom color groups under an already predefined group, except for the red one.
+# 5. Ensure each color group has a unique name and is properly structured.
+
+# Note: Incorrectly formatted lines or unrecognized entity IDs will be ignored.
+# ------------------------------------------------------
+
+["Violet Group"]
+behavior = "Magic"
+weight = "Light"
+state = "Liquid"
+color = "128,0,128"
+entities = ["minecraft:enderman", "irons_spellbooks:spectral_steed", "endermanoverhaul:flower_fields_enderman", "endermanoverhaul:desert_enderman", "endermanoverhaul:snowy_enderman", "endermanoverhaul:nether_wastes_enderman", "endermanoverhaul:dark_oak_enderman", "endermanoverhaul:savanna_enderman", "endermanoverhaul:swamp_enderman", "endermanoverhaul:coral_enderman", "endermanoverhaul:end_enderman", "endermanoverhaul:soulsand_valley_enderman", "endermanoverhaul:scarab", "endermanoverhaul:crimson_forest_enderman", "endermanoverhaul:windswept_hills_enderman", "endermanoverhaul:end_islands_enderman", "endermanoverhaul:warped_forest_enderman", "endermanoverhaul:badlands_enderman", "endermanoverhaul:pet_enderman", "endermanoverhaul:cave_enderman", "endermanoverhaul:mushroom_fields_enderman", "endermanoverhaul:ice_spikes_enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:silverfish", "minecraft:warden", "minecraft:ender_dragon", "alexsmobs:endergrade", "endergetic:purpoid", "creature_compendium:unseen_grasp", "alexsmobs:cosmic_cod", "alexsmobs:enderiophage", "bosses_of_mass_destruction:void_blossom", "cataclysm:the_leviathan", "cataclysm:the_baby_leviathan", "cataclysm:endermaptera", "endergetic:booflo_adolescent", "outer_end:purpur_golem", "outer_end:entombed", "outer_end:himmelite", "bosses_of_mass_destruction:obsidilith", "endergetic:glider_eetle", "alexsmobs:mimicube", "alexsmobs:farseer", "outer_end:stalker", "alexsmobs:cosmaw", "endergetic:brood_eetle", "cataclysm:ender_golem", "cataclysm:ender_guardian", "endergetic:booflo", "endergetic:charger_eetle", "mutantmonsters:endersoul_clone", "mutantmonsters:mutant_enderman", "endergetic:booflo_baby", "endergetic:puff_bug", "endertrigon:baby_ender_dragon", "alexsmobs:spectre"]
+
+["White Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,255"
+entities = ["minecraft:skeleton", "irons_spellbooks:necromancer", "quark:forgotten", "variantsandventures:murk", "cataclysm:coral_golem", "irons_spellbooks:summoned_skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:allay", "alexscaves:magnetron", "alexsmobs:bone_serpent", "alexsmobs:bone_serpent_part", "cataclysm:the_harbinger", "alexscaves:boundroid", "alexscaves:ferrouslime", "netherdepthsupgrade:bonefish", "outer_end:sinker", "bosses_of_mass_destruction:lich", "alexscaves:teletor", "alexscaves:notor", "alexsmobs:straddler", "alexsmobs:stradpole", "alexscaves:boundroid_winch", "cataclysm:ancient_remnant", "sullysmod:copper_golem", "irons_spellbooks:dead_king", "alexsmobs:skelewag", "cataclysm:the_prowler", "cataclysm:the_watcher", "savage_and_ravage:skeleton_villager", "mutantmonsters:mutant_skeleton", "cataclysm:wadjet", "cataclysm:kobolediator", "cataclysm:koboleton", "cataclysm:modern_remnant"]
+
+["Orange Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "200,100,50"
+entities = ["sullysmod:copper_golem"]
+
+["Green Group"]
+behavior = "Stuck"
+weight = "Light"
+state = "Liquid"
+color = "0,255,0"
+entities = ["minecraft:cave_spider", "minecraft:creeper", "creeperoverhaul:dripstone_creeper", "creeperoverhaul:ocean_creeper", "creeperoverhaul:dark_oak_creeper", "creeperoverhaul:savannah_creeper", "savage_and_ravage:creepie", "creeperoverhaul:jungle_creeper", "creeperoverhaul:swamp_creeper", "creeperoverhaul:badlands_creeper", "creeperoverhaul:snowy_creeper", "creeperoverhaul:mushroom_creeper", "creeperoverhaul:desert_creeper", "mutantmonsters:mutant_creeper", "creeperoverhaul:cave_creeper", "creeperoverhaul:bamboo_creeper", "creeperoverhaul:beach_creeper", "creeperoverhaul:hills_creeper", "creeperoverhaul:spruce_creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch", "mowziesmobs:naga", "variantsandventures:thicket", "alexscaves:gammaroach", "mowziesmobs:lantern", "alexscaves:brainiac", "sullysmod:jungle_spider", "alexscaves:nucleeper", "alexsmobs:fly", "alexscaves:radgill", "crittersandcompanions:dragonfly", "atmospheric:cochineal", "spawn:ant", "alexsmobs:cockroach", "alexsmobs:leafcutter_ant", "neapolitan:plantain_spider"]
+
+["Plant Group"]
+behavior = "Bounce"
+weight = "Light"
+state = "Solid"
+color = "0,255,0"
+entities = ["mowziesmobs:foliaath", "variantsandventures:verdant", "mowziesmobs:baby_foliaath", "alexsmobs:flutter"]
+
+["Pink Group"]
+behavior = "Stuck"
+weight = "Light"
+state = "Liquid"
+color = "255,0,120"
+entities = ["mobcompack:crystallineslime"]
+
+["Wither Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "50,50,50"
+entities = ["minecraft:wither_skeleton", "netherdepthsupgrade:obsidianfish", "netherdepthsupgrade:wither_bonefish", "bosses_of_mass_destruction:gauntlet", "creature_compendium:netherite_forge", "alexsmobs:soul_vulture", "cataclysm:netherite_monstrosity", "alexscaves:mine_guardian", "irons_spellbooks:citadel_keeper", "minecraft:wither"]
+
+["Yellow Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,220,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "netherdepthsupgrade:searing_cod", "alexscaves:luxtructosaurus", "alexsmobs:sunbird", "netherdepthsupgrade:blazefish", "cataclysm:ignis", "alexsmobs:warped_toad", "cataclysm:ignited_revenant", "netherdepthsupgrade:magmacubefish", "alexsmobs:laviathan", "cataclysm:ignited_berserker", "minecraft:strider", "alexsmobs:banana_slug"]
+
+["Black Group"]
+behavior = "Stuck"
+weight = "Heavy"
+state = "Solid"
+color = "15,15,15"
+entities = ["mowziesmobs:ferrous_wroughtnaut", "minecraft:warden", "alexsmobs:skreecher", "alexscaves:gloomoth", "alexscaves:forsaken", "alexscaves:watcher"]
+
+["Blue Group"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "0,0,255"
+entities = ["cataclysm:coralssus", "minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid", "cataclysm:deepling_warlock", "cataclysm:deepling_brute", "cataclysm:deepling", "cataclysm:deepling_angler", "cataclysm:deepling_priest", "upgrade_aquatic:immortal_jellyfish", "alexsmobs:giant_squid", "alexsmobs:comb_jelly", "alexsmobs:warped_mosco", "alexsmobs:mimic_octopus", "upgrade_aquatic:cassiopea_jellyfish", "outer_end:spectrafly", "alexscaves:hullbreaker", "upgrade_aquatic:box_jellyfish"]
+
+# Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
+"255,0,0" = [
+    "alexsmobs:snow_leopard",
+    "galosphere:berserker",
+    "irons_spellbooks:archevoker",
+    "irons_spellbooks:catacombs_zombie",
+    "savage_and_ravage:trickster",
+    "minecraft:horse",
+    "minecraft:llama",
+    "alexscaves:underzealot",
+    "minecraft:tadpole",
+    "environmental:yak",
+    "alexscaves:corrodent",
+    "alexsmobs:hammerhead_shark",
+    "alexsmobs:grizzly_bear",
+    "alexsmobs:murmur_head",
+    "environmental:duck",
+    "galosphere:spectre",
+    "minecraft:mooshroom",
+    "minecraft:axolotl",
+    "irons_spellbooks:summoned_vex",
+    "alexsmobs:gorilla",
+    "quark:crab",
+    "sullysmod:lanternfish",
+    "alexscaves:deep_one_mage",
+    "eeeabsmobs:corpse",
+    "alexsmobs:kangaroo",
+    "endermanoverhaul:hammerhead_pet_enderman",
+    "eeeabsmobs:immortal_shaman",
+    "ecologics:coconut_crab",
+    "raided:incinerator",
+    "alexsmobs:hummingbird",
+    "mutantmonsters:mutant_zombie",
+    "alexscaves:deep_one",
+    "mobcompack:jawbreaker",
+    "alexsmobs:crow",
+    "alexsmobs:guster",
+    "eeeabsmobs:corpse_to_player",
+    "irons_spellbooks:magehunter_vindicator",
+    "minecraft:chicken",
+    "minecraft:zombie",
+    "alexsmobs:emu",
+    "buzzier_bees:moobloom",
+    "queen_bee:queen_bee",
+    "minecraft:hoglin",
+    "netherdepthsupgrade:eyeball_fish",
+    "minecraft:zombified_piglin",
+    "habitat:pooka",
+    "minecraft:sheep",
+    "quark:foxhound",
+    "alexsmobs:raccoon",
+    "minecraft:ravager",
+    "difficult_spawners:evil_spirit",
+    "eeeabsmobs:guling_sentinel_heavy",
+    "spawn:hamster",
+    "bagus_lib:mini_bagu",
+    "alexsmobs:mudskipper",
+    "alexsmobs:crimson_mosquito",
+    "alexsmobs:jerboa",
+    "upgrade_aquatic:perch",
+    "crittersandcompanions:otter",
+    "piglinproliferation:piglin_traveler",
+    "endermanoverhaul:spirit",
+    "minecraft:cat",
+    "minecraft:tropical_fish",
+    "spawn:tuna",
+    "alexscaves:vesper",
+    "alexscaves:lanternfish",
+    "minecraft:zombie_villager",
+    "environmental:zebra",
+    "alexsmobs:froststalker",
+    "minecraft:giant",
+    "alexsmobs:lobster",
+    "alexsmobs:seagull",
+    "etcetera:chapple",
+    "upgrade_aquatic:thrasher",
+    "spawn:seahorse",
+    "minecraft:husk",
+    "eeeabsmobs:immortal_golem",
+    "mowziesmobs:umvuthana",
+    "creature_compendium:moleman",
+    "minecraft:donkey",
+    "mowziesmobs:umvuthana_crane_player",
+    "minecraft:piglin_brute",
+    "galosphere:sparkle",
+    "alexsmobs:frilled_shark",
+    "sullysmod:tortoise",
+    "alexsmobs:bald_eagle",
+    "alexsmobs:blobfish",
+    "ecologics:squirrel",
+    "environmental:slabfish",
+    "upgrade_aquatic:great_thrasher",
+    "alexsmobs:void_worm",
+    "minecraft:parrot",
+    "irons_spellbooks:apothecarist",
+    "alexsmobs:centipede_head",
+    "savage_and_ravage:griefer",
+    "savage_and_ravage:iceologer",
+    "alexsmobs:bunfungus",
+    "minecraft:mule",
+    "ribbits:ribbit",
+    "minecraft:vindicator",
+    "alexsmobs:flying_fish",
+    "crittersandcompanions:leaf_insect",
+    "cataclysm:nameless_sorcerer",
+    "irons_spellbooks:debug_wizard",
+    "cataclysm:lionfish",
+    "eeeabsmobs:corpse_warlock",
+    "netherdepthsupgrade:glowdine",
+    "alexsmobs:terrapin",
+    "upgrade_aquatic:nautilus",
+    "piglinproliferation:piglin_alchemist",
+    "minecraft:pig",
+    "alexsmobs:alligator_snapping_turtle",
+    "minecraft:cod",
+    "alexsmobs:platypus",
+    "minecraft:cow",
+    "alexsmobs:rocky_roller",
+    "alexsmobs:blue_jay",
+    "minecraft:salmon",
+    "crittersandcompanions:dumbo_octopus",
+    "netherdepthsupgrade:fortressgrouper",
+    "alexsmobs:anteater",
+    "alexsmobs:rain_frog",
+    "spawn:angler_fish",
+    "minecraft:rabbit",
+    "minecraft:pillager",
+    "minecraft:zoglin",
+    "irons_spellbooks:cryomancer",
+    "spelunkers_charm:sound_entity",
+    "alexsmobs:gazelle",
+    "minecraft:sniffer",
+    "mowziesmobs:umvuthana_follower_player",
+    "alexsmobs:seal",
+    "environmental:deer",
+    "alexsmobs:roadrunner",
+    "minecraft:trader_llama",
+    "alexsmobs:maned_wolf",
+    "minecraft:dolphin",
+    "alexsmobs:gelada_monkey",
+    "alexsmobs:dropbear",
+    "alexsmobs:tiger",
+    "crittersandcompanions:jumping_spider",
+    "buzzier_bees:grizzly_bear",
+    "minecraft:bee",
+    "alexsmobs:devils_hole_pupfish",
+    "minecraft:illusioner",
+    "endermanoverhaul:axolotl_pet_enderman",
+    "takesapillage:skirmisher",
+    "alexsmobs:bison",
+    "mowziesmobs:frostmaw",
+    "minecraft:drowned",
+    "environmental:tapir",
+    "alexsmobs:tusklin",
+    "alexsmobs:underminer",
+    "sullysmod:bouldering_zombie",
+    "minecraft:wandering_trader",
+    "environmental:reindeer",
+    "netherdepthsupgrade:lava_pufferfish",
+    "crittersandcompanions:sea_bunny",
+    "upgrade_aquatic:flare",
+    "mowziesmobs:umvuthana_raptor",
+    "crittersandcompanions:red_panda",
+    "minecraft:pufferfish",
+    "minecraft:fox",
+    "mowziesmobs:umvuthana_crane",
+    "eeeabsmobs:nameless_guardian",
+    "neapolitan:chimpanzee",
+    "alexsmobs:capuchin_monkey",
+    "minecraft:polar_bear",
+    "minecraft:turtle",
+    "variantsandventures:gelid",
+    "quark:wraith",
+    "alexsmobs:rattlesnake",
+    "eeeabsmobs:corpse_villager",
+    "alexsmobs:potoo",
+    "alexscaves:trilocaris",
+    "quark:shiba",
+    "alexsmobs:sea_bear",
+    "eeeabsmobs:tester",
+    "mowziesmobs:umvuthana_follower_raptor",
+    "alexsmobs:sugar_glider",
+    "supplementaries:red_merchant",
+    "kiwiboi:kiwi",
+    "raided:electromancer",
+    "savage_and_ravage:executioner",
+    "alexsmobs:orca",
+    "irons_spellbooks:priest",
+    "minecraft:bat",
+    "alexsmobs:skunk",
+    "environmental:koi",
+    "alexsmobs:tasmanian_devil",
+    "ecologics:penguin",
+    "minecraft:panda",
+    "enchantwithmob:enchanter",
+    "alexsmobs:moose",
+    "alexsmobs:shoebill",
+    "cataclysm:amethyst_crab",
+    "upgrade_aquatic:goose",
+    "eeeabsmobs:immortal",
+    "eeeabsmobs:immortal_knight",
+    "galosphere:preserved",
+    "alexsmobs:komodo_dragon",
+    "quark:stoneling",
+    "irons_spellbooks:summoned_polar_bear",
+    "alexsmobs:crocodile",
+    "quark:toretoise",
+    "irons_spellbooks:cultist",
+    "alexsmobs:triops",
+    "alexsmobs:rhinoceros",
+    "eeeabsmobs:guling_sentinel",
+    "galosphere:specterpillar",
+    "eeeabsmobs:immortal_skeleton",
+    "minecraft:frog",
+    "crittersandcompanions:shima_enaga",
+    "spawn:snail",
+    "alexsmobs:void_worm_part",
+    "minecraft:evoker",
+    "phantasm:crystie",
+    "alexsmobs:tarantula_hawk",
+    "crittersandcompanions:ferret",
+    "alexsmobs:cachalot_whale",
+    "upgrade_aquatic:pike",
+    "spelunkers_charm:tremor_handler",
+    "takesapillage:legioner",
+    "alexsmobs:anaconda",
+    "irons_spellbooks:summoned_zombie",
+    "mowziesmobs:grottol",
+    "creature_compendium:unseen_hand",
+    "minecraft:goat",
+    "alexsmobs:mantis_shrimp",
+    "netherdepthsupgrade:soulsucker",
+    "raided:necromancer",
+    "mutantmonsters:spider_pig",
+    "mowziesmobs:umvuthi",
+    "alexsmobs:toucan",
+    "upgrade_aquatic:lionfish",
+    "habitat:passerine",
+    "raided:inquisitor",
+    "irons_spellbooks:pyromancer",
+    "alexsmobs:murmur",
+    "raided:savager",
+    "alexsmobs:mungus",
+    "crittersandcompanions:koi_fish",
+    "alexsmobs:caiman",
+    "alexsmobs:catfish",
+    "minecraft:piglin",
+    "takesapillage:archer",
+    "alexscaves:deep_one_knight",
+    "alexsmobs:elephant",
+    "minecraft:zombie_horse",
+    "minecraft:camel",
+    "minecraft:ocelot",
+    "minecraft:wolf"
+]

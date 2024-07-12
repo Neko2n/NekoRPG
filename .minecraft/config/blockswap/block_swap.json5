@@ -1,0 +1,263 @@
+{
+	// Generates all block states for all blocks in the registry.
+	"generate_all_known_states": false,
+	
+	// Whether blocks are replaced in existing chunks.
+	"retro_gen": false,
+	
+	/* State Swapper Example:
+	    "state_swapper": [
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	}
+	    ]
+	*/
+	"state_swapper": [
+		{
+			"new": {
+				"Name": "immersive_weathering:atmospheric/aspen_leaf_pile"
+			},
+			"old": {
+				"Name": "regions_unexplored:golden_larch_shrub",
+				"Properties": {
+					"half": "lower"
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "immersive_weathering:atmospheric/green_aspen_leaf_pile"
+			},
+			"old": {
+				"Name": "regions_unexplored:larch_shrub",
+				"Properties": {
+					"half": "lower"
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "minecraft:air"
+			},
+			"old": {
+				"Name": "regions_unexplored:golden_larch_shrub",
+				"Properties": {
+					"half": "upper"
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "minecraft:air"
+			},
+			"old": {
+				"Name": "regions_unexplored:larch_shrub",
+				"Properties": {
+					"half": "upper"
+				}
+			}
+		}
+	],
+	
+	"swapper": {
+		"regions_unexplored:larch_log" : "atmospheric:aspen_log",
+		"regions_unexplored:stripped_larch_log" : "atmospheric:stripped_aspen_log",
+		"regions_unexplored:larch_wood" : "atmospheric:aspen_wood",
+		"regions_unexplored:larch_branch": "everycomp:ru/atmospheric/aspen_branch",
+		"regions_unexplored:larch_leaves" : "atmospheric:green_aspen_leaves",
+		"regions_unexplored:golden_larch_leaves" : "atmospheric:aspen_leaves",
+		"regions_unexplored:kapok_log" : "regions_unexplored:cypress_log",
+		"regions_unexplored:stripped_kapok_log" : "regions_unexplored:stripped_cypress_log",
+		"regions_unexplored:kapok_wood" : "regions_unexplored:cypress_wood",
+		"regions_unexplored:kapok_branch": "regions_unexplored:cypress_branch",
+		"regions_unexplored:kapok_shrub": "regions_unexplored:cypress_shrub",
+		"regions_unexplored:kapok_leaves": "regions_unexplored:cypress_leaves",
+		"regions_unexplored:kapok_vines": "valhelsia_structures:hanging_vines",
+		"regions_unexplored:kapok_vines_plant": "valhelsia_structures:hanging_vines_body",
+		"biomesoplenty:dead_leaves" : "regions_unexplored:dead_leaves",
+		"biomesoplenty:dead_log" : "spawn:rotten_log",
+		"biomesoplenty:stripped_dead_log" : "spawn:stripped_rotten_log",
+		"biomesoplenty:dead_wood" : "spawn:rotten_wood",
+		"biomesoplenty:dead_branch": "everycomp:ru/spawn/rotten_branch",
+		"regions_unexplored:dead_log": "spawn:rotten_log",
+		"regions_unexplored:stripped_dead_log" : "spawn:stripped_rotten_log",
+		"regions_unexplored:dead_wood" : "spawn:rotten_wood",
+		"regions_unexplored:dead_branch": "everycomp:ru/spawn/rotten_branch",
+		"regions_unexplored:dead_pine_shrub": "regions_unexplored:dead_shrub",
+		"regions_unexplored:willow_log" : "environmental:willow_log",
+		"regions_unexplored:stripped_willow_log" : "environmental:stripped_willow_log",
+		"regions_unexplored:willow_wood" : "environmental:willow_wood",
+		"regions_unexplored:willow_branch": "minecraft:air",
+		"regions_unexplored:willow_shrub": "minecraft:air",
+		"biomesoplenty:willow_log" : "environmental:willow_log",
+		"biomesoplenty:stripped_willow_log" : "environmental:stripped_willow_log",
+		"biomesoplenty:willow_wood" : "environmental:willow_wood",
+		"regions_unexplored:willow_leaves" : "environmental:willow_leaves",
+		"biomesoplenty:willow_leaves" : "environmental:willow_leaves",
+		"biomesoplenty:palm_leaves" : "ecologics:coconut_leaves",
+		"biomesoplenty:palm_log" : "ecologics:coconut_log",
+		"biomesoplenty:stripped_palm_log" : "ecologics:stripped_coconut_log",
+		"biomesoplenty:palm_wood" : "ecologics:coconut_wood",
+		"regions_unexplored:palm_leaves" : "ecologics:coconut_leaves",
+		"regions_unexplored:palm_log" : "ecologics:coconut_log",
+		"regions_unexplored:stripped_palm_log" : "ecologics:stripped_coconut_log",
+		"regions_unexplored:palm_wood" : "ecologics:coconut_wood",
+		"regions_unexplored:barley" : "biomesoplenty:barley",
+		"biomesoplenty:cattail" : "environmental:cattail",
+		"regions_unexplored:cattail" : "environmental:cattail",
+		"regions_unexplored:clover" : "biomesoplenty:clover",
+		"regions_unexplored:pine_log" : "environmental:pine_log",
+		"regions_unexplored:stripped_pine_log" : "environmental:stripped_pine_log",
+		"regions_unexplored:pine_leaves" : "environmental:pine_leaves",
+		"regions_unexplored:dead_pine_leaves" : "regions_unexplored:dead_leaves",
+		"regions_unexplored:pine_branch": "minecraft:air",
+		"biomesoplenty:redwood_log" : "regions_unexplored:redwood_log",
+		"biomesoplenty:stripped_redwood_log" : "regions_unexplored:stripped_redwood_log",
+		"biomesoplenty:redwood_leaves" : "regions_unexplored:redwood_leaves",
+		"biomesoplenty:maple_leaves" : "biomesoplenty:orange_autumn_leaves",
+		"environmental:giant_tall_grass" : "biomesoplenty:high_grass",
+		"quark:rope": "farmersdelight:rope",
+		"supplementaries:rope": "farmersdelight:rope",
+		"supplementaries:wild_flax": "minecraft:air",
+		"supplementaries:flax_block": "farmersdelight:straw_bale",
+		"biomesoplenty:huge_lily_pad": "environmental:large_lily_pad",
+		"regions_unexplored:spanish_moss": "biomesoplenty:spanish_moss",
+		"regions_unexplored:spanish_moss_plant": "biomesoplenty:spanish_moss_plant",
+		"regions_unexplored:hibiscus": "environmental:orange_hibiscus",
+		"biomesoplenty:pink_hibiscus": "environmental:pink_hibiscus",
+		"regions_unexplored:mossy_stone": "immersive_weathering:mossy_stone",
+		"biomesoplenty:orange_sand": "atmospheric:red_arid_sand",
+		"biomesoplenty:orange_sandstone": "atmospheric:red_arid_sandstone",
+		"biomesoplenty:smooth_orange_sandstone": "atmospheric:smooth_red_arid_sandstone",
+		"biomesoplenty:dune_grass": "regions_unexplored:sandy_grass",
+		"biomesoplenty:desert_grass": "regions_unexplored:small_desert_shrub",
+		"atmospheric:arid_sprouts": "regions_unexplored:small_desert_shrub",
+		"biomesoplenty:dead_grass": "regions_unexplored:medium_grass",
+		"immersive_weathering:frosty_grass": "regions_unexplored:frozen_grass",
+		"regions_unexplored:alpha_rose": "biomesoplenty:rose",
+		"environmental:violet": "biomesoplenty:violet",
+		"regions_unexplored:duckweed": "environmental:duckweed",
+		//
+		//"goodending:cypress_log" : "regions_unexplored:cypress_log",
+		//"goodending:stripped_cypress_log" : "regions_unexplored:stripped_cypress_log",
+		//"goodending:cypress_wood" : "regions_unexplored:cypress_wood",
+		//"goodending:cypress_leaves" : "regions_unexplored:cypress_leaves",
+		//"goodending:muddy_oak_log" : "minecraft:oak_log",
+		//"goodending:stripped_muddy_oak_log" : "minecraft:stripped_oak_log",
+		//"goodending:muddy_oak_wood" : "minecraft:oak_wood",
+		//"goodending:large_lily_pad": "minecraft:air",
+		//"goodending:purple_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
+		//"goodending:pink_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
+		//"goodending:yellow_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
+		//"goodending:duckweed": "environmental:duckweed",
+		//
+		"valhelsia_structures:white_sleeping_bag": "upgrade_aquatic:white_bedroll",
+		"valhelsia_structures:orange_sleeping_bag": "upgrade_aquatic:orange_bedroll",
+		"valhelsia_structures:magenta_sleeping_bag": "upgrade_aquatic:magenta_bedroll",
+		"valhelsia_structures:light_blue_sleeping_bag": "upgrade_aquatic:light_blue_bedroll",
+		"valhelsia_structures:yellow_sleeping_bag": "upgrade_aquatic:yellow_bedroll",
+		"valhelsia_structures:lime_sleeping_bag": "upgrade_aquatic:lime_bedroll",
+		"valhelsia_structures:pink_sleeping_bag": "upgrade_aquatic:pink_bedroll",
+		"valhelsia_structures:gray_sleeping_bag": "upgrade_aquatic:gray_bedroll",
+		"valhelsia_structures:light_gray_sleeping_bag": "upgrade_aquatic:light_gray_bedroll",
+		"valhelsia_structures:cyan_sleeping_bag": "upgrade_aquatic:cyan_bedroll",
+		"valhelsia_structures:purple_sleeping_bag": "upgrade_aquatic:purple_bedroll",
+		"valhelsia_structures:blue_sleeping_bag": "upgrade_aquatic:blue_bedroll",
+		"valhelsia_structures:brown_sleeping_bag": "upgrade_aquatic:brown_bedroll",
+		"valhelsia_structures:green_sleeping_bag": "upgrade_aquatic:green_bedroll",
+		"valhelsia_structures:red_sleeping_bag": "upgrade_aquatic:red_bedroll",
+		"valhelsia_structures:black_sleeping_bag": "upgrade_aquatic:black_bedroll",
+		//
+		"valhelsia_structures:metal_framed_glass": "quark:framed_glass",
+		"valhelsia_structures:white_metal_framed_glass": "quark:white_framed_glass",
+		"valhelsia_structures:orange_metal_framed_glass": "quark:orange_framed_glass",
+		"valhelsia_structures:magenta_metal_framed_glass": "quark:magenta_framed_glass",
+		"valhelsia_structures:light_blue_metal_framed_glass": "quark:light_blue_framed_glass",
+		"valhelsia_structures:yellow_metal_framed_glass": "quark:yellow_framed_glass",
+		"valhelsia_structures:lime_metal_framed_glass": "quark:lime_framed_glass",
+		"valhelsia_structures:pink_metal_framed_glass": "quark:pink_framed_glass",
+		"valhelsia_structures:gray_metal_framed_glass": "quark:gray_framed_glass",
+		"valhelsia_structures:light_gray_metal_framed_glass": "quark:light_gray_framed_glass",
+		"valhelsia_structures:cyan_metal_framed_glass": "quark:cyan_framed_glass",
+		"valhelsia_structures:purple_metal_framed_glass": "quark:purple_framed_glass",
+		"valhelsia_structures:blue_metal_framed_glass": "quark:blue_framed_glass",
+		"valhelsia_structures:brown_metal_framed_glass": "quark:brown_framed_glass",
+		"valhelsia_structures:green_metal_framed_glass": "quark:green_framed_glass",
+		"valhelsia_structures:red_metal_framed_glass": "quark:red_framed_glass",
+		"valhelsia_structures:black_metal_framed_glass": "quark:black_framed_glass",
+		"valhelsia_structures:metal_framed_glass_pane": "quark:framed_glass_pane",
+		"valhelsia_structures:white_metal_framed_glass_pane": "quark:white_framed_glass_pane",
+		"valhelsia_structures:orange_metal_framed_glass_pane": "quark:orange_framed_glass_pane",
+		"valhelsia_structures:magenta_metal_framed_glass_pane": "quark:magenta_framed_glass_pane",
+		"valhelsia_structures:light_blue_metal_framed_glass_pane": "quark:light_blue_framed_glass_pane",
+		"valhelsia_structures:yellow_metal_framed_glass_pane": "quark:yellow_framed_glass_pane",
+		"valhelsia_structures:lime_metal_framed_glass_pane": "quark:lime_framed_glass_pane",
+		"valhelsia_structures:pink_metal_framed_glass_pane": "quark:pink_framed_glass_pane",
+		"valhelsia_structures:gray_metal_framed_glass_pane": "quark:gray_framed_glass_pane",
+		"valhelsia_structures:light_gray_metal_framed_glass_pane": "quark:light_gray_framed_glass_pane",
+		"valhelsia_structures:cyan_metal_framed_glass_pane": "quark:cyan_framed_glass_pane",
+		"valhelsia_structures:purple_metal_framed_glass_pane": "quark:purple_framed_glass_pane",
+		"valhelsia_structures:blue_metal_framed_glass_pane": "quark:blue_framed_glass_pane",
+		"valhelsia_structures:brown_metal_framed_glass_pane": "quark:brown_framed_glass_pane",
+		"valhelsia_structures:green_metal_framed_glass_pane": "quark:green_framed_glass_pane",
+		"valhelsia_structures:red_metal_framed_glass_pane": "quark:red_framed_glass_pane",
+		"valhelsia_structures:black_metal_framed_glass_pane": "quark:black_framed_glass_pane",
+		//
+		"valhelsia_structures:glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:white_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:orange_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:magenta_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:light_blue_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:yellow_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:lime_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:pink_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:gray_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:light_gray_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:cyan_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:purple_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:blue_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:brown_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:green_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:red_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:black_glazed_jar": "supplementaries:urn",
+		"valhelsia_structures:big_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_white_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_orange_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_magenta_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_light_blue_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_yellow_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_lime_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_pink_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_gray_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_light_gray_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_cyan_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_purple_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_blue_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_brown_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_green_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_red_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:big_black_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:cracked_glazed_jar": "ecologics:pot",
+		"valhelsia_structures:cracked_big_glazed_jar": "supplementaries:urn",
+		//
+		"valhelsia_structures:brazier": "piglinproliferation:stone_fire_ring",
+		"valhelsia_structures:soul_brazier": "piglinproliferation:stone_soul_fire_ring",
+		//
+		//"luminousworld:groundpebbles_3": "spelunkers_charm:rock_pile_1",
+		//"luminousworld:groundpebbles_2": "spelunkers_charm:rock_pile_2",
+		//"luminousworld:groundpebbles_1": "spelunkers_charm:rock_pile_3"
+	}
+}
