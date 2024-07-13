@@ -187,7 +187,7 @@
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: craft-history, lookup-history, favorites;
+	right-sidebar-pages: craft-history, index, favorites;
 
 	/**
 	 * The subpanels in the right sidebar

@@ -263,10 +263,10 @@
 			branch = true
 
 		[entries.wood_type.valhelsia_structures]
-			stripped_post = true
-			cut_post = true
-			post = true
-			cut_stripped_post = true
+			stripped_post = false
+			cut_post = false
+			post = false
+			cut_stripped_post = false
 
 		[entries.wood_type.lolmct]
 			crafting_table = true
