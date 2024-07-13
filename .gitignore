@@ -4,10 +4,7 @@
 !.minecraft/custom_advancements
 !.minecraft/defaultconfigs
 !.minecraft/modlist.txt
-!.minecraft/mods
 !.minecraft/config
-.minecraft/mods/*.jar*
-!.minecraft/mods/*.local*
 .minecraft/mods/.connector
 .minecraft/config/*embeddium*
 .minecraft/config/*.properties
@@ -23,3 +20,5 @@ instance.cfg
 *Quark Programmer Art.zip
 dev/minecraft-1.20.1-client.zip
 dev/vanilla-data.zip
+.minecraft/config/fabric/indigo-renderer.properties
+.minecraft/config/waterframes-client.toml
