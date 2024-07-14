@@ -12,8 +12,8 @@
       "radius" : 256
     }
   },
-  "groupBonus" : "1 + 0.2 * (areaPlayerCount - 1)",
-  "groupBonusRadius" : 128,
+  "groupBonus" : "1 + 0.1 * (areaPlayerCount - 1)",
+  "groupBonusRadius" : 32,
   "idleMultiplier" : 0.0,
   "afkMessage" : false,
   "timeBeforeAfk" : 120,

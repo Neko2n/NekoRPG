@@ -1,5 +1,8 @@
 # TO-DO
-- Cage mobs compat
+- Pedestal duplicate
+- Glowberry sack duplicate
+- IDAS spawning alex's mobs bananas
+- IDAS spawning create wrenches and supplementaries wrenches
 - 
 
 # LOW-PRIORITY

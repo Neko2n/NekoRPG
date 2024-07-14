@@ -6,9 +6,11 @@
 .minecraft/debug
 .minecraft/emi.json
 .minecraft/essential
+.minecraft/essential
 .minecraft/fabricloader.log
 .minecraft/fancymenu_data
 .minecraft/localconfigs
+.minecraft/map_atlases
 .minecraft/menuworlds
 .minecraft/mod_data
 .minecraft/modernfix
