@@ -3,6 +3,7 @@
 - Glowberry sack duplicate
 - IDAS spawning alex's mobs bananas
 - IDAS spawning create wrenches and supplementaries wrenches
+- Multiple thatch blocks
 - 
 
 # LOW-PRIORITY
