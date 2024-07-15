@@ -4,7 +4,8 @@
 - IDAS spawning alex's mobs bananas
 - IDAS spawning create wrenches and supplementaries wrenches
 - Multiple thatch blocks
-- 
+- Netherite forge advancements
+- Chest, sack, bundle, & backpack advancements
 
 # LOW-PRIORITY
 - Disable mutant monsters chemical X brewing recipes

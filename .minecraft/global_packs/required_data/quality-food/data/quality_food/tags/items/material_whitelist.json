@@ -1,29 +1,7 @@
 {
   "values": [
-    "minecraft:sugar",
-    "minecraft:sugar_cane",
     "minecraft:hay_block",
     "minecraft:honey_block",
-    "#forge:eggs",
-    "#forge:seeds",
-    "#forge:crops",
-    "#forge:mushrooms",
-    {
-      "id": "#forge:dough",
-      "required": false
-    },
-    {
-      "id": "#forge:flour",
-      "required": false
-    },
-    {
-      "id": "#farmersdelight:wild_crops",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:rice_panicle",
-      "required": false
-    },
     {
       "id": "farmersdelight:carrot_crate",
       "required": false
@@ -61,23 +39,7 @@
       "required": false
     },
     {
-      "id": "quark:golden_apple_crate",
-      "required": false
-    },
-    {
       "id": "quark:apple_crate",
-      "required": false
-    },
-    {
-      "id": "quark:potato_crate",
-      "required": false
-    },
-    {
-      "id": "quark:carrot_crate",
-      "required": false
-    },
-    {
-      "id": "quark:golden_carrot_crate",
       "required": false
     },
     {
@@ -85,7 +47,15 @@
       "required": false
     },
     {
-      "id": "quark:sugar_cane_block",
+      "id": "quark:berry_sack",
+      "required": false
+    },
+    {
+      "id": "quark:carrot_crate",
+      "required": false
+    },
+    {
+      "id": "quark:chorus_fruit_block",
       "required": false
     },
     {
@@ -93,15 +63,23 @@
       "required": false
     },
     {
-      "id": "quark:nether_wart_stack",
-      "required": false
-    },
-    {
-      "id": "quark:berry_sack",
-      "required": false
-    },
-    {
       "id": "quark:glowberry_sack",
+      "required": false
+    },
+    {
+      "id": "quark:golden_apple_crate",
+      "required": false
+    },
+    {
+      "id": "quark:golden_carrot_crate",
+      "required": false
+    },
+    {
+      "id": "quark:potato_crate",
+      "required": false
+    },
+    {
+      "id": "quark:sugar_cane_block",
       "required": false
     },
     {
@@ -109,19 +87,19 @@
       "required": false
     },
     {
-      "id": "vinery:white_grape_crate",
+      "id": "vinery:white_grape_bag",
       "required": false
     },
     {
-      "id": "vinery:red_grape_crate",
+      "id": "vinery:red_grape_bag",
       "required": false
     },
     {
-      "id": "vinery:cherry_crate",
+      "id": "vinery:cherry_bag",
       "required": false
     },
     {
-      "id": "vinery:apple_crate",
+      "id": "vinery:apple_bag",
       "required": false
     }
   ]
