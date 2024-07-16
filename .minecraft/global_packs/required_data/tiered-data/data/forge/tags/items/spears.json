@@ -1,11 +1,6 @@
 {
     "replace": false,
     "values": [
-        "spearsmod:wooden_spear",
-        "spearsmod:stone_spear",
-        "spearsmod:iron_spear",
-        "spearsmod:golden_spear",
-        "spearsmod:diamond_spear",
         "bosses_of_mass_destruction:earthdive_spear",
         "alexscaves:ortholance"
     ]
