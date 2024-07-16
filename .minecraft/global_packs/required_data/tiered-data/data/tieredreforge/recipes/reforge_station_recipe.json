@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "igi",
+    "oao",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:anvil"
+    },
+    "i": {
+      "item": "etcetera:bismuth_ingot"
+    },
+    "g": {
+      "item": "tieredreforge:fucdu_hard"
+    },
+    "b": {
+      "item": "etcetera:bismuth_block"
+    },
+    "o": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "tieredreforge:reforge_station",
+    "count": 1
+  }
+}

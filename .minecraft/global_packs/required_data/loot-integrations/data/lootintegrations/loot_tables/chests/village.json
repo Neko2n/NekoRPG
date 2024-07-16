@@ -113,6 +113,11 @@
         {
           "type": "minecraft:loot_table",
           "name": "artifacts:artifact",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tieredreforge:fucdu_hard",
           "weight": 4
         },
         {
