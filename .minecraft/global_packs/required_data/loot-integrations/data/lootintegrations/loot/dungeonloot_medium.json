@@ -2,6 +2,7 @@
   "loot_table": "lootintegrations:chests/medium",
   "max_result_itemcount": 20,
   "integrated_loot_tables": {
+    "betterjungletemples:chests/treasure": 10,
     "dungeons_enhanced:chests/castle/throne": 12,
     "dungeons_enhanced:chests/castle/library": 6,
     "dungeons_enhanced:chests/tower_of_the_undead/treasure": 12,
@@ -41,9 +42,13 @@
     "irons_spellbooks:chests/catacombs/coffin_loot": 14,
     "irons_spellbooks:chests/catacombs/crypt_loot": 6,
     "irons_spellbooks:chests/evoker_fort": 12,
+    "minecraft:chests/ancient_city": 12,
+    "minecraft:chests/ancient_city_ice_box": 8,
     "irons_spellbooks:chests/mountain_tower/mountain_tower": 10,
     "eeeabsmobs:chests/rare_ancient_tomb": 10,
     "eeeabsmobs:chests/unusual_ancient_tomb": 10,
-    "structory:ruin/taiga/illager_treasure": 6
+    "structory:ruin/taiga/illager_treasure": 6,
+    "dungeons_plus:chests/tower/vex": 8,
+    "dungeons_plus:chests/tower/common": 4
   }
 }

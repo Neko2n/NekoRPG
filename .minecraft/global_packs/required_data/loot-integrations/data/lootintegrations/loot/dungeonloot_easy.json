@@ -30,8 +30,7 @@
     "betterdeserttemples:chests/tomb": 2,
     "betterdeserttemples:chests/wardrobe": 1,
     "betterdungeons:zombie_dungeon/chests/tombstone": 1,
-    "betterjungletemples:chests/treasure": 6,
-    "betterjungletemples:chests/campsite": 1,
+    "betterjungletemples:chests/campsite": 3,
     "betterfortresses:chests/beacon": 3,
     "betterfortresses:chests/keep": 1,
     "betterstrongholds:chests/grand_library": 4,
@@ -220,6 +219,8 @@
     "structory:mood/ocean": 2,
     "structory:mood/snowy": 3,
     "structory:mood/taiga": 2,
-    "quark:misc/monster_box": 1
+    "quark:misc/monster_box": 1,
+    "dungeons_plus:chests/tower/common": 4,
+    "dungeons_plus:chests/tower/barrel": 4
   }
 }

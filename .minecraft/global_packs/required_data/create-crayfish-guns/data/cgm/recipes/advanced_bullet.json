@@ -1,7 +1,7 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "item": "cgm:basic_bullet"
+    "item": "create:brass_sheet"
   },
   "loops": 1,
   "results": [
@@ -12,27 +12,14 @@
   ],
   "sequence": [
     {
-      "type": "create:pressing",
-      "ingredients": [
-        {
-          "item": "cgm:basic_bullet"
-        }
-      ],
-      "results": [
-        {
-          "item": "create:brass_nugget"
-        }
-      ]
-    },
-    {
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
         },
         [
           {
-            "item": "create:brass_nugget"
+            "item": "minecraft:gunpowder"
           }
         ]
       ],

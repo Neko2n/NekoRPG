@@ -20,10 +20,10 @@
       "entity": "sullysmod:bouldering_zombie"
     },
     {
-      "entity": "quark:wraith"
+      "entity": "variantsandventures:verdant"
     },
     {
-      "entity": "variantsandventures:verdant"
+      "entity": "endermanoverhaul:cave_enderman"
     },
     {
       "entity": "quark:forgotten",
@@ -38,8 +38,7 @@
       "entity": "creeperoverhaul:cave_creeper"
     },
     {
-      "entity": "endermanoverhaul:cave_enderman",
-      "weight": 2
+      "entity": "quark:wraith"
     },
     {
       "entity": "creeperoverhaul:dripstone_creeper"
