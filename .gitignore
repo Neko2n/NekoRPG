@@ -5,6 +5,7 @@
 !.minecraft/defaultconfigs
 !.minecraft/modlist.txt
 !.minecraft/config
+!.minecraft/emi.json
 .minecraft/mods/.connector
 .minecraft/config/*embeddium*
 .minecraft/config/*.properties
