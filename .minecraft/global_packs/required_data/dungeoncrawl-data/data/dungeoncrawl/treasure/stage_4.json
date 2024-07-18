@@ -20,6 +20,14 @@
     "weight": 2
   },
   {
+    "item": "irons_spellbooks:gold_spell_book",
+    "weight": 1
+  },
+  {
+    "item": "irons_spellbooks:diamond_spell_book",
+    "weight": 1
+  },
+  {
     "item": "minecraft:golden_boots",
     "weight": 2
   },
@@ -37,10 +45,6 @@
   },
   {
     "item": "minecraft:diamond_boots",
-    "weight": 2
-  },
-  {
-    "item": "spearsmod:golden_spear",
     "weight": 2
   },
   {
@@ -69,10 +73,6 @@
   },
   {
     "item": "minecraft:iron_helmet",
-    "weight": 4
-  },
-  {
-    "item": "spearsmod:wooden_spear",
     "weight": 4
   },
   {

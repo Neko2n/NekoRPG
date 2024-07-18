@@ -20,6 +20,26 @@
         "type": "REGISTRY_NAME",
         "negate": true,
         "value": "minecraft:deep_dark"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "alexscaves:primordial_caves"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "alexscaves:toxic_caves"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "alexscaves:magnetic_caves"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "alexscaves:forlorn_hollows"
       }
     ]
   ]

@@ -60,6 +60,18 @@
     "weight": 2
   },
   {
+    "item": "irons_spellbooks:gold_spell_book",
+    "weight": 1
+  },
+  {
+    "item": "irons_spellbooks:iron_spell_book",
+    "weight": 1
+  },
+  {
+    "item": "irons_spellbooks:copper_spell_book",
+    "weight": 1
+  },
+  {
     "item": "minecraft:stone_axe",
     "weight": 4
   },
@@ -82,10 +94,6 @@
   {
     "item": "minecraft:golden_shovel",
     "weight": 1
-  },
-  {
-    "item": "spearsmod:wooden_spear",
-    "weight": 3
   },
   {
     "item": "waystones:warp_scroll",

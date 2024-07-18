@@ -261,12 +261,15 @@
 
 		[entries.wood_type.regions_unexplored]
 			branch = true
+			shrub = true
 
 		[entries.wood_type.valhelsia_structures]
 			stripped_post = false
 			cut_post = false
 			post = false
 			cut_stripped_post = false
+			bundled_stripped_posts = true
+			bundled_posts = true
 
 		[entries.wood_type.lolmct]
 			crafting_table = true

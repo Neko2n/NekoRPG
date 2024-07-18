@@ -20,11 +20,6 @@
           "weight": 8
         },
         {
-          "type": "minecraft:loot_table",
-          "name": "artifacts:artifact",
-          "weight": 4
-        },
-        {
           "type": "minecraft:item",
           "name": "tieredreforge:fucdu_hard",
           "weight": 3
@@ -51,7 +46,7 @@
       ]
     },
     {
-      "rolls": 5,
+      "rolls": 8,
       "entries": [
         {
           "type": "minecraft:item",
@@ -61,6 +56,58 @@
         {
           "type": "minecraft:empty",
           "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 4,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:arcane_ingot",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:magic_cloth",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tieredreforge:fucdu_hard",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:gold_spell_book",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:diamond_spell_book",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 4
         }
       ]
     },
@@ -79,6 +126,11 @@
         },
         {
           "type": "minecraft:loot_table",
+          "name": "artifacts:artifact",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
           "name": "irons_spellbooks:magic_items/basic_curios",
           "weight": 2
         },
@@ -89,7 +141,16 @@
       ]
     },
     {
-      "rolls": 4,
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "irons_spellbooks:magic_items/great_ink"
+        }
+      ]
+    },
+    {
+      "rolls": 3,
       "entries": [
         {
           "type": "minecraft:loot_table",
@@ -118,7 +179,7 @@
       ]
     },
     {
-      "rolls": 18,
+      "rolls": 4,
       "entries": [
         {
           "type": "minecraft:loot_table",

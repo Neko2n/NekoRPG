@@ -2,6 +2,8 @@
   "loot_table": "lootintegrations:chests/easy",
   "max_result_itemcount": 12,
   "integrated_loot_tables": {
+    "dungeoncrawl:chests/stage_1": 2,
+    "dungeoncrawl:chests/stage_2": 4,
     "dungeons_enhanced:desert_temple_coffin": 6,
     "dungeons_enhanced:desert_temple_floor": 6,
     "dungeons_enhanced:chests/pillager_camp/general": 3,

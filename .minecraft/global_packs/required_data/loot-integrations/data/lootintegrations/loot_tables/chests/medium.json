@@ -26,11 +26,6 @@
           "weight": 8
         },
         {
-          "type": "minecraft:loot_table",
-          "name": "artifacts:artifact",
-          "weight": 4
-        },
-        {
           "type": "minecraft:item",
           "name": "minecraft:golden_apple",
           "weight": 4
@@ -53,6 +48,25 @@
       ]
     },
     {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:copper_spell_book",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:iron_spell_book",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 5
+        }
+      ]
+    },
+    {
       "rolls": 3,
       "entries": [
         {
@@ -63,6 +77,39 @@
         {
           "type": "minecraft:empty",
           "weight": 6
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:arcane_ingot",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:magic_cloth",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tieredreforge:fucdu_hard",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 1
         }
       ]
     },
@@ -82,6 +129,11 @@
         {
           "type": "minecraft:loot_table",
           "name": "irons_spellbooks:magic_items/basic_curios",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "artifacts:artifact",
           "weight": 2
         },
         {
@@ -125,7 +177,7 @@
       ]
     },
     {
-      "rolls": 14,
+      "rolls": 5,
       "entries": [
         {
           "type": "minecraft:loot_table",

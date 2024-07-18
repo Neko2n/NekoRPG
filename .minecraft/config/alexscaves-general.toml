@@ -45,7 +45,7 @@
 	#Range: > 1000
 	amber_monolith_mean_time = 32000
 	#True if the Nuclear Furnace only uses 'Blasting' recipes, false to use all smelting recipes.
-	nuclear_furnace_blasting_only = true
+	nuclear_furnace_blasting_only = false
 	#True if the Nuclear Furnace should only use recipes using the `alexscaves:nuclear_furnace` recipe type, false to use regular behavior.
 	nuclear_furnace_custom_type = false
 
@@ -65,7 +65,7 @@
 	nuke_spawn_item_drops = true
 	#The scale of nuclear bomb destruction. multiply this by 16 to get the radius of a nuclear bomb explosion.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	nuclear_explosion_size_modifier = 3.0
+	nuclear_explosion_size_modifier = 6.0
 	#Whether the Totem of Possession can be applied to players.
 	totem_of_possession_works_on_players = true
 	#The amount of time (in ticks) it takes to charge up the Cloak of Darkness ability.

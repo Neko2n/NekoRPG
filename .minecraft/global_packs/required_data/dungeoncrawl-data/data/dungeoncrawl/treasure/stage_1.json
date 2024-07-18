@@ -32,6 +32,14 @@
     "weight": 1
   },
   {
+    "item": "irons_spellbooks:iron_spell_book",
+    "weight": 1
+  },
+  {
+    "item": "irons_spellbooks:copper_spell_book",
+    "weight": 1
+  },
+  {
     "item": "minecraft:wooden_pickaxe",
     "weight": 2
   },

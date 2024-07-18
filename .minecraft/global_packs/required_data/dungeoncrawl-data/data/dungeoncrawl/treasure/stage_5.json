@@ -48,10 +48,6 @@
     "weight": 2
   },
   {
-    "item": "spearsmod:golden_spear",
-    "weight": 3
-  },
-  {
     "item": "minecraft:diamond_pickaxe",
     "weight": 2
   },
@@ -76,7 +72,11 @@
     "weight": 1
   },
   {
-    "item": "savage_and_ravage:cleaver_of_beheading",
+    "item": "irons_spellbooks:gold_spell_book",
+    "weight": 1
+  },
+  {
+    "item": "irons_spellbooks:diamond_spell_book",
     "weight": 1
   },
   {
