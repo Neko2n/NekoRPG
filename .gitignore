@@ -1,5 +1,4 @@
 .minecraft/*
-!.minecraft/resourcepacks
 !.minecraft/global_packs
 !.minecraft/custom_advancements
 !.minecraft/defaultconfigs
