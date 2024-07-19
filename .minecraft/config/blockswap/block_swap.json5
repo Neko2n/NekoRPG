@@ -368,7 +368,7 @@
 		//
 		"berry_good:sweet_berry_basket": "quark:berry_sack",
 		"berry_good:glow_berry_basket": "quark:glowberry_sack",
-		"mowzies_mobs:thatch_block": "environmental:grass_thatch",
+		"mowziesmobs:thatch_block": "environmental:grass_thatch",
 		"hearth_and_home:thatch": "environmental:grass_thatch",
 		//
 		//"luminousworld:groundpebbles_3": "spelunkers_charm:rock_pile_1",
