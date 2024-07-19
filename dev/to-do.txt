@@ -1,12 +1,11 @@
 # TO-DO
-- Pedestal duplicate
-- Glowberry sack duplicate
-- IDAS spawning alex's mobs bananas
-- IDAS spawning create wrenches and supplementaries wrenches
-- Unify thatch blocks
 - Netherite forge advancements
 - Chest, sack, bundle, & backpack advancements
-- Unify shingles
+- Dungeons & Taverns loot tables
+- IDAS loot tables
+    - alex's mobs bananas
+    - create wrenches and supplementaries wrenches
+    - flax
 
 # LOW-PRIORITY
 - Disable mutant monsters chemical X brewing recipes

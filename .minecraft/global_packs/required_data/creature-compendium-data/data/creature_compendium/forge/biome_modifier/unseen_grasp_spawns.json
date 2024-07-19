@@ -1,0 +1,13 @@
+{
+  "type" :"forge:add_spawns",
+  "biomes" : [
+    "regions_unexplored:blackstone_basin",
+    "minecraft:soul_sand_valley"
+  ],
+  "spawners": {
+    "type" : "creature_compendium:unseen_grasp",
+    "weight" : 1,
+    "minCount" : 1,
+    "maxCount" : 1
+  }
+}

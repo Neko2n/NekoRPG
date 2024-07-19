@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sculk_sensor",
+    "minecraft:sculk",
+    "minecraft:sculk_vein",
+    "minecraft:sculk_catalyst",
+    "minecraft:sculk_shrieker",
+    "minecraft:reinforced_deepslate",
+    "minecraft:spawner",
+    "structure_gel:dynamic_spawner",
+    "valhelsia_structures:special_spawner",
+    "quark:monster_box",
+    {
+      "id": "#lootr:containers",
+      "required": false
+    }
+  ]
+}
