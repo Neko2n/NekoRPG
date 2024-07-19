@@ -42,9 +42,6 @@
 		[types.wood_type.outer_end]
 			azure = true
 
-		[types.wood_type.spawn]
-			rotten = true
-
 		[types.wood_type.endergetic]
 			poise = true
 
