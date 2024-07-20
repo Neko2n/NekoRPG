@@ -40,6 +40,7 @@
     }
   ],
   "lookup_history": [
+    "item:bosses_of_mass_destruction:blazing_eye",
     {
       "type": "item",
       "id": "minecraft:ender_eye",
@@ -592,12 +593,15 @@
     "item:minecraft:stone_sword{Damage:0}"
   ],
   "craft_history": [
+    "minecraft:golden_helmet",
+    "everycomp:q/regions_unexplored/mauve_chest",
+    "minecraft:diamond_pickaxe",
+    "scalinghealth:heart_crystal",
     "everycomp:q/regions_unexplored/maple_chest",
     "minecraft:blaze_powder",
     "minecraft:yellow_dye_from_dandelion",
     "minecraft:armor_stand",
     "minecraft:smooth_stone_slab",
-    "minecraft:golden_helmet",
     "hearth_and_home:terracotta_bricks",
     "hearth_and_home:red_terracotta_brick_slab",
     "everycomp:lolmct/regions_unexplored/maple_crafting_table",
@@ -674,7 +678,6 @@
     "minecraft:gold_ingot_from_gold_block",
     "minecraft:iron_sword",
     "minecraft:iron_pickaxe",
-    "everycomp:q/regions_unexplored/mauve_chest",
     "minecraft:iron_ingot_from_iron_block",
     "quark:building/crafting/vertplanks/vertical_warped_planks",
     "everycomp:lolmct/regions_unexplored/mauve_crafting_table",
@@ -689,7 +692,6 @@
     "everycomp:hnhome/environmental/willow_trim",
     "atmospheric:aspen_planks",
     "another_furniture:black_sofa",
-    "scalinghealth:heart_crystal",
     "atmospheric:aspen_boat",
     "everycomp:lolmct/atmospheric/aspen_crafting_table",
     "atmospheric:laurel_planks",
