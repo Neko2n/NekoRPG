@@ -2,7 +2,7 @@
 #Other Configuration
 [Misc]
 	#rarityConfig array values must sum to 1: [COMMON, UNCOMMON, RARE, EPIC, LEGENDARY]. Default: [.3d, .25d, .2d, .15d, .1d]
-	rarityConfig = [0.3, 0.25, 0.2, 0.15, 0.1]
+	rarityConfig = [0.4, 0.27, 0.18, 0.1, 0.05]
 	#Whether or not imbued weapons require mana to be casted. Default: true
 	swordsConsumeMana = true
 	#The multiplier on the cooldown of imbued weapons. Default: 0.5 (50% of default cooldown)
@@ -105,7 +105,7 @@
 		MaxLevel = 10
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "COMMON"
-		ManaCostMultiplier = 1.4
+		ManaCostMultiplier = 1.2
 		SpellPowerMultiplier = 0.4
 		CooldownInSeconds = 20.0
 		AllowCrafting = true
@@ -415,8 +415,8 @@
 		MaxLevel = 8
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "RARE"
-		ManaCostMultiplier = 1.2
-		SpellPowerMultiplier = 0.1
+		ManaCostMultiplier = 0.8
+		SpellPowerMultiplier = 0.2
 		CooldownInSeconds = 5.0
 		AllowCrafting = true
 
@@ -503,7 +503,7 @@
 		MaxLevel = 3
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "UNCOMMON"
-		ManaCostMultiplier = 1.5
+		ManaCostMultiplier = 2.0
 		SpellPowerMultiplier = 0.6
 		CooldownInSeconds = 60.0
 		AllowCrafting = true
@@ -759,8 +759,8 @@
 		MaxLevel = 5
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "UNCOMMON"
-		ManaCostMultiplier = 1.2
-		SpellPowerMultiplier = 0.1
+		ManaCostMultiplier = 0.8
+		SpellPowerMultiplier = 0.2
 		CooldownInSeconds = 3.0
 		AllowCrafting = true
 
@@ -848,8 +848,8 @@
 		MaxLevel = 5
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "UNCOMMON"
-		ManaCostMultiplier = 1.2
-		SpellPowerMultiplier = 0.1
+		ManaCostMultiplier = 0.8
+		SpellPowerMultiplier = 0.2
 		CooldownInSeconds = 4.0
 		AllowCrafting = true
 
