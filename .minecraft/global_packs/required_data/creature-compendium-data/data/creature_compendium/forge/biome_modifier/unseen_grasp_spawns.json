@@ -1,7 +1,6 @@
 {
   "type" :"forge:add_spawns",
   "biomes" : [
-    "regions_unexplored:blackstone_basin",
     "minecraft:soul_sand_valley"
   ],
   "spawners": {

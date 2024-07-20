@@ -9,20 +9,6 @@
 			"entries": [
 				{
 					"type": "item",
-					"name": "minecraft:arrow",
-					"functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 3,
-                                "max": 9
-                            }
-                        }
-                    ],
-                    "weight": 1
-				},
-				{
-					"type": "item",
 					"name": "archers_paradox:blaze_arrow",
 					"functions": [
                         {
@@ -37,7 +23,7 @@
 				},
 				{
 					"type": "item",
-					"name": "minecraft:fire_charge",
+					"name": "supplementaries:bomb",
 					"functions": [
                         {
                             "function": "set_count",

@@ -1,6 +1,5 @@
 {
   "values": [
-    "minecraft:hay_block",
     "minecraft:honey_block",
     {
       "id": "farmersdelight:carrot_crate",

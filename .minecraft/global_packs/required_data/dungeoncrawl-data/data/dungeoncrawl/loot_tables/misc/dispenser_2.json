@@ -23,6 +23,20 @@
 				},
 				{
 					"type": "item",
+					"name": "minecraft:fire_charge",
+					"functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 3,
+                                "max": 9
+                            }
+                        }
+                    ],
+                    "weight": 2
+				},
+				{
+					"type": "item",
 					"name": "archers_paradox:blaze_arrow",
 					"functions": [
                         {

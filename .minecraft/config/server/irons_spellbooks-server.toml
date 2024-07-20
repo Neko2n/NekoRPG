@@ -107,7 +107,7 @@
 		MinRarity = "COMMON"
 		ManaCostMultiplier = 1.4
 		SpellPowerMultiplier = 0.4
-		CooldownInSeconds = 10.0
+		CooldownInSeconds = 20.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:blaze_storm"]
@@ -416,8 +416,8 @@
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "RARE"
 		ManaCostMultiplier = 1.2
-		SpellPowerMultiplier = 0.25
-		CooldownInSeconds = 55.0
+		SpellPowerMultiplier = 0.1
+		CooldownInSeconds = 5.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:summon_polar_bear"]
@@ -504,8 +504,8 @@
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 1.5
-		SpellPowerMultiplier = 0.3
-		CooldownInSeconds = 40.0
+		SpellPowerMultiplier = 0.6
+		CooldownInSeconds = 60.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:dragon_breath"]
@@ -639,7 +639,7 @@
 		MinRarity = "EPIC"
 		ManaCostMultiplier = 2.0
 		SpellPowerMultiplier = 0.2
-		CooldownInSeconds = 1200.0
+		CooldownInSeconds = 80.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:sunbeam"]
@@ -760,8 +760,8 @@
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 1.2
-		SpellPowerMultiplier = 0.25
-		CooldownInSeconds = 45.0
+		SpellPowerMultiplier = 0.1
+		CooldownInSeconds = 3.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:acupuncture"]
@@ -849,8 +849,8 @@
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 1.2
-		SpellPowerMultiplier = 0.25
-		CooldownInSeconds = 50.0
+		SpellPowerMultiplier = 0.1
+		CooldownInSeconds = 4.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:ascension"]
