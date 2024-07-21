@@ -61,13 +61,13 @@
 	#true if immunity frame enchant is enabled, false if disabled
 	immunity_frame_enabled = false
 	#true if deflection enchant is enabled, false if disabled
-	deflection_enabled = true
+	deflection_enabled = false
 	#true if poison resistance enchant is enabled, false if disabled
 	poison_resistance_enabled = true
 	#true if chain lightning enchant is enabled, false if disabled
 	chain_lightning_enabled = true
 	#true if speedster enchant is enabled, false if disabled
-	speedster_enabled = true
+	speedster_enabled = false
 	#true if frost fang enchant is enabled, false if disabled
 	frost_fang_enabled = true
 	#true if magnetic enchant is enabled, false if disabled
@@ -99,7 +99,7 @@
 	#true if warping bite enchant is enabled, false if disabled
 	warping_bite_enabled = true
 	#true if ore scenting enchant is enabled, false if disabled
-	ore_scenting_enabled = true
+	ore_scenting_enabled = false
 	#true if gluttonous enchant is enabled, false if disabled
 	gluttonous_enabled = true
 	#true if psychic wall enchant is enabled, false if disabled
@@ -113,7 +113,7 @@
 	#true if blazing protection enchant is enabled, false if disabled
 	blazing_protection_enabled = true
 	#true if healing aura enchant is enabled, false if disabled
-	healing_aura_enabled = true
+	healing_aura_enabled = false
 	#true if rejuvenation enchant is enabled, false if disabled
 	rejuvenation_enabled = true
 	#true if undead curse enchant is enabled, false if disabled
