@@ -32,7 +32,7 @@
         },
         [
           {
-            "item": "create:brass_nugget"
+            "item": "minecraft:gunpowder"
           }
         ]
       ],
@@ -50,7 +50,7 @@
         },
         [
           {
-            "item": "minecraft:gunpowder"
+            "item": "create:brass_nugget"
           }
         ]
       ],

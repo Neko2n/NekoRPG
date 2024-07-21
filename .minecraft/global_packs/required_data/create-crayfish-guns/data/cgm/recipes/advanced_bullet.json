@@ -6,7 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "count": 1,
+      "count": 2,
       "item": "cgm:advanced_bullet"
     }
   ],
@@ -25,7 +25,7 @@
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
         }
       ]
     },
@@ -33,7 +33,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
         },
         [
           {
@@ -43,7 +43,7 @@
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
         }
       ]
     },
@@ -51,7 +51,25 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
+        },
+        [
+          {
+            "item": "create:brass_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:brass_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_sheet"
         },
         [
           {
@@ -61,7 +79,7 @@
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
         }
       ]
     },
@@ -69,7 +87,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
         },
         [
           {
@@ -79,7 +97,7 @@
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
         }
       ]
     },
@@ -87,17 +105,17 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
         }
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "create:brass_sheet"
         }
       ]
     }
   ],
   "transitionalItem": {
-    "item": "create:brass_nugget"
+    "item": "create:brass_sheet"
   }
 }

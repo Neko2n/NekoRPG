@@ -1,44 +1,26 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "item": "create:brass_nugget"
+    "item": "minecraft:dried_kelp"
   },
   "loops": 1,
   "results": [
     {
-      "count": 6,
+      "count": 4,
       "item": "cgm:shell"
     }
   ],
   "sequence": [
     {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "create:brass_nugget"
-        },
-        [
-          {
-            "item": "minecraft:dried_kelp"
-          }
-        ]
-      ],
-      "results": [
-        {
-          "item": "create:brass_nugget"
-        }
-      ]
-    },
-    {
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         }
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         }
       ]
     },
@@ -46,7 +28,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         },
         [
           {
@@ -56,7 +38,7 @@
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         }
       ]
     },
@@ -64,7 +46,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         },
         [
           {
@@ -74,7 +56,7 @@
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         }
       ]
     },
@@ -82,7 +64,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         },
         [
           {
@@ -92,7 +74,7 @@
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         }
       ]
     },
@@ -100,17 +82,17 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         }
       ],
       "results": [
         {
-          "item": "create:brass_nugget"
+          "item": "minecraft:dried_kelp"
         }
       ]
     }
   ],
   "transitionalItem": {
-    "item": "create:brass_nugget"
+    "item": "minecraft:dried_kelp"
   }
 }
