@@ -1,6 +1,4 @@
 # TO-DO
-- Netherite forge advancements
-- Chest, sack, bundle, & backpack advancements
 - Dungeons & Taverns loot tables
 - IDAS loot tables
     - alex's mobs bananas
@@ -10,4 +8,8 @@
 # LOW-PRIORITY
 - Disable mutant monsters chemical X brewing recipes
 - Allow clicking on blood with an empty bottle to get a blood vial
-- 
+- Iron's Spells & Spellbooks Nerfs
+
+# PACK REWORK
+- Replace Create with Ars Nouveau
+    - & Re-enable Quark's Automation Features

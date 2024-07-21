@@ -1,6 +1,11 @@
 {
+  "replace": true,
   "values": [
+    "#minecraft:flowers",
+    "#minecraft:saplings",
+    "#forge:seeds",
     "minecraft:spider_eye",
+    "neapolitan:chocolate_spider_eye",
     "minecraft:rotten_flesh"
   ]
 }

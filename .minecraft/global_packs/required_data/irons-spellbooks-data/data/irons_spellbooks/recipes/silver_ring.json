@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " S ",
+      "SAS",
+      " S "
+    ],
+    "key": {
+      "S": {
+        "tag": "forge:ingots/silver"
+      },
+      "A": {
+        "item": "irons_spellbooks:arcane_essence"
+      }
+    },
+    "result": {
+      "item": "irons_spellbooks:silver_ring"
+    }
+  }

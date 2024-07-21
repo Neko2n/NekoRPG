@@ -1,0 +1,18 @@
+{
+  "pools": [
+    {
+      "name": "underground_cabin_toxic_caves",
+      "rolls": {
+        "min": 6,
+        "max": 16
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 15,
+          "name": "alexscaves:chests/underground_cabin"
+        }
+      ]
+    }
+  ]
+}

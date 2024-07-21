@@ -1,0 +1,6 @@
+{
+  "type": "alexscaves:cave_tablet",
+  "biome": "alexscaves:forlorn_hollows",
+  "replace": false,
+  "conditions": []
+}

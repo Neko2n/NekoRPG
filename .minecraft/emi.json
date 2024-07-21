@@ -40,6 +40,26 @@
     }
   ],
   "lookup_history": [
+    "item:irons_spellbooks:druidic_spell_book{ISB_Spells:{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
+    "item:supplementaries:sack",
+    "item:farmersdelight:canvas",
+    "item:suppsquared:sack_pink",
+    "item:farmersdelight:straw",
+    "item:supplementaries:doormat",
+    "item:artifacts:everlasting_beef",
+    "item:quark:ancient_fruit",
+    "item:miners_delight:vegan_wrap",
+    "item:miners_delight:stuffed_squid",
+    {
+      "type": "item",
+      "id": "minecraft:honey_bottle",
+      "amount": 16
+    },
+    "item:alexscaves:cave_codex{CaveBiome:\"alexscaves:magnetic_caves\"}",
+    "item:alexscaves:cave_book",
+    "item:irons_spellbooks:magic_cloth",
+    "item:irons_spellbooks:pumpkin_helmet{Damage:0}",
+    "item:irons_spellbooks:mana_ring",
     "item:bosses_of_mass_destruction:blazing_eye",
     {
       "type": "item",
@@ -107,11 +127,6 @@
     "item:minecraft:chiseled_bookshelf",
     "item:everycomp:q/regions_unexplored/mauve_bookshelf",
     "item:everycomp:q/regions_unexplored/yellow_bioshroom_bookshelf",
-    {
-      "type": "item",
-      "id": "irons_spellbooks:magic_cloth",
-      "amount": 2
-    },
     "item:waystones:warp_scroll",
     "item:immersive_weathering:warped_scales",
     "item:alexscaves:pure_darkness",
@@ -200,7 +215,6 @@
     "item:regions_unexplored:mauve_shrub",
     "item:mynethersdelight:powdery_planks",
     "item:minecraft:heart_of_the_sea",
-    "item:quark:ancient_fruit",
     "item:quarkdelight:bowl_of_exotic_fruits",
     "item:create:mechanical_crafter",
     "item:cataclysm:the_incinerator",
@@ -313,7 +327,6 @@
       "id": "minecraft:copper_ingot",
       "amount": 30
     },
-    "item:farmersdelight:canvas",
     "item:minecraft:flower_pot",
     "item:copycats:copycat_byte",
     "item:everycomp:fd/biomesoplenty/jacaranda_cabinet",
@@ -385,7 +398,6 @@
     "item:irons_spellbooks:netherite_mage_chestplate{Damage:0,ISB_Spells:{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
     "item:irons_spellbooks:netherite_mage_helmet{Damage:0}",
     "item:irons_spellbooks:shadowwalker_helmet{Damage:0}",
-    "item:irons_spellbooks:mana_ring",
     "item:minecraft:potion{Potion:\"minecraft:healing\"}",
     "item:quark:smithing_template_rune",
     "item:irons_spellbooks:pyromancer_chestplate{Damage:0,ISB_Spells:{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
@@ -503,7 +515,6 @@
       "id": "minecraft:white_wool",
       "amount": 13
     },
-    "item:supplementaries:doormat",
     "item:supplementaries:hat_stand",
     "item:create:limestone_pillar",
     "item:cataclysm:stone_pillar",
@@ -575,7 +586,6 @@
       "id": "immersive_weathering:regions_unexplored/maple_bark",
       "amount": 4
     },
-    "item:farmersdelight:straw",
     "#item:minecraft:planks",
     "item:minecraft:bundle{Items:[{Count:3b,id:\"minecraft:leather\"},{Count:2b,id:\"minecraft:potion\",tag:{Potion:\"minecraft:long_strength\"}},{Count:1b,id:\"minecraft:damaged_anvil\"},{Count:5b,id:\"minecraft:paper\"},{Count:1b,id:\"minecraft:emerald\"},{Count:1b,id:\"minecraft:oak_log\"},{Count:5b,id:\"farmersdelight:cooked_cod_slice\"},{Count:6b,id:\"environmental:red_lotus_flower\"},{Count:6b,id:\"neapolitan:mint_leaves\"},{Count:12b,id:\"atmospheric:passion_vine\"}]}",
     {
@@ -593,6 +603,11 @@
     "item:minecraft:stone_sword{Damage:0}"
   ],
   "craft_history": [
+    "miners_delight:vegan_wrap",
+    "minecraft:bread",
+    "farmersdelight:tomato_seeds",
+    "minecraft:wheat",
+    "buzzier_bees:honey/glazed_porkchop",
     "minecraft:golden_helmet",
     "everycomp:q/regions_unexplored/mauve_chest",
     "minecraft:diamond_pickaxe",

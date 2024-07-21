@@ -145,8 +145,8 @@
 
 	[building.variant_ladders]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -154,8 +154,8 @@
 
 	[building.variant_bookshelves]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -191,8 +191,8 @@
 
 	[building.thatch]
 		#This feature disables itself if any of the following mods are loaded:
-		# - environmental
 		# - goated
+		# - environmental
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -234,8 +234,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - immersive_weathering
 		# - woodworks
+		# - immersive_weathering
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -372,7 +372,7 @@
 		# - <color> being a hex color (without the #) for the map to display. You can generate one here - https://htmlcolorcodes.com/
 		#Here's an example of a map to locate Ice Mountains:
 		#minecraft:ice_mountains,2,8,14,7FE4FF
-		Customs = ["minecraft:lush_caves,8,16,3B522E", "biomesoplenty:origin_valley,12,24,5EFF00", "biomesoplenty:mystic_grove,12,24,00BFFF", "minecraft:mushroom_fields,8,16,6E5858", "environmental:blossom_valleys,8,16,E68CE4", "minecraft:ice_spikes,8,16,7FE4FF"]
+		Customs = ["minecraft:cherry_grove,2,8,16,FFA0F8", "minecraft:savanna,1,6,12,A3863A", "minecraft:badlands,1,6,12,6D3A00", "minecraft:jungle,1,6,12,3F7600", "minecraft:dark_forest,1,6,12,006C0C", "minecraft:swamp,1,6,12,1D5614", "minecraft:desert,1,6,12,FFE98D", "alexscaves:abyssal_chasm,3,12,24,1B248E", "alexscaves:forlorn_hollows,3,12,24,34241F", "alexscaves:primordial_caves,3,12,24,5D8C00", "alexscaves:magnetic_caves,3,12,24,1400FF", "alexscaves:toxic_caves,3,12,24,6EFF00", "minecraft:lush_caves,1,8,16,3B522E", "biomesoplenty:origin_valley,3,12,24,5EFF00", "biomesoplenty:mystic_grove,2,12,24,00BFFF", "minecraft:mushroom_fields,3,8,16,6E5858", "environmental:blossom_valleys,1,8,16,E68CE4", "minecraft:ice_spikes,1,6,12,7FE4FF"]
 		#Set to false to make it so the default quark Pathfinder Map Built-In don't get added, and only the custom ones do
 		"Apply Default Trades" = false
 		#How many steps in the search should the Pathfinder's Quill do per tick? The higher this value, the faster it'll find a result, but the higher chance it'll lag the game while doing so

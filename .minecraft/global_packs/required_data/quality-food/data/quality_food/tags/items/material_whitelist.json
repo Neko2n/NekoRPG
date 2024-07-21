@@ -1,6 +1,6 @@
 {
+  "replace": true,
   "values": [
-    "minecraft:honey_block",
     {
       "id": "farmersdelight:carrot_crate",
       "required": false
@@ -30,14 +30,6 @@
       "required": false
     },
     {
-      "id": "farmersdelight:rice_bale",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:rice_bag",
-      "required": false
-    },
-    {
       "id": "quark:apple_crate",
       "required": false
     },
@@ -58,10 +50,6 @@
       "required": false
     },
     {
-      "id": "quark:cocoa_beans_sack",
-      "required": false
-    },
-    {
       "id": "quark:glowberry_sack",
       "required": false
     },
@@ -75,14 +63,6 @@
     },
     {
       "id": "quark:potato_crate",
-      "required": false
-    },
-    {
-      "id": "quark:sugar_cane_block",
-      "required": false
-    },
-    {
-      "id": "supplementaries:sugar_cube",
       "required": false
     },
     {
@@ -100,6 +80,10 @@
     {
       "id": "vinery:apple_bag",
       "required": false
+    },
+    {
+        "required": false,
+        "id": "miners_delight:cave_carrot_crate"
     }
   ]
 }
