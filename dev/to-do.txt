@@ -8,8 +8,24 @@
 # LOW-PRIORITY
 - Disable mutant monsters chemical X brewing recipes
 - Allow clicking on blood with an empty bottle to get a blood vial
-- Iron's Spells & Spellbooks Nerfs
 
 # PACK REWORK
 - Replace Create with Ars Nouveau
     - & Re-enable Quark's Automation Features
+- Iron's Spells & Spellbooks rework & nerfs
+- Custom drops for mobs
+    - Mutated Arm for Mutant Zombie
+    - Giant Crossbow for Mutant Skeleton
+    - Disable Endersoul Hand teleport ability and add it back to Mutant Enderman
+- Unify all teeth under one tooth item
+    - Make jawbreakers drop teeth
+- Custom mob for Blackstone Basins
+- Nether difficulty mechanics (see discord)
+- Temperature system (tough as nails)
+- Replace waystones with a custom fast travel mod
+    - Warp gems you find in dungeon loot that can be used to fast travel to a known location once
+        - Can be crafted with chorus fruit and amethyst in a magic ritual to make them renewable post-game
+    - Wormhole potions to teleport to other players, brewed with warp gems
+    - Fast travel locations are defined by magic banners, crafted by putting a banner in a magic ritual or found in dungeon chests
+    - Using a warp gem will pull up a map of all fast travel locations and their names
+    - Using a wormhole potion will pull up a list of all players to teleport to
