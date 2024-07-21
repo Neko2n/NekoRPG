@@ -30,10 +30,10 @@ whitelistShootEntity = ["minecraft:skeleton", "minecraft:pillager", "minecraft:s
 UniversalEnchant = false
 #Set The Difficulty Base Enchanted Mob Spawn Percent. [(Difficulty Base Percent * Difficulty id) + (Effective Difficulty Percent * Effective Difficulty)]
 #Range: 0.0 ~ 1.0
-"Difficulty Enchanted Spawn Percent" = 0.005
+"Difficulty Enchanted Spawn Percent" = 0.004
 #Set The Effective Difficulty Base Enchanted Mob Spawn Percent [(Difficulty Base Percent * Difficulty id) + (Effective Difficulty Percent * Effective Difficulty)]
 #Range: 0.0 ~ 1.0
-"Effective Difficulty Enchanted Spawn Percent" = 0.025
+"Effective Difficulty Enchanted Spawn Percent" = 0.015
 #Disable Enchanter Armor Item. [true / false]
 "Disable Enchanter Armor" = true
 #Disable MobEnchant Stuff Items. [true / false]

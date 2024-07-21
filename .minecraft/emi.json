@@ -40,6 +40,14 @@
     }
   ],
   "lookup_history": [
+    "item:waterframes:big_tv",
+    "item:waterframes:frame",
+    "item:waterframes:tv",
+    "item:lolmct:cherry_crafting_table",
+    "item:lolmct:spruce_crafting_table",
+    "#item:forge:workbench",
+    "item:minecraft:crafting_table",
+    "item:create:crafting_blueprint",
     "item:cgm:shell",
     "item:create:mechanical_press",
     "item:create:brass_sheet",
@@ -534,7 +542,6 @@
     "item:irons_spellbooks:iron_spell_book{ISB_Spells:{data:[],maxSpells:6,mustEquip:1b,spellWheel:1b}}",
     "item:farmersdelight:dog_food",
     "item:minecraft:chain",
-    "item:waterframes:frame",
     {
       "type": "item",
       "id": "minecraft:tinted_glass",
@@ -579,7 +586,6 @@
     },
     "item:create:sand_paper{Damage:0}",
     "#item:create:sandpaper",
-    "item:waterframes:tv",
     "item:another_furniture:red_curtain",
     "item:etcetera:drum",
     "item:create:clipboard",

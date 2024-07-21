@@ -1472,7 +1472,7 @@
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.shiba.spawn_config.biomes.biomes]
-					Biomes = []
+					Biomes = ["biomesoplenty:origin_valley"]
 					"Is Blacklist" = true
 
 	[mobs.stonelings]
