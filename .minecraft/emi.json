@@ -40,6 +40,9 @@
     }
   ],
   "lookup_history": [
+    "item:cgm:shell",
+    "item:create:mechanical_press",
+    "item:create:brass_sheet",
     "item:irons_spellbooks:druidic_spell_book{ISB_Spells:{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
     "item:supplementaries:sack",
     "item:farmersdelight:canvas",
@@ -175,7 +178,6 @@
     },
     "item:cgm:stun_grenade",
     "item:cgm:advanced_bullet",
-    "item:cgm:shell",
     "item:cgm:basic_bullet",
     "item:cgm:heavy_rifle{AmmoCount:1}",
     "item:cgm:mini_gun{AmmoCount:32}",
