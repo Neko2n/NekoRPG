@@ -72,6 +72,10 @@
     "weight": 1
   },
   {
+    "item": "irons_spellbooks:rotten_spell_book",
+    "weight": 1
+  },
+  {
     "item": "irons_spellbooks:gold_spell_book",
     "weight": 1
   },
@@ -81,7 +85,7 @@
   },
   {
     "item": "minecraft:totem_of_undying",
-    "weight": 1
+    "weight": 2
   },
   {
     "item": "waystones:waystone",
