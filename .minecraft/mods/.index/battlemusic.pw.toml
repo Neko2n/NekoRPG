@@ -1,13 +1,13 @@
-filename = 'battlemusic-1.20.1-1.1.0.jar'
+filename = 'battlemusic-1.20.1-1.1.1.jar'
 name = 'Battle Music'
 side = 'both'
 
 [download]
-hash = '1acbf0d88fb192a940c115c7b2a17faa3efe2092ad98530206927cf99ef26db55df5b05a41788380a575bd4613f37f832a0866e8fab3a8166d735cce447375dd'
+hash = '1e33ae346a3160ea8128bc594436ed2de37384f1f906439e70b9f3a4e647e24976d94eddd5b310a3c8f54777b1a6c68be0ae0651d5d6aad66791e9a541f7082e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/8HFCp5k3/versions/yjx5bpdm/battlemusic-1.20.1-1.1.0.jar'
+url = 'https://cdn.modrinth.com/data/8HFCp5k3/versions/pbhBAHRz/battlemusic-1.20.1-1.1.1.jar'
 
 [update.modrinth]
 mod-id = '8HFCp5k3'
-version = 'yjx5bpdm'
+version = 'pbhBAHRz'
