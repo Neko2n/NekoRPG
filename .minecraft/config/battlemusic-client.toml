@@ -2,7 +2,7 @@
 ["battlemusic configs"]
 	#Volume of battle music, set to zero to mute
 	#Range: 0.0 ~ 5.0
-	volume = 1.0
+	volume = 1.2000000476837158
 	#
 	#Whether battle music's volume is affected by the music slider
 	linked_to_music_volume = true
