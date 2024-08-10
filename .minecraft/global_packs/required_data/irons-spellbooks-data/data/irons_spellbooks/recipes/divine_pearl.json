@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "tag": "forge:ingots/silver"
+    },
+    {
+      "item": "scalinghealth:heart_crystal_shard"
+    },
+    {
+      "item": "scalinghealth:heart_crystal_shard"
+    }
+  ],
+  "result": {
+    "item": "irons_spellbooks:divine_pearl"
+  }
+}

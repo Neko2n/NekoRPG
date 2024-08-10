@@ -1,0 +1,6 @@
+{
+    "type": "forge:add_features",
+    "biomes": "biomesoplenty:spider_nest",
+    "features": "miningmaster:ore_spider_kunzite",
+    "step": "underground_ores"
+}

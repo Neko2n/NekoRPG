@@ -1,13 +1,13 @@
-filename = 'variantsandventures-forge-mc1.20.1-1.0.4.jar'
+filename = 'variantsandventures-forge-mc1.20.1-1.0.5.jar'
 name = 'Variants & Ventures'
 side = 'both'
 
 [download]
-hash = '5f37197b7c9a69383ebfc19f5369c43283228cde'
+hash = '485bedf25c8dd6728f76d605936c2e520104a22c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5547990
+file-id = 5607679
 project-id = 981139

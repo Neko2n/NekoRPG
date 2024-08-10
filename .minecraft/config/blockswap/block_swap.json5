@@ -73,6 +73,7 @@
 	],
 	
 	"swapper": {
+		"irons_spellbooks:alchemist_cauldron" : "create:basin",
 		"regions_unexplored:salmonberry_bush" : "minecraft:sweet_berry_bush",
 		"regions_unexplored:larch_log" : "atmospheric:aspen_log",
 		"regions_unexplored:stripped_larch_log" : "atmospheric:stripped_aspen_log",

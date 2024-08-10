@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:ice",
+        "minecraft:packed_ice",
+        "minecraft:blue_ice",
+        "minecraft:frosted_ice",
+        "minecraft:snow_block",
+        "minecraft:snow",
+        "minecraft:powder_snow",
+        "ecologics:snow_bricks",
+        "ecologics:snow_bricks_stairs",
+        "ecologics:snow_bricks_slab",
+        "ecologics:snow_bricks_wall",
+        "ecologics:thin_ice",
+        "ecologics:ice_bricks",
+        "ecologics:ice_bricks_stairs",
+        "ecologics:ice_bricks_slab",
+        "ecologics:ice_bricks_wall"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "type": "forge:add_features",
+    "biomes": [
+        "minecraft:crimson_forest",
+        "biomesoplenty:visceral_heap",
+        "regions_unexplored:infernal_holt"
+    ],
+    "features": "miningmaster:ore_power_pyrite",
+    "step": "underground_ores"
+}

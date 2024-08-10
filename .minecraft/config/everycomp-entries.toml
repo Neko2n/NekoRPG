@@ -96,6 +96,9 @@
 		[types.wood_type.valhelsia_structures]
 			lapidified_jungle = true
 
+		[types.wood_type.under_the_moon]
+			sweptwood = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.biomesoplenty]
@@ -258,7 +261,6 @@
 
 		[entries.wood_type.regions_unexplored]
 			branch = true
-			shrub = true
 
 		[entries.wood_type.valhelsia_structures]
 			stripped_post = false
@@ -276,4 +278,7 @@
 		[entries.leaves_type.quark]
 			hedge = true
 			leaf_carpet = true
+
+		[entries.leaves_type.regions_unexplored]
+			shrub = true
 

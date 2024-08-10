@@ -1,0 +1,535 @@
+{
+  "alexsdelight:kangaroo_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "ends_delight:dragon_meat_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 3600
+    }
+  ],
+  "netherdepthsupgrade:baked_magmacubefish_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "alexscaves:seething_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 3600
+    }
+  ],
+  "alexscaves:vesper_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 1200
+    }
+  ],
+  "miners_delight:insect_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:insect_stew_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 1800
+    }
+  ],
+  "farmersdelight:fish_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:fish_stew_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 1800
+    }
+  ],
+  "neapolitan:banana_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:vanilla_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "minecraft:rabbit_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 1200
+    }
+  ],
+  "miners_delight:rabbit_stew_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 800
+    }
+  ],
+  "neapolitan:strawberry_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:strawberry_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "seasonals:pumpkin_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "farmersdelight:noodle_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:noodle_soup_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 1800
+    }
+  ],
+  "alexscaves:primordial_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:cave_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:cave_soup_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 1800
+    }
+  ],
+  "ends_delight:steamed_dragon_egg": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 3600
+    }
+  ],
+  "miners_delight:bat_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:bat_soup_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 1800
+    }
+  ],
+  "farmersdelight:chicken_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:chicken_soup_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 1800
+    }
+  ],
+  "farmersdelight:vegetable_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:vegetable_soup_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 1800
+    }
+  ],
+  "minecraft:water_bottle": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -1,
+      "duration": 400
+    }
+  ],
+  "farmersdelight:melon_juice": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -1,
+      "duration": 2400
+    }
+  ],
+  "farmersdelight:melon_popsicle": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -2,
+      "duration": 1800
+    }
+  ],
+  "regions_unexplored:duskmelon_slice": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -1,
+      "duration": 800
+    }
+  ],
+  "minecraft:melon_slice": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -1,
+      "duration": 800
+    }
+  ],
+  "farmersdelight:baked_cod_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:baked_cod_stew_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 1800
+    }
+  ],
+  "seasonals:sweet_berry_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "atmospheric:aloe_gel_bottle": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -2,
+      "duration": 3600
+    }
+  ],
+  "mynethersdelight:bullet_pepper": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 400
+    }
+  ],
+  "mynethersdelight:fried_hoglin_chop": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 3600
+    }
+  ],
+  "mynethersdelight:spicy_skewer": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 2400
+    }
+  ],
+  "mynethersdelight:spicy_noodle_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 2400
+    }
+  ],
+  "mynethersdelight:plate_of_ghasta_with_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 3600
+    }
+  ],
+  "mynethersdelight:chilidog": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "mynethersdelight:spicy_hoglin_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 2400
+    }
+  ],
+  "mynethersdelight:hot_wings": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 1200
+    }
+  ],
+  "mynethersdelight:hot_wings_bucket": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 3600
+    }
+  ],
+  "mynethersdelight:spicy_curry": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 3600
+    }
+  ],
+  "mynethersdelight:rock_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 1200
+    }
+  ],
+  "miners_delight:spicy_hoglin_stew_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 1800
+    }
+  ],
+  "miners_delight:spicy_noodle_soup_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 1800
+    }
+  ],
+  "miners_delight:rock_soup_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 800
+    }
+  ],
+  "netherdepthsupgrade:blazefish_roll": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 1200
+    }
+  ],
+  "netherdepthsupgrade:baked_blazefish_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 1200
+    },
+    {
+      "group": "DRINK",
+      "temperatureLevel": 3,
+      "duration": 1200
+    }
+  ],
+  "netherdepthsupgrade:grilled_blazefish": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 1200
+    }
+  ],
+  "netherdepthsupgrade:blazefish": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 400
+    }
+  ],
+  "netherdepthsupgrade:blazefish_slice": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 3,
+      "duration": 400
+    }
+  ],
+  "atmospheric:aloe_leaves": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -1,
+      "duration": 400
+    }
+  ],
+  "neapolitan:ice_cubes": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -2,
+      "duration": 400
+    }
+  ],
+  "miners_delight:mushroom_stew_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 800
+    },
+    {
+      "group": "DRINK",
+      "temperatureLevel": 1,
+      "duration": 800
+    }
+  ],
+  "minecraft:mushroom_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 1200
+    },
+    {
+      "group": "DRINK",
+      "temperatureLevel": 1,
+      "duration": 1200
+    }
+  ],
+  "farmersdelight:hot_cocoa": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": 3,
+      "duration": 3600
+    }
+  ],
+  "farmersdelight:pumpkin_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:pumpkin_soup_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 1800
+    }
+  ],
+  "mynethersdelight:strider_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:strider_stew_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 1800
+    }
+  ],
+  "farmersdelight:beef_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "miners_delight:beef_stew_cup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 1800
+    }
+  ],
+  "seasonals:sweet_berry_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:chocolate_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:chocolate_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:vanilla_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "seasonals:pumpkin_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:banana_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:neapolitan_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ]
+}

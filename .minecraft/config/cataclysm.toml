@@ -165,13 +165,13 @@
 	MonstrosityHealthMultiplier = 1.5
 	#Monstrosity's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityDamageMultiplier = 1.0
+	MonstrosityDamageMultiplier = 1.25
 	#Monstrosity's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityHealingMultiplier = 1.0
+	MonstrosityHealingMultiplier = 1.4
 	#Monstrosity's DamageCap
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityDamageCap = 22
+	MonstrosityDamageCap = 26
 	#Monstrosity's bodyBlocking verdict
 	NetheritemonstrosityBodyBloking = true
 	#Monstrosity's attack Hp Damage
@@ -195,15 +195,15 @@
 	GolemHealthMultiplier = 1.3
 	#Golem's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	GolemDamageMultiplier = 1.0
+	GolemDamageMultiplier = 1.25
 
 [Ignis]
 	#Ignis's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	IgnisHealthMultiplier = 1.4
+	IgnisHealthMultiplier = 1.6
 	#Ignis's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	IgnisDamageMultiplier = 1.0
+	IgnisDamageMultiplier = 1.25
 	#Ignis's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
 	IgnisHealingMultiplier = 1.0
@@ -212,7 +212,7 @@
 	"Ignis's prevent attacks from far away Range" = 15.0
 	#Ignis's DamageCap
 	#Range: 0.0 ~ 1000000.0
-	IgnisDamageCap = 20
+	IgnisDamageCap = 30
 	#Ignis's cracked block breaking ignore the MobGriefing
 	IgnisBlockBreaking = true
 	#Ignis's Healing with out target
@@ -222,10 +222,10 @@
 [revenant]
 	#Revenant's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	RevenantHealthMultiplier = 1.2
+	RevenantHealthMultiplier = 1.4
 	#Revenant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	RevenantDamageMultiplier = 1.0
+	RevenantDamageMultiplier = 1.2
 
 ["The Harbinger"]
 	#Harbinger's Health Multiplier
@@ -233,7 +233,7 @@
 	HarbingerHealthMultiplier = 1.5
 	#Harbinger's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerDamageMultiplier = 1.0
+	HarbingerDamageMultiplier = 1.25
 	#Harbinger's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
 	HarbingerHealingMultiplier = 1.0
@@ -261,7 +261,7 @@
 	LeviathanHealthMultiplier = 1.5
 	#Leviathan's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	LeviathanDamageMultiplier = 1.0
+	LeviathanDamageMultiplier = 1.25
 	#Leviathan's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Leviathan's prevent attacks from far away Range" = 38.0
@@ -279,7 +279,7 @@
 	"Leviathan's Tentacle Hp Damage" = 0.03
 	#Leviathan's DamageCap
 	#Range: 0.0 ~ 1000000.0
-	LeviathanDamageCap = 20
+	LeviathanDamageCap = 24
 	#Leviathan's block breaking ignore the MobGriefing
 	LeviathanBlockBreaking = true
 	#Leviathan Immune Out of Water
@@ -299,10 +299,10 @@
 ["Amethyst Crab"]
 	#Amethyst Crab's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	AmethystCrabHealthMultiplier = 1.0
+	AmethystCrabHealthMultiplier = 1.25
 	#Amethyst Crab's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	AmethystCrabDamageMultiplier = 1.0
+	AmethystCrabDamageMultiplier = 1.2
 	#Amethyst Crab's EarthQuake Damage
 	#Range: 0.0 ~ 1000000.0
 	AmethystCrabEarthQuakeDamage = 5.0
@@ -388,7 +388,7 @@
 	AncientRemnantHealthMultiplier = 1.5
 	#Ancient Remnant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	AncientRemnantDamageMultiplier = 1.0
+	AncientRemnantDamageMultiplier = 1.2
 	#Ancient Remnant's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Ancient Remnant's prevent attacks from far away Range" = 15.0

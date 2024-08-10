@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "#forge:stone",
+        "#forge:cobblestone",
+        "#minecraft:base_stone_nether",
+        "#minecraft:base_stone_overworld",
+        "#forge:end_stones"
+    ]
+}

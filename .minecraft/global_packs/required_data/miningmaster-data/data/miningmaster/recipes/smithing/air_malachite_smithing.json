@@ -1,0 +1,19 @@
+{
+    "type": "miningmaster:gem_smithing_recipe",
+    "blacklist": {
+        "tag": "miningmaster:gem_enchanting_blacklist"
+    },
+    "gem": {
+        "item": "miningmaster:air_malachite"
+    },
+    "enchantments": [
+        "minecraft:feather_falling",
+        "minecraft:respiration",
+        "miningmaster:floatation",
+        "miningmaster:knight_jump",
+        "allurement:launch",
+        "domesticationinnovation:bubbling",
+        "cgm:lightweight",
+        "supplementaries:stasis"
+    ]
+}

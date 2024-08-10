@@ -1,0 +1,9 @@
+{
+  "loot_table": "lootintegrations:chests/nether_armor",
+  "integrated_loot_tables": {
+    "minecraft:chests/nether_bridge": 1,
+    "minecraft:chests/nether_fortress/fort_inside": 2,
+    "minecraft:chests/nether_fortress/fort_inside_generic": 1,
+    "bosses_of_mass_destruction:chests/gauntlet": 1
+  }
+}

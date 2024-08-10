@@ -1,0 +1,9 @@
+{
+    "type": "forge:add_features",
+    "biomes": [
+        "minecraft:basalt_deltas",
+        "biomesoplenty:erupting_inferno"
+    ],
+    "features": "miningmaster:ore_kinetic_opal",
+    "step": "underground_ores"
+}

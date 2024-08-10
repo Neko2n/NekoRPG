@@ -1,31 +1,37 @@
 # TO-DO
+- Fix nether fortresses (go back and remove all the structure voids you retard)
 - Dungeons & Taverns loot tables
 - IDAS loot tables
-    - alex's mobs bananas
-    - create wrenches and supplementaries wrenches
-    - flax
-
-# LOW-PRIORITY
-- Disable mutant monsters chemical X brewing recipes
-- Allow clicking on blood with an empty bottle to get a blood vial
-
-# PACK REWORK
-- Replace Create with Ars Nouveau
-    - & Re-enable Quark's Automation Features
-- Iron's Spells & Spellbooks rework & nerfs
-- Custom drops for mobs
-    - Mutated Arm for Mutant Zombie
-    - Giant Crossbow for Mutant Skeleton
+    - alex's mobs bananas -> neapolitan bananas
+    - create wrenches and supplementaries wrenches -> etcetera wrench
+    - flax -> straw
+- Custom drops for mutant mobs 
+    - Mutated Arm for Mutant Zombie (greatsword)
+    - Giant Crossbow for Mutant Skeleton (doubles the size of projectiles it shoots)
     - Disable Endersoul Hand teleport ability and add it back to Mutant Enderman
+    - Config to disable chemical X brewing recipes (default true)
+- Allow clicking on blood with an empty bottle to get a blood vial
+- Remove forge shield
+- Nerf forge core to netherite ingot conversion recipe
+- Add a new variant of the blast furnace that uses the netherite forge core, 3 obsidian, and blackstone
+    - Smelts at 4x speed
+    - Only accepts lava as fuel, but can be filled up to 8 times in advance
+- Remove create's bulk blasting + remove the advancements that go with it
+- Ignitium recipe (4 burning ashes + 2 netherite ingots in superheated blaze burner filled with lava)
+- Make table of elevation use shulker shells and void crystal blocks
+- Make blast amplifier use ignitium
+- Remove heart fruits from loot tables and instead make them a soup meal crafted with a heart crystal shard, a strawberry, a beetroot, a blood vial, and a ghast tear
+- Make waystones default to global
+- Add a deepslate waystone that generates in all ancient cities
+- Wormhole spell that allows you to teleport to another player (legendary ender spell)
+- Heart crystal shards can be brewed to make potions of health boost
+- Rename artifacts' crystal heart to glass heart and make it pink to differentiate it from heart crystals
+    - Also nerf its bonus hp to +8 instead of +10
 - Unify all teeth under one tooth item
-    - Make jawbreakers drop teeth
-- Custom mob for Blackstone Basins
-- Nether difficulty mechanics (see discord)
-- Temperature system (tough as nails)
-- Replace waystones with a custom fast travel mod
-    - Warp gems you find in dungeon loot that can be used to fast travel to a known location once
-        - Can be crafted with chorus fruit and amethyst in a magic ritual to make them renewable post-game
-    - Wormhole potions to teleport to other players, brewed with warp gems
-    - Fast travel locations are defined by magic banners, crafted by putting a banner in a magic ritual or found in dungeon chests
-    - Using a warp gem will pull up a map of all fast travel locations and their names
-    - Using a wormhole potion will pull up a list of all players to teleport to
+    - Jawbreakers, thrashers, and bone serpents all drop teeth
+    - Lava vision will now only be able to be made with eyeball fish eyes
+- Add wither skeleton spawners to the lower parts of nether fortresses
+- Make charged ender pearl use void crystals in its recipe
+- Make earthdive spear use corrodent teeth instead of an obsidian heart
+- Make the undead king drop the ancient amina
+- Disable the BOMD lich and soul star drops

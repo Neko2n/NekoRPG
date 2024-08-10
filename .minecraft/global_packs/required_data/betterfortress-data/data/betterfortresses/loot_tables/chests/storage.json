@@ -168,6 +168,11 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 50,
+          "name": "mynethersdelight:bullet_pepper"
+        },
+        {
+          "type": "minecraft:item",
           "weight": 100,
           "name": "mynethersdelight:hoglin_loin"
         },

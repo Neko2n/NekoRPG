@@ -1,0 +1,10 @@
+{
+    "type": "forge:add_features",
+    "biomes": [
+        "minecraft:soul_sand_valley",
+        "biomesoplenty:crystalline_chasm",
+        "biomesoplenty:undergrowth"
+    ],
+    "features": "miningmaster:ore_heart_rhodonite",
+    "step": "underground_ores"
+}

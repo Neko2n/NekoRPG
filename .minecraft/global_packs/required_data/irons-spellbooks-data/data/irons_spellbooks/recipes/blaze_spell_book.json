@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " SC",
+    "HRA",
+    "CG "
+  ],
+  "key":
+  {
+    "R":
+    {
+      "item": "irons_spellbooks:gold_spell_book"
+    },
+    "A":
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    "H":
+    {
+      "item": "cataclysm:burning_ashes"
+    },
+    "S":
+    {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "G":
+    {
+      "item": "irons_spellbooks:cinder_essence"
+    },
+    "C":
+    {
+      "item": "irons_spellbooks:magic_cloth"
+    }
+  },
+  "result":
+  {
+    "item": "irons_spellbooks:blaze_spell_book",
+    "count": 1
+  }
+}

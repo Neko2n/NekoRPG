@@ -1,0 +1,175 @@
+{
+  "irons_spellbooks:netherite_mage_helmet":[
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": -2,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:netherite_mage_chestplate":[
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": -2,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:netherite_mage_leggings":[
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": -2,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:netherite_mage_boots":[
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": -2,
+      "operation": "ADDITION"
+    }
+  ],
+
+  "minecraft:golden_helmet":[
+    {
+      "attribute": "irons_spellbooks:mana_regen",
+      "modify": 0.1,
+      "operation": "MULTIPLY_TOTAL"
+    }
+  ],
+  "minecraft:golden_chestplate":[
+    {
+      "attribute": "irons_spellbooks:mana_regen",
+      "modify": 0.1,
+      "operation": "MULTIPLY_TOTAL"
+    }
+  ],
+  "minecraft:golden_leggings":[
+    {
+      "attribute": "irons_spellbooks:mana_regen",
+      "modify": 0.1,
+      "operation": "MULTIPLY_TOTAL"
+    }
+  ],
+  "minecraft:golden_boots":[
+    {
+      "attribute": "irons_spellbooks:mana_regen",
+      "modify": 0.1,
+      "operation": "MULTIPLY_TOTAL"
+    }
+  ],
+
+  "miningmaster:paragon_helmet":[
+    {
+      "attribute": "irons_spellbooks:max_mana",
+      "modify": 100,
+      "operation": "ADDITION"
+    }
+  ],
+  "miningmaster:paragon_chestplate":[
+    {
+      "attribute": "irons_spellbooks:max_mana",
+      "modify": 100,
+      "operation": "ADDITION"
+    }
+  ],
+  "miningmaster:paragon_leggings":[
+    {
+      "attribute": "irons_spellbooks:max_mana",
+      "modify": 100,
+      "operation": "ADDITION"
+    }
+  ],
+  "miningmaster:paragon_boots":[
+    {
+      "attribute": "irons_spellbooks:max_mana",
+      "modify": 100,
+      "operation": "ADDITION"
+    }
+  ],
+
+  "minecraft:diamond_helmet":[
+    {
+      "attribute": "irons_spellbooks:max_mana",
+      "modify": 50,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:diamond_chestplate":[
+    {
+      "attribute": "irons_spellbooks:max_mana",
+      "modify": 50,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:diamond_leggings":[
+    {
+      "attribute": "irons_spellbooks:max_mana",
+      "modify": 50,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:diamond_boots":[
+    {
+      "attribute": "irons_spellbooks:max_mana",
+      "modify": 50,
+      "operation": "ADDITION"
+    }
+  ],
+
+  "minecraft:netherite_helmet":[
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 0.15,
+      "operation": "MULTIPLY_TOTAL"
+    }
+  ],
+  "minecraft:netherite_chestplate":[
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 0.15,
+      "operation": "MULTIPLY_TOTAL"
+    }
+  ],
+  "minecraft:netherite_leggings":[
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 0.15,
+      "operation": "MULTIPLY_TOTAL"
+    }
+  ],
+  "minecraft:netherite_boots":[
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 0.15,
+      "operation": "MULTIPLY_TOTAL"
+    }
+  ],
+
+  "minecraft:chainmail_helmet":[
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:chainmail_chestplate":[
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:chainmail_leggings":[
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:chainmail_boots":[
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    }
+  ]
+}

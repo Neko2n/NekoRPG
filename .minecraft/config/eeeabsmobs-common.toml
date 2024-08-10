@@ -63,6 +63,17 @@
 				#Range: 0.0 ~ 1.0
 				"Max adapt factor" = 0.8
 
+		[Mobs."Immortal Mobs"."Immortal Executioner"]
+			#Set this mob health multiplier
+			#Range: 0.0 ~ 1.7976931348623157E308
+			"Health multiplier" = 1.0
+			#Set this mob attack multiplier
+			#Range: 0.0 ~ 1.7976931348623157E308
+			"Attack multiplier" = 1.0
+			#Set this mob damageCap
+			#Range: 0.0 ~ 1024.0
+			DamageCap = 22.0
+
 	[Mobs."Structure-Bloody Altar"]
 
 		[Mobs."Structure-Bloody Altar"."Corpse & Corpse Villager"]
@@ -178,8 +189,14 @@
 
 	[Items.Howitzer]
 		#Set item cool down time after player on use (seconds)
-		#Range: > 1
+		#Range: > 0
 		"Set item cool down time" = 5
+		#Set Grenade maximum explosion damage(damage to the center of the explosion)
+		#Range: 1.0 ~ 128.0
+		"Set damage cap" = 10.0
+		#Set Grenade explosion radius(the bigger the blast radius, the higher the damage)
+		#Range: 1.0 ~ 10.0
+		"Set explosion radius" = 2.5
 
 [Other]
 	#If 'False' disable camera shake
@@ -194,4 +211,6 @@
 	"Enable play boss music" = false
 	#If 'False' disable frenzy potion destroy block
 	"Enable frenzy potion destroy block" = true
+	#If 'True' enable print illegal animation logs(For developers only)
+	"Enable print illegal logs" = false
 

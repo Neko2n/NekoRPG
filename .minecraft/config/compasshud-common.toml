@@ -1,0 +1,39 @@
+#The mode of the compass (COMPASS/CLOCK/BOTH)
+mode = "COMPASS"
+#The x position of the compass
+#Range: > 0
+compassX = 10
+#The y position of the compass
+#Range: > 0
+compassY = 10
+#The color of the compass text
+#Range: > -2147483648
+compassCOLOR = -1
+#The x position of the player position
+#Range: > 0
+posX = 10
+#The y position of the player position
+#Range: > 0
+posY = 36
+#The x position of the clock
+#Range: > 0
+clockX = 10
+#The y position of the clock
+#Range: > 0
+clockY = 10
+#The x position of the time
+#Range: > 0
+timeX = 10
+#The y position of the time
+#Range: > 0
+timeY = 36
+#The x position of the day
+#Range: > 0
+dayX = 10
+#The y position of the day
+#Range: > 0
+dayY = 52
+#The color of the clock text
+#Range: > -2147483648
+clockCOLOR = -1
+

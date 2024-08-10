@@ -31,7 +31,7 @@
 		manaBarXOffset = 0
 		manaBarTextVisible = false
 		#Allowed Values: Hunger, XP, Center, TopLeft, TopRight, BottomLeft, BottomRight
-		manaBarAnchor = "Hunger"
+		manaBarAnchor = "XP"
 		manaTextXOffset = 0
 		manaTextYOffset = 0
 
