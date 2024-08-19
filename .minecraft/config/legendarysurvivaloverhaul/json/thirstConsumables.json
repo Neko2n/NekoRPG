@@ -3,8 +3,7 @@
     {
       "hydration": 8,
       "saturation": 4.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -12,8 +11,7 @@
     {
       "hydration": 6,
       "saturation": 1.5,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -21,8 +19,7 @@
     {
       "hydration": 3,
       "saturation": 0.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -30,8 +27,7 @@
     {
       "hydration": 2,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -39,8 +35,7 @@
     {
       "hydration": 9,
       "saturation": 4.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -48,8 +43,7 @@
     {
       "hydration": 2,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -57,8 +51,7 @@
     {
       "hydration": 2,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -66,8 +59,7 @@
     {
       "hydration": 20,
       "saturation": 20.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -75,8 +67,7 @@
     {
       "hydration": 9,
       "saturation": 3.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -84,8 +75,7 @@
     {
       "hydration": 12,
       "saturation": 12.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -93,8 +83,7 @@
     {
       "hydration": 4,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -102,8 +91,14 @@
     {
       "hydration": -1,
       "saturation": 0.0,
-      "effectChance": 1.0,
-      "effect": "legendarysurvivaloverhaul:thirst",
+      "effects": [
+        {
+          "chance": 1.0,
+          "effect": "legendarysurvivaloverhaul:thirst",
+          "duration": 600,
+          "amplifier": 0
+        }
+      ],
       "nbt": {}
     }
   ],
@@ -111,8 +106,7 @@
     {
       "hydration": 4,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -120,8 +114,7 @@
     {
       "hydration": 4,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -129,8 +122,7 @@
     {
       "hydration": 4,
       "saturation": 2.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -138,8 +130,83 @@
     {
       "hydration": 4,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "minecraft:potion": [
+    {
+      "hydration": 3,
+      "saturation": 0.0,
+      "effects": [
+        {
+          "chance": 0.75,
+          "effect": "legendarysurvivaloverhaul:thirst",
+          "duration": 600,
+          "amplifier": 0
+        }
+      ],
+      "nbt": {
+        "Potion": "minecraft:water"
+      }
+    },
+    {
+      "hydration": 3,
+      "saturation": 0.0,
+      "effects": [
+        {
+          "chance": 0.75,
+          "effect": "legendarysurvivaloverhaul:thirst",
+          "duration": 600,
+          "amplifier": 0
+        }
+      ],
+      "nbt": {
+        "Potion": "minecraft:mundane"
+      }
+    },
+    {
+      "hydration": 3,
+      "saturation": 0.0,
+      "effects": [
+        {
+          "chance": 0.75,
+          "effect": "legendarysurvivaloverhaul:thirst",
+          "duration": 600,
+          "amplifier": 0
+        }
+      ],
+      "nbt": {
+        "Potion": "minecraft:thick"
+      }
+    },
+    {
+      "hydration": 3,
+      "saturation": 0.0,
+      "effects": [
+        {
+          "chance": 0.75,
+          "effect": "legendarysurvivaloverhaul:thirst",
+          "duration": 600,
+          "amplifier": 0
+        }
+      ],
+      "nbt": {
+        "Potion": "minecraft:awkward"
+      }
+    },
+    {
+      "hydration": 0,
+      "saturation": 0.0,
+      "effects": [],
+      "nbt": {
+        "Potion": "minecraft:empty"
+      }
+    },
+    {
+      "hydration": 6,
+      "saturation": 1.5,
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -147,8 +214,7 @@
     {
       "hydration": 2,
       "saturation": 0.5,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -156,8 +222,7 @@
     {
       "hydration": 12,
       "saturation": 8.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -165,8 +230,7 @@
     {
       "hydration": 4,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -174,8 +238,7 @@
     {
       "hydration": 6,
       "saturation": 3.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -183,8 +246,7 @@
     {
       "hydration": 4,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -192,8 +254,14 @@
     {
       "hydration": 3,
       "saturation": 0.0,
-      "effectChance": 0.75,
-      "effect": "legendarysurvivaloverhaul:thirst",
+      "effects": [
+        {
+          "chance": 0.75,
+          "effect": "legendarysurvivaloverhaul:thirst",
+          "duration": 600,
+          "amplifier": 0
+        }
+      ],
       "nbt": {
         "legendarysurvivaloverhaul:HydrationPurity": "normal"
       }
@@ -201,8 +269,7 @@
     {
       "hydration": 6,
       "saturation": 1.5,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {
         "legendarysurvivaloverhaul:HydrationPurity": "purified"
       }
@@ -212,8 +279,14 @@
     {
       "hydration": 3,
       "saturation": 0.0,
-      "effectChance": 0.75,
-      "effect": "legendarysurvivaloverhaul:thirst",
+      "effects": [
+        {
+          "chance": 0.75,
+          "effect": "legendarysurvivaloverhaul:thirst",
+          "duration": 600,
+          "amplifier": 0
+        }
+      ],
       "nbt": {
         "legendarysurvivaloverhaul:HydrationPurity": "normal"
       }
@@ -221,8 +294,7 @@
     {
       "hydration": 6,
       "saturation": 1.5,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {
         "legendarysurvivaloverhaul:HydrationPurity": "purified"
       }
@@ -232,8 +304,7 @@
     {
       "hydration": 7,
       "saturation": 4.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -241,8 +312,7 @@
     {
       "hydration": 2,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -250,8 +320,7 @@
     {
       "hydration": 16,
       "saturation": 16.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ],
@@ -259,8 +328,7 @@
     {
       "hydration": 4,
       "saturation": 1.0,
-      "effectChance": 0.0,
-      "effect": "",
+      "effects": [],
       "nbt": {}
     }
   ]

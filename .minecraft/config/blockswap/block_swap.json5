@@ -28,7 +28,7 @@
 	"state_swapper": [
 		{
 			"new": {
-				"Name": "immersive_weathering:atmospheric/aspen_leaf_pile"
+				"Name": "immersive_weathering:bloomingnature/orange_leaf_pile"
 			},
 			"old": {
 				"Name": "regions_unexplored:golden_larch_shrub",
@@ -39,7 +39,7 @@
 		},
 		{
 			"new": {
-				"Name": "immersive_weathering:atmospheric/green_aspen_leaf_pile"
+				"Name": "immersive_weathering:bloomingnature/larch_leaf_pile"
 			},
 			"old": {
 				"Name": "regions_unexplored:larch_shrub",
@@ -73,20 +73,71 @@
 	],
 	
 	"swapper": {
+		"immersive_weathering:grassy_permafrost" : "regions_unexplored:chalk_grass_block",
+		"immersive_weathering:permafrost" : "regions_unexplored:chalk",
+		"immersive_weathering:silt" : "regions_unexplored:peat_dirt",
+		"immersive_weathering:grassy_silt" : "regions_unexplored:peat_grass_block",
+		"immersive_weathering:silty_farmland" : "regions_unexplored:peat_farmland",
+		//
+		"ecologics:azalea_log" : "quark:azalea_log",
+		"ecologics:azalea_wood" : "quark:azalea_wood",
+		"ecologics:flowering_azalea_log" : "quark:azalea_log",
+		"ecologics:flowering_azalea_wood" : "quark:azalea_wood",
+		"ecologics:stripped_azalea_log" : "quark:stripped_azalea_log",
+		//
 		"irons_spellbooks:alchemist_cauldron" : "create:basin",
+		//
+		"environmental:plum_log" : "minecraft:cherry_log",
+		"environmental:plum_wood" : "minecraft:cherry_wood",
+		"environmental:stripped_plum_log" : "minecraft:stripped_cherry_log",
+		"atmospheric:laurel_log" : "bloomingnature:larch_log",
+		"atmospheric:laurel_wood" : "bloomingnature:larch_wood",
+		"atmospheric:stripped_laurel_log" : "bloomingnature:stripped_larch_log",
+		"atmospheric:laurel_leaves" : "bloomingnature:orange_leaves",
+		"atmospheric:dry_laurel_leaves" : "bloomingnature:larch_leaves",
+		"atmospheric:crustose_log" : "bloomingnature:aspen_log",
+		"atmospheric:crustose_wood" : "bloomingnature:aspen_wood",
+		"atmospheric:aspen_log" : "bloomingnature:aspen_log",
+		"atmospheric:aspen_wood" : "bloomingnature:aspen_wood",
+		"atmospheric:watchful_aspen_log" : "bloomingnature:aspen_log",
+		"atmospheric:watchful_aspen_wood" : "bloomingnature:aspen_wood",
+		"atmospheric:stripped_aspen_log" : "bloomingnature:stripped_aspen_log",
+		"atmospheric:aspen_leaves" : "bloomingnature:aspen_leaves",
+		"atmospheric:green_aspen_leaves" : "bloomingnature:aspen_leaves",
+		//
 		"regions_unexplored:salmonberry_bush" : "minecraft:sweet_berry_bush",
-		"regions_unexplored:larch_log" : "atmospheric:aspen_log",
-		"regions_unexplored:stripped_larch_log" : "atmospheric:stripped_aspen_log",
-		"regions_unexplored:larch_wood" : "atmospheric:aspen_wood",
-		"regions_unexplored:larch_branch": "everycomp:ru/atmospheric/aspen_branch",
-		"regions_unexplored:larch_leaves" : "atmospheric:green_aspen_leaves",
-		"regions_unexplored:golden_larch_leaves" : "atmospheric:aspen_leaves",
-		"regions_unexplored:kapok_log" : "regions_unexplored:cypress_log",
-		"regions_unexplored:stripped_kapok_log" : "regions_unexplored:stripped_cypress_log",
-		"regions_unexplored:kapok_wood" : "regions_unexplored:cypress_wood",
-		"regions_unexplored:kapok_branch": "regions_unexplored:cypress_branch",
-		"regions_unexplored:kapok_shrub": "regions_unexplored:cypress_shrub",
-		"regions_unexplored:kapok_leaves": "regions_unexplored:cypress_leaves",
+		"biomesoplenty:fir_log" : "bloomingnature:fir_log",
+		"biomesoplenty:stripped_fir_log" : "bloomingnature:stripped_fir_log",
+		"biomesoplenty:fir_wood" : "bloomingnature:fir_wood",
+		"biomesoplenty:fir_leaves": "bloomingnature:fir_leaves",
+		"bloomingnature:baobab_log" : "regions_unexplored:baobab_log",
+		"bloomingnature:stripped_baobab_log" : "regions_unexplored:stripped_baobab_log",
+		"bloomingnature:baobab_wood" : "regions_unexplored:baobab_wood",
+		"bloomingnature:baobab_leaves": "regions_unexplored:baobab_leaves",
+		"regions_unexplored:blackwood_log" : "bloomingnature:ebony_log",
+		"regions_unexplored:stripped_blackwood_log" : "bloomingnature:stripped_ebony_log",
+		"regions_unexplored:blackwood_wood" : "bloomingnature:ebony_wood",
+		"regions_unexplored:blackwood_branch": "everycomp:ru/bloomingnature/ebony_branch",
+		"regions_unexplored:blackwood_shrub": "everycomp:ru/bloomingnature/ebony_shrub",
+		"regions_unexplored:blackwood_leaves": "bloomingnature:ebony_leaves",
+		"regions_unexplored:larch_log" : "bloomingnature:larch_log",
+		"regions_unexplored:stripped_larch_log" : "bloomingnature:stripped_larch_log",
+		"regions_unexplored:larch_wood" : "bloomingnature:larch_wood",
+		"regions_unexplored:larch_branch": "minecraft:air",
+		"regions_unexplored:larch_leaves" : "bloomingnature:larch_leaves",
+		"regions_unexplored:golden_larch_leaves" : "bloomingnature:orange_leaves",
+		"regions_unexplored:cypress_log" : "bloomingnature:swamp_cypress_log",
+		"regions_unexplored:stripped_cypress_log" : "bloomingnature:stripped_swamp_cypress_log",
+		"regions_unexplored:cypress_wood" : "bloomingnature:swamp_cypress_wood",
+		"regions_unexplored:cypress_branch": "everycomp:ru/bloomingnature/swamp_cypress_branch",
+		"regions_unexplored:cypress_shrub": "everycomp:ru/bloomingnature/swamp_cypress_shrub",
+		"regions_unexplored:cypress_leaves": "bloomingnature:swamp_cypress_leaves",
+		"regions_unexplored:kapok_log" : "bloomingnature:swamp_cypress_log",
+		"regions_unexplored:stripped_kapok_log" : "bloomingnature:stripped_swamp_cypress_log",
+		"regions_unexplored:kapok_wood" : "bloomingnature:swamp_cypress_wood",
+		"regions_unexplored:kapok_branch": "everycomp:ru/bloomingnature/swamp_cypress_branch",
+		"regions_unexplored:kapok_shrub": "everycomp:ru/bloomingnature/swamp_cypress_shrub",
+		"regions_unexplored:kapok_leaves": "bloomingnature:swamp_cypress_leaves",
 		"regions_unexplored:kapok_vines": "valhelsia_structures:hanging_vines",
 		"regions_unexplored:kapok_vines_plant": "valhelsia_structures:hanging_vines_body",
 		"biomesoplenty:dead_leaves" : "regions_unexplored:dead_leaves",
@@ -148,19 +199,6 @@
 		"regions_unexplored:alpha_rose": "biomesoplenty:rose",
 		"environmental:violet": "biomesoplenty:violet",
 		"regions_unexplored:duckweed": "environmental:duckweed",
-		//
-		//"goodending:cypress_log" : "regions_unexplored:cypress_log",
-		//"goodending:stripped_cypress_log" : "regions_unexplored:stripped_cypress_log",
-		//"goodending:cypress_wood" : "regions_unexplored:cypress_wood",
-		//"goodending:cypress_leaves" : "regions_unexplored:cypress_leaves",
-		//"goodending:muddy_oak_log" : "minecraft:oak_log",
-		//"goodending:stripped_muddy_oak_log" : "minecraft:stripped_oak_log",
-		//"goodending:muddy_oak_wood" : "minecraft:oak_wood",
-		//"goodending:large_lily_pad": "minecraft:air",
-		//"goodending:purple_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
-		//"goodending:pink_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
-		//"goodending:yellow_flowering_lily_pad": "regions_unexplored:flowering_lily_pad",
-		//"goodending:duckweed": "environmental:duckweed",
 		//
 		"valhelsia_structures:white_sleeping_bag": "upgrade_aquatic:white_bedroll",
 		"valhelsia_structures:orange_sleeping_bag": "upgrade_aquatic:orange_bedroll",
@@ -367,10 +405,6 @@
 		"berry_good:glow_berry_basket": "quark:glowberry_sack",
 		"mowziesmobs:thatch_block": "environmental:grass_thatch",
 		"hearth_and_home:thatch": "environmental:grass_thatch",
-		"alexscaves:spelunkery_table": "ecologics:pot",
-		//
-		//"luminousworld:groundpebbles_3": "spelunkers_charm:rock_pile_1",
-		//"luminousworld:groundpebbles_2": "spelunkers_charm:rock_pile_2",
-		//"luminousworld:groundpebbles_1": "spelunkers_charm:rock_pile_3"
+		"alexscaves:spelunkery_table": "ecologics:pot"
 	}
 }

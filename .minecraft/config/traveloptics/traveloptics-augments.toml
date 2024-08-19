@@ -1,0 +1,289 @@
+
+#Augment Configs
+[augments]
+
+	[augments.balance_mythic]
+		#Nature Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.5
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = -0.25
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.25
+
+	[augments.balance_legendary]
+		#Nature Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.4
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = -0.2
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.2
+
+	[augments.balance_epic]
+		#Nature Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.3
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = -0.15
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.15
+
+	[augments.bruteforce_mythic]
+		#Attack Damage, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		attack_damage = 0.4
+		#Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		spell_power = -0.4
+
+	[augments.bruteforce_legendary]
+		#Attack Damage, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		attack_damage = 0.3
+		#Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		spell_power = -0.3
+
+	[augments.bruteforce_epic]
+		#Attack Damage, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		attack_damage = 0.2
+		#Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		spell_power = -0.2
+
+	[augments.chaos_mythic]
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.25
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.25
+		#Armor, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		armor = -0.4
+
+	[augments.chaos_legendary]
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.2
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.2
+		#Armor, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		armor = -0.3
+
+	[augments.chaos_epic]
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.15
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.15
+		#Armor, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		armor = -0.2
+
+	[augments.equilibrium_mythic]
+		#Blood Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.5
+		#Fire Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = -0.5
+
+	[augments.equilibrium_legendary]
+		#Blood Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.4
+		#Fire Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = -0.4
+
+	[augments.equilibrium_epic]
+		#Blood Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.3
+		#Fire Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = -0.3
+
+	[augments.frigid_flame_mythic]
+		#Ice Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = 0.25
+		#Fire Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.25
+		#Max Mana, ADDITION
+		#Range: -800.0 ~ 800.0
+		max_mana = -150.0
+
+	[augments.frigid_flame_legendary]
+		#Ice Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = 0.2
+		#Fire Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.2
+		#Max Mana, ADDITION
+		#Range: -800.0 ~ 800.0
+		max_mana = -100.0
+
+	[augments.frigid_flame_epic]
+		#Ice Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = 0.15
+		#Fire Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.15
+		#Max Mana, ADDITION
+		#Range: -800.0 ~ 800.0
+		max_mana = -50.0
+
+	[augments.lifedrain_mythic]
+		#Blood Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.25
+		#Nature Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.25
+		#Max Health, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		max_health = -0.4
+
+	[augments.lifedrain_legendary]
+		#Blood Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.2
+		#Nature Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.2
+		#Max Health, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		max_health = -0.3
+
+	[augments.lifedrain_epic]
+		#Blood Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.15
+		#Nature Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.15
+		#Max Health, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		max_health = -0.2
+
+	[augments.oblivion_mythic]
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.5
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.5
+
+	[augments.oblivion_legendary]
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.4
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.4
+
+	[augments.oblivion_epic]
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.3
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.3
+
+	[augments.riftcore_mythic]
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.25
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.25
+		#Cooldown Reduction, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		cooldown_reduction = -0.3
+
+	[augments.riftcore_legendary]
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.2
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.2
+		#Cooldown Reduction, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		cooldown_reduction = -0.25
+
+	[augments.riftcore_epic]
+		#Ender Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.15
+		#Eldritch Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.15
+		#Cooldown Reduction, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		cooldown_reduction = -0.2
+
+	[augments.sacred_void_mythic]
+		#Evocation Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		evocation_spell_power = 0.5
+		#Holy Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		holy_spell_power = -0.5
+
+	[augments.sacred_void_legendary]
+		#Evocation Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		evocation_spell_power = 0.4
+		#Holy Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		holy_spell_power = -0.4
+
+	[augments.sacred_void_epic]
+		#Evocation Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		evocation_spell_power = 0.3
+		#Holy Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		holy_spell_power = -0.3
+
+	[augments.volcana_mythic]
+		#Ice Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = -0.5
+		#Fire Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.5
+
+	[augments.volcana_legendary]
+		#Ice Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = -0.4
+		#Fire Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.4
+
+	[augments.volcana_epic]
+		#Ice Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = -0.3
+		#Fire Spell Power, MULTIPLY_BASE
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.3
+

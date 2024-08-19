@@ -22,7 +22,7 @@
 			blossom = true
 
 		[types.wood_type.biomesoplenty]
-			fir = true
+			fir = false
 			redwood = false
 			mahogany = true
 			jacaranda = true
@@ -48,7 +48,7 @@
 		[types.wood_type.environmental]
 			willow = true
 			pine = true
-			plum = true
+			plum = false
 			wisteria = true
 
 		[types.wood_type.upgrade_aquatic]
@@ -62,7 +62,7 @@
 		[types.wood_type.regions_unexplored]
 			alpha = false
 			baobab = true
-			blackwood = true
+			blackwood = false
 			blue_bioshroom = true
 			brimwood = true
 			cobalt = true
@@ -88,16 +88,24 @@
 			rosewood = true
 			morado = true
 			yucca = true
-			aspen = true
-			laurel = true
+			aspen = false
+			laurel = false
 			kousa = true
 			grimwood = true
 
 		[types.wood_type.valhelsia_structures]
 			lapidified_jungle = true
 
-		[types.wood_type.under_the_moon]
-			sweptwood = true
+		[types.wood_type.bloomingnature]
+			larch = true
+			baobab = false
+			swamp_oak = true
+			aspen = true
+			fan_palm = false
+			fir = true
+			swamp_cypress = false
+			ebony = true
+			chestnut = false
 
 	[types.leaves_type]
 
@@ -109,7 +117,7 @@
 			yellow_autumn = true
 			rainbow_birch = true
 			snowblossom = true
-			fir = true
+			fir = false
 			redwood = false
 			mahogany = true
 			jacaranda = true
@@ -126,7 +134,7 @@
 			alpha = false
 			apple_oak = true
 			baobab = true
-			blackwood = true
+			blackwood = false
 			magnolia = true
 			cypress = true
 			dead = true
@@ -187,8 +195,8 @@
 			morado = true
 			flowering_morado = true
 			yucca = true
-			aspen = true
-			green_aspen = true
+			aspen = false
+			green_aspen = false
 			laurel = true
 			dry_laurel = true
 			kousa = true
@@ -202,6 +210,17 @@
 			orange_blossom = true
 			yellow_blossom = true
 			red_blossom = true
+
+		[types.leaves_type.bloomingnature]
+			larch = true
+			baobab = true
+			orange = true
+			swamp_oak = true
+			aspen = true
+			fan_palm = true
+			swamp_cypress = true
+			ebony = true
+			chestnut = true
 
 	[types.cake]
 
@@ -267,11 +286,17 @@
 			cut_post = false
 			post = false
 			cut_stripped_post = false
-			bundled_stripped_posts = true
-			bundled_posts = true
+			bundled_stripped_posts = false
+			bundled_posts = false
 
 		[entries.wood_type.lolmct]
 			crafting_table = true
+
+		[entries.wood_type.absentbydesign]
+			wall_stripped_log = true
+			wall_log = true
+			wall_planks = true
+			fence_log = true
 
 	[entries.leaves_type]
 

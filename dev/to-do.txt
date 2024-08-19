@@ -1,6 +1,14 @@
 # TO-DO
-- Fix nether fortresses (go back and remove all the structure voids you retard)
+- Box TV recipe
+- Make projector post-game
+- Nerf iron's spellbooks' armor sets through attributizer
+- Nerf carry-on
+- Remove blood orange advancement
+- Give artifacts unique spawn locations
+    - Give some of them crafting recipes
 - Dungeons & Taverns loot tables
+    - Change all adventure maps to furled maps
+    - Loot integrations
 - IDAS loot tables
     - alex's mobs bananas -> neapolitan bananas
     - create wrenches and supplementaries wrenches -> etcetera wrench
@@ -30,7 +38,7 @@
 - Unify all teeth under one tooth item
     - Jawbreakers, thrashers, and bone serpents all drop teeth
     - Lava vision will now only be able to be made with eyeball fish eyes
-- Add wither skeleton spawners to the lower parts of nether fortresses
+    - Eyeball fish eyes are renamed to "Fireproof Lens" and drop from bone serpents
 - Make charged ender pearl use void crystals in its recipe
 - Make earthdive spear use corrodent teeth instead of an obsidian heart
 - Make the undead king drop the ancient amina

@@ -1,0 +1,24 @@
+
+#Experimental Configs // ONLY CHANGE IF YOU KNOW WHAT YOU ARE DOING!!
+[experimental]
+
+	[experimental.augment]
+		#Augment stack value || Do not affect Wild Augment types!
+		#Range: > 1
+		augment_stacking = 8
+
+	[experimental.archive_of_abyssal_secrets]
+		#Extra spell slots
+		#Range: > 4
+		extra_slots = 6
+
+	[experimental.chronicles_of_the_firelord]
+		#Extra spell slots
+		#Range: > 3
+		extra_slots = 7
+
+	[experimental.tome_of_abyssal_flora]
+		#Extra spell slots
+		#Range: > 4
+		extra_slots = 6
+

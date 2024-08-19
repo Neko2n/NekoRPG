@@ -549,8 +549,8 @@
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "LEGENDARY"
 		ManaCostMultiplier = 3.0
-		SpellPowerMultiplier = 0.8
-		CooldownInSeconds = 30.0
+		SpellPowerMultiplier = 0.6
+		CooldownInSeconds = 150.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:telekinesis"]

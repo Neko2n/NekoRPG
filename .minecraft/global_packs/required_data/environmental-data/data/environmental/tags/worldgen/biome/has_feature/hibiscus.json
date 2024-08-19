@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:jungle",
+    "biomesoplenty:tropics",
+    "regions_unexplored:tropical_river",
+    "regions_unexplored:tropics",
+    "regions_unexplored:rainforest",
+    "regions_unexplored:sparse_rainforest",
+    "atmospheric:rainforest",
+    "atmospheric:sparse_rainforest"
+  ]
+}

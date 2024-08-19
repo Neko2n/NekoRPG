@@ -47,7 +47,7 @@
 	toggle_gravel_beach = true
 	toggle_highland_fields = true
 	toggle_hyacinth_deeps = true
-	toggle_icy_desert = false
+	toggle_icy_desert = true
 	toggle_icy_heights = true
 	toggle_joshua_desert = true
 	toggle_magnolia_woodland = true

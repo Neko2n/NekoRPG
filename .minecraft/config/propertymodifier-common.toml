@@ -1,0 +1,496 @@
+
+[logging]
+	#Whether to log successful operations or not.
+	log_successful = false
+	#Whether to log failed operations or not.
+	log_errors = true
+
+#Generates a config with all non-default values in propertymodifier-generated.toml.
+[generating]
+	#Generates block state-related entries.
+	block_states = false
+	#Generates block-related entries.
+	blocks = false
+	#Generates item-related entries.
+	items = false
+	#Generates armor-related entries.
+	armor = false
+	#Generates tool-related entries.
+	tools = false
+	#Generates enchantment-related entries.
+	enchantments = false
+	#Generates composting-related entries.
+	composting = false
+	#The default enchantment value used. 0 in vanilla, but mods such as Apotheosis may change this.
+	#Range: 0 ~ 1000000
+	default_enchantment_value = 0
+
+#Set the respective values here by adding lines in the respective groups. Keys can be either an item (e.g. "minecraft:stripped_birch_wood") or an item regex (e.g. "minecraft:diamond.*").
+[items]
+
+	#Set the values for armor.
+	[items.armor]
+
+		#Set the defense value of an armor item. May not work on modded armors, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:golden_chestplate" = 10
+		[items.armor.defense]
+			"minecraft:turtle_helmet" = 2
+			"minecraft:leather_helmet" = 1
+			"minecraft:leather_chestplate" = 3
+			"minecraft:leather_leggings" = 2
+			"minecraft:leather_boots" = 1
+			"minecraft:chainmail_helmet" = 2
+			"minecraft:chainmail_chestplate" = 5
+			"minecraft:chainmail_leggings" = 4
+			"minecraft:chainmail_boots" = 1
+			"minecraft:iron_helmet" = 2
+			"minecraft:iron_chestplate" = 6
+			"minecraft:iron_leggings" = 5
+			"minecraft:iron_boots" = 2
+			"minecraft:diamond_helmet" = 3
+			"minecraft:diamond_chestplate" = 8
+			"minecraft:diamond_leggings" = 6
+			"minecraft:diamond_boots" = 3
+			"minecraft:golden_helmet" = 2
+			"minecraft:golden_chestplate" = 5
+			"minecraft:golden_leggings" = 3
+			"minecraft:golden_boots" = 1
+			"minecraft:netherite_helmet" = 3
+			"minecraft:netherite_chestplate" = 8
+			"minecraft:netherite_leggings" = 6
+			"minecraft:netherite_boots" = 3
+			"dungeons_plus:frosted_cowl" = 2
+			"mowziesmobs:wrought_helmet" = 2
+			"mowziesmobs:umvuthana_mask_fury" = 2
+			"mowziesmobs:umvuthana_mask_fear" = 2
+			"mowziesmobs:umvuthana_mask_rage" = 2
+			"mowziesmobs:umvuthana_mask_bliss" = 2
+			"mowziesmobs:umvuthana_mask_misery" = 2
+			"mowziesmobs:umvuthana_mask_faith" = 2
+			"mowziesmobs:sol_visage" = 2
+			"mutantmonsters:mutant_skeleton_chestplate" = 6
+			"mutantmonsters:mutant_skeleton_leggings" = 5
+			"mutantmonsters:mutant_skeleton_boots" = 2
+			"galosphere:sterling_helmet" = 1
+			"galosphere:sterling_chestplate" = 4
+			"galosphere:sterling_leggings" = 5
+			"galosphere:sterling_boots" = 2
+			"alexsmobs:roadrunner_boots" = 3
+			"alexsmobs:crocodile_chestplate" = 5
+			"alexsmobs:centipede_leggings" = 6
+			"alexsmobs:moose_headgear" = 3
+			"alexsmobs:frontier_cap" = 3
+			"alexsmobs:sombrero" = 2
+			"alexsmobs:spiked_turtle_shell" = 3
+			"alexsmobs:emu_leggings" = 4
+			"alexsmobs:fedora" = 2
+			"alexsmobs:tarantula_hawk_elytra" = 3
+			"alexsmobs:froststalker_helmet" = 3
+			"alexsmobs:rocky_chestplate" = 5
+			"alexsmobs:flying_fish_boots" = 1
+			"alexsmobs:novelty_hat" = 2
+			"alexsmobs:unsettling_kimono" = 3
+			"spelunkers_charm:mining_helmet" = 3
+			"spelunkers_charm:candle_on_helmet" = 1
+			"spelunkers_charm:candle_helmet" = 1
+			"eeeabsmobs:ghost_warrior_helmet" = 5
+			"eeeabsmobs:ghost_warrior_chestplate" = 11
+			"eeeabsmobs:ghost_warrior_boots" = 5
+			"eeeabsmobs:ghost_warrior_leggings" = 8
+			"cataclysm:bone_reptile_helmet" = 6
+			"cataclysm:bone_reptile_chestplate" = 11
+			"cataclysm:ignitium_helmet" = 5
+			"cataclysm:ignitium_chestplate" = 10
+			"cataclysm:ignitium_elytra_chestplate" = 10
+			"cataclysm:ignitium_leggings" = 8
+			"cataclysm:ignitium_boots" = 5
+			"cataclysm:monstrous_helm" = 3
+			"cataclysm:bloom_stone_pauldrons" = 8
+			"legendarysurvivaloverhaul:snow_helmet" = 1
+			"legendarysurvivaloverhaul:snow_chestplate" = 2
+			"legendarysurvivaloverhaul:snow_leggings" = 1
+			"legendarysurvivaloverhaul:snow_boots" = 1
+			"legendarysurvivaloverhaul:desert_helmet" = 1
+			"legendarysurvivaloverhaul:desert_chestplate" = 2
+			"legendarysurvivaloverhaul:desert_leggings" = 1
+			"legendarysurvivaloverhaul:desert_boots" = 1
+			"enchantwithmob:enchanter_clothes" = 5
+			"enchantwithmob:enchanter_hat" = 2
+			"enchantwithmob:enchanter_boots" = 2
+			"create:copper_backtank" = 4
+			"create:netherite_backtank" = 8
+			"create:copper_diving_helmet" = 2
+			"create:netherite_diving_helmet" = 3
+			"create:copper_diving_boots" = 1
+			"create:netherite_diving_boots" = 3
+			"outer_end:rose_crystal_helmet" = 3
+			"outer_end:rose_crystal_chestplate" = 8
+			"outer_end:rose_crystal_leggings" = 6
+			"outer_end:rose_crystal_boots" = 3
+			"outer_end:mint_crystal_helmet" = 3
+			"outer_end:mint_crystal_chestplate" = 8
+			"outer_end:mint_crystal_leggings" = 6
+			"outer_end:mint_crystal_boots" = 3
+			"outer_end:cobalt_crystal_helmet" = 3
+			"outer_end:cobalt_crystal_chestplate" = 8
+			"outer_end:cobalt_crystal_leggings" = 6
+			"outer_end:cobalt_crystal_boots" = 3
+			"netherdepthsupgrade:soul_sucker_boots" = 1
+			"environmental:thief_hood" = 3
+			"environmental:healer_pouch" = 2
+			"environmental:architect_belt" = 3
+			"environmental:wanderer_boots" = 2
+			"environmental:yak_pants" = 3
+			"savage_and_ravage:griefer_helmet" = 2
+			"savage_and_ravage:griefer_chestplate" = 6
+			"savage_and_ravage:griefer_leggings" = 5
+			"savage_and_ravage:griefer_boots" = 2
+			"savage_and_ravage:mask_of_dishonesty" = 1
+			"endergetic:booflo_vest" = 3
+			"miningmaster:paragon_helmet" = 3
+			"miningmaster:paragon_chestplate" = 8
+			"miningmaster:paragon_leggings" = 6
+			"miningmaster:paragon_boots" = 3
+			"alexscaves:primordial_helmet" = 3
+			"alexscaves:primordial_tunic" = 4
+			"alexscaves:primordial_pants" = 3
+			"alexscaves:hazmat_mask" = 2
+			"alexscaves:hazmat_chestplate" = 4
+			"alexscaves:hazmat_leggings" = 5
+			"alexscaves:hazmat_boots" = 2
+			"alexscaves:diving_helmet" = 2
+			"alexscaves:diving_chestplate" = 6
+			"alexscaves:diving_leggings" = 5
+			"alexscaves:diving_boots" = 2
+			"alexscaves:hood_of_darkness" = 4
+			"alexscaves:cloak_of_darkness" = 5
+			"endermanoverhaul:badlands_hood" = 4
+			"endermanoverhaul:savanna_hood" = 4
+			"endermanoverhaul:snowy_hood" = 4
+			"mobcompack:symbol_of_gluttony" = 2
+			"mobcompack:rose_tinted_monocle" = 3
+			"quark:backpack" = 3
+			"quark:forgotten_hat" = 1
+			"irons_spellbooks:wandering_magician_helmet" = 2
+			"irons_spellbooks:wandering_magician_chestplate" = 4
+			"irons_spellbooks:wandering_magician_leggings" = 3
+			"irons_spellbooks:wandering_magician_boots" = 1
+			"irons_spellbooks:pumpkin_helmet" = 2
+			"irons_spellbooks:pumpkin_chestplate" = 5
+			"irons_spellbooks:pumpkin_leggings" = 4
+			"irons_spellbooks:pumpkin_boots" = 2
+			"irons_spellbooks:pyromancer_helmet" = 2
+			"irons_spellbooks:pyromancer_chestplate" = 6
+			"irons_spellbooks:pyromancer_leggings" = 5
+			"irons_spellbooks:pyromancer_boots" = 2
+			"irons_spellbooks:electromancer_helmet" = 2
+			"irons_spellbooks:electromancer_chestplate" = 6
+			"irons_spellbooks:electromancer_leggings" = 5
+			"irons_spellbooks:electromancer_boots" = 2
+			"irons_spellbooks:archevoker_helmet" = 2
+			"irons_spellbooks:archevoker_chestplate" = 6
+			"irons_spellbooks:archevoker_leggings" = 5
+			"irons_spellbooks:archevoker_boots" = 2
+			"irons_spellbooks:cultist_helmet" = 2
+			"irons_spellbooks:cultist_chestplate" = 6
+			"irons_spellbooks:cultist_leggings" = 5
+			"irons_spellbooks:cultist_boots" = 2
+			"irons_spellbooks:cryomancer_helmet" = 2
+			"irons_spellbooks:cryomancer_chestplate" = 6
+			"irons_spellbooks:cryomancer_leggings" = 5
+			"irons_spellbooks:cryomancer_boots" = 2
+			"irons_spellbooks:shadowwalker_helmet" = 2
+			"irons_spellbooks:shadowwalker_chestplate" = 6
+			"irons_spellbooks:shadowwalker_leggings" = 5
+			"irons_spellbooks:shadowwalker_boots" = 2
+			"irons_spellbooks:priest_helmet" = 2
+			"irons_spellbooks:priest_chestplate" = 6
+			"irons_spellbooks:priest_leggings" = 5
+			"irons_spellbooks:priest_boots" = 2
+			"irons_spellbooks:plagued_helmet" = 2
+			"irons_spellbooks:plagued_chestplate" = 6
+			"irons_spellbooks:plagued_leggings" = 5
+			"irons_spellbooks:plagued_boots" = 2
+			"irons_spellbooks:netherite_mage_helmet" = 3
+			"irons_spellbooks:netherite_mage_chestplate" = 8
+			"irons_spellbooks:netherite_mage_leggings" = 6
+			"irons_spellbooks:netherite_mage_boots" = 3
+			"etcetera:tidal_helmet" = 3
+
+		#Set the toughness value of an armor item. May not work on modded armors, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:golden_boots" = 1
+		[items.armor.toughness]
+			"minecraft:diamond_helmet" = 2.0
+			"minecraft:diamond_chestplate" = 2.0
+			"minecraft:diamond_leggings" = 2.0
+			"minecraft:diamond_boots" = 2.0
+			"minecraft:netherite_helmet" = 3.0
+			"minecraft:netherite_chestplate" = 3.0
+			"minecraft:netherite_leggings" = 3.0
+			"minecraft:netherite_boots" = 3.0
+			"minecraft:shulker_shell" = 1.0
+			"creature_compendium:mask_of_unseen" = 1.0
+			"alexsmobs:crocodile_chestplate" = 1.0
+			"alexsmobs:centipede_leggings" = 0.5
+			"alexsmobs:moose_headgear" = 0.5
+			"alexsmobs:frontier_cap" = 2.5
+			"alexsmobs:sombrero" = 0.5
+			"alexsmobs:spiked_turtle_shell" = 1.0
+			"alexsmobs:emu_leggings" = 0.5
+			"alexsmobs:fedora" = 0.5
+			"alexsmobs:froststalker_helmet" = 0.5
+			"alexsmobs:rocky_chestplate" = 0.5
+			"spelunkers_charm:mining_helmet" = 1.0
+			"dustrial_decor:cardboard_helmet" = 1.0
+			"dustrial_decor:cardboard_chestplate" = 1.0
+			"dustrial_decor:cardboard_leggings" = 1.0
+			"dustrial_decor:cardboard_boots" = 1.0
+			"eeeabsmobs:ghost_warrior_helmet" = 4.5
+			"eeeabsmobs:ghost_warrior_chestplate" = 4.5
+			"eeeabsmobs:ghost_warrior_boots" = 4.5
+			"eeeabsmobs:ghost_warrior_leggings" = 4.5
+			"cataclysm:bone_reptile_helmet" = 2.5
+			"cataclysm:bone_reptile_chestplate" = 2.5
+			"cataclysm:ignitium_helmet" = 4.0
+			"cataclysm:ignitium_chestplate" = 4.0
+			"cataclysm:ignitium_elytra_chestplate" = 4.0
+			"cataclysm:ignitium_leggings" = 4.0
+			"cataclysm:ignitium_boots" = 4.0
+			"cataclysm:monstrous_helm" = 3.0
+			"cataclysm:bloom_stone_pauldrons" = 2.0
+			"create:netherite_backtank" = 3.0
+			"create:netherite_diving_helmet" = 3.0
+			"create:netherite_diving_boots" = 3.0
+			"outer_end:rose_crystal_helmet" = 2.0
+			"outer_end:rose_crystal_chestplate" = 2.0
+			"outer_end:rose_crystal_leggings" = 2.0
+			"outer_end:rose_crystal_boots" = 2.0
+			"outer_end:mint_crystal_helmet" = 2.0
+			"outer_end:mint_crystal_chestplate" = 2.0
+			"outer_end:mint_crystal_leggings" = 2.0
+			"outer_end:mint_crystal_boots" = 2.0
+			"outer_end:cobalt_crystal_helmet" = 2.0
+			"outer_end:cobalt_crystal_chestplate" = 2.0
+			"outer_end:cobalt_crystal_leggings" = 2.0
+			"outer_end:cobalt_crystal_boots" = 2.0
+			"netherdepthsupgrade:soul_sucker_boots" = 1.0
+			"savage_and_ravage:griefer_helmet" = 1.0
+			"savage_and_ravage:griefer_chestplate" = 1.0
+			"savage_and_ravage:griefer_leggings" = 1.0
+			"savage_and_ravage:griefer_boots" = 1.0
+			"miningmaster:paragon_helmet" = 4.0
+			"miningmaster:paragon_chestplate" = 4.0
+			"miningmaster:paragon_leggings" = 4.0
+			"miningmaster:paragon_boots" = 4.0
+			"alexscaves:hazmat_mask" = 0.5
+			"alexscaves:hazmat_chestplate" = 0.5
+			"alexscaves:hazmat_leggings" = 0.5
+			"alexscaves:hazmat_boots" = 0.5
+			"alexscaves:hood_of_darkness" = 0.5
+			"alexscaves:cloak_of_darkness" = 0.5
+			"irons_spellbooks:netherite_mage_helmet" = 1.0
+			"irons_spellbooks:netherite_mage_chestplate" = 1.0
+			"irons_spellbooks:netherite_mage_leggings" = 1.0
+			"irons_spellbooks:netherite_mage_boots" = 1.0
+
+		#Set the knockback resistance of an armor item. May not work on modded armors, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:golden_leggings" = 0.1
+		[items.armor.knockback_resistance]
+			"minecraft:netherite_helmet" = 0.1
+			"minecraft:netherite_chestplate" = 0.1
+			"minecraft:netherite_leggings" = 0.1
+			"minecraft:netherite_boots" = 0.1
+			"minecraft:shulker_shell" = 0.2
+			"mowziesmobs:wrought_helmet" = 0.1
+			"alexsmobs:spiked_turtle_shell" = 0.2
+			"spelunkers_charm:mining_helmet" = 0.2
+			"eeeabsmobs:ghost_warrior_helmet" = 0.125
+			"eeeabsmobs:ghost_warrior_chestplate" = 0.125
+			"eeeabsmobs:ghost_warrior_boots" = 0.125
+			"eeeabsmobs:ghost_warrior_leggings" = 0.125
+			"cataclysm:bone_reptile_helmet" = 0.1
+			"cataclysm:bone_reptile_chestplate" = 0.1
+			"cataclysm:ignitium_helmet" = 0.15
+			"cataclysm:ignitium_chestplate" = 0.15
+			"cataclysm:ignitium_elytra_chestplate" = 0.15
+			"cataclysm:ignitium_leggings" = 0.15
+			"cataclysm:ignitium_boots" = 0.15
+			"cataclysm:monstrous_helm" = 0.1
+			"cataclysm:bloom_stone_pauldrons" = 0.1
+			"create:netherite_backtank" = 0.1
+			"create:netherite_diving_helmet" = 0.1
+			"create:netherite_diving_boots" = 0.1
+			"outer_end:rose_crystal_helmet" = 0.1
+			"outer_end:rose_crystal_chestplate" = 0.1
+			"outer_end:rose_crystal_leggings" = 0.1
+			"outer_end:rose_crystal_boots" = 0.1
+			"outer_end:mint_crystal_helmet" = 0.1
+			"outer_end:mint_crystal_chestplate" = 0.1
+			"outer_end:mint_crystal_leggings" = 0.1
+			"outer_end:mint_crystal_boots" = 0.1
+			"outer_end:cobalt_crystal_helmet" = 0.1
+			"outer_end:cobalt_crystal_chestplate" = 0.1
+			"outer_end:cobalt_crystal_leggings" = 0.1
+			"outer_end:cobalt_crystal_boots" = 0.1
+			"netherdepthsupgrade:soul_sucker_boots" = 0.2
+
+	#Set the values for tools, swords and tridents.
+	[items.tools]
+
+		#Set the attack speed of a tool or weapon. May not work on modded tools, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:netherite_pickaxe" = 2.5
+		[items.tools.attack_speed]
+			"etcetera:hammer" = 0.8
+
+		#Set the efficiency value of a tool. May not work on modded tools, please file an issue if that's the case. Also doesn't work on shears, due to internal problems with that. Example (without the leading #):
+		#"minecraft:iron_pickaxe" = 16
+		[items.tools.efficiency]
+			test = 0.0
+
+		#Set the attack damage of a tool or weapon. May not work on modded tools, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:netherite_sword" = 12
+		[items.tools.attack_damage]
+			test = 0.0
+
+	#Set the max damage (durability) of an item. Only items that already have durability can have this value altered. Example (without the leading #):
+	#"minecraft:diamond_.*" = 5000
+	[items.max_damage]
+		test = 0
+
+	#Set the max stack size of an item. Only values between 2 and 64 are supported. Items that have durability cannot have this value altered. Example (without the leading #):
+	#"minecraft:ender_pearl" = 64
+	[items.max_stack_size]
+		test = 0
+
+	#Set this value to true to make an item fire resistant (like netherite is), or set it to false to make it burn in fire and lava. Example (without the leading #):
+	#"minecraft:netherite_ingot" = false
+	[items.fire_resistant]
+		test = false
+
+	#Set the rarity (item color) of an item. Must be a valid rarity name. Example (without the leading #):
+	#"minecraft:beacon" = "common"
+	#Default rarities (mods may add more!): "common", "uncommon", "rare", "epic"
+	[items.rarity]
+		test = ""
+
+	#Set the enchantment value of an item. Higher value means better enchantments on average. May not always have a noticeable effect. Example (without the leading #):
+	#"minecraft:.*_hoe" = 40
+	[items.enchantment_value]
+		test = 0
+
+	#Set the repair material of an item. May be an item or a tag containing multiple items, with a # before the tag id. Example (without the leading #):
+	#"minecraft:wooden_.*" = "#minecraft:fishes"
+	[items.repair_material]
+		test = ""
+
+#Set the respective values here by adding lines in the respective groups. Keys can be either a block (e.g. "minecraft:stripped_birch_wood"), a block regex (e.g. "minecraft:.*_block") or a blockstate definition (e.g. "minecraft:grass_block[snowy=true]"). Block regexes cannot contain the [] characters, as their presence will be interpreted as a blockstate definition instead.
+[blocks_and_blockstates]
+
+	#Set the destroy time for a block (state). Dirt has 0.5, stone has 1.5, obsidian has 50. -1 makes the block unbreakable. Examples (without the leading #):
+	#"minecraft:grass_block[snowy=true]" = 100
+	#"minecraft:.*_planks" = 100
+	[blocks_and_blockstates.destroy_time]
+		test = 0.0
+
+	#Set the tool requirement of a block (state). Must be true or false. Examples (without the leading #):
+	#"minecraft:diamond_ore" = false
+	#"minecraft:oak_log" = true
+	[blocks_and_blockstates.requires_tool]
+		test = false
+
+	#Set the light emission of a block (state). Must be an integer between 0 and 15. Examples (without the leading #):
+	#"minecraft:redstone_torch[lit=true]" = 15
+	#"minecraft:.*_bricks" = 7
+	[blocks_and_blockstates.light_emission]
+		test = 0
+
+#Set the respective values here by adding lines in the respective groups. Keys can be either a block (e.g. "minecraft:stripped_birch_wood") or a block regex (e.g. "minecraft:.*_block").
+[blocks]
+
+	#Set the explosion resistance for a block. Dirt has 0.5, stone and has 6, obsidian has 1200. 3600000 or more makes the block completely explosion resistant. Example (without the leading #):
+	#"minecraft:dirt" = 1000
+	[blocks.explosion_resistance]
+		test = 0.0
+
+	#Set the friction for a block. 0.6 for most blocks, 0.8 for slime blocks, 0.98 for ice, packed ice and frosted ice, and 0.989 for blue ice. Example (without the leading #):
+	#"minecraft:.*ice" = 0.6
+	[blocks.friction]
+		test = 0.0
+
+	#Set the speed factor for a block. 1 for most blocks, 0.4 for soul sand and honey blocks. Example (without the leading #):
+	#"minecraft:soul_sand" = 1
+	[blocks.speed_factor]
+		test = 0.0
+
+	#Set the speed factor for a block. 1 for most blocks, 0.5 for honey blocks. Example (without the leading #):
+	#"minecraft:honey_block" = 1
+	[blocks.jump_factor]
+		test = 0.0
+
+#Set the values for enchantments.
+[enchantments]
+
+	#Set the rarity of an enchantment. Must be a valid rarity name. Example (without the leading #):
+	#"minecraft:mending" = "common"
+	#Default rarities (mods may add more!): "common", "uncommon", "rare", "very_rare"
+	[enchantments.rarity]
+		test = ""
+
+#Add or remove compostables.
+[composting]
+	#Whether to remove all predefined compostables or not.
+	clear = false
+
+	#Add new compostables here. Consists of an item or item regex and a float between 0 and 1, representing the chance that the composter level is increased. Example (without the leading #):
+	#"minecraft:netherite_scrap" = 0.8
+	[composting.composting]
+		test = 0.0
+
+#Set the values for axe stripping.
+[stripping]
+	#Whether to remove all predefined stripping values or not.
+	clear = false
+
+	#Add new stripping transitions here. Consists of a block or block regex and a block or block state, representing the output. Example (without the leading #):
+	#"minecraft:.*_planks" = "minecraft:infested_cobblestone"
+	[stripping.stripping]
+		test = ""
+
+#Set the values for shovel flattening.
+[flattening]
+	#Whether to remove all predefined flattening values or not.
+	clear = false
+
+	#Add new flattening transitions here. Consists of a block or block regex and a block or block state, representing the output. Example (without the leading #):
+	#"minecraft:.*_planks" = "minecraft:infested_cobblestone"
+	[flattening.flattening]
+		test = ""
+
+#Set the values for hoe tilling.
+[tilling]
+	#Whether to remove all predefined tilling values or not.
+	clear = false
+
+	#Add new tilling transitions here. Consists of a block or block regex and a block or block state, representing the output. Example (without the leading #):
+	#"minecraft:diamond_block" = "minecraft:emerald_block"
+	[tilling.tilling]
+		test = ""
+
+	#Whether a certain tilling transition needs air above to work. Consists of a block or block regex and a boolean value (true or false). If left unspecified, true is assumed. Example (without the leading #):
+	#"minecraft:diamond_block" = false
+	[tilling.needs_air]
+		test = false
+
+	#The item that is dropped when tilling. Consists of a block or block regex and an item id. If left unspecified, no item is dropped. Example (without the leading #):
+	#"minecraft:diamond_block" = "minecraft:iron_nugget"
+	[tilling.item_drop]
+		test = "minecraft:missingno"
+
+#Set the values for entities.
+[entities]
+
+	#Set the default attributes for entities. Format is "entityid" = "attributeid;value". Cannot add new attributes to mobs, can only alter those that are present by default anyway. Example (without the leading #):
+	#"minecraft:zombie" = "minecraft:generic.attack_damage;10"
+	[entities.default_attributes]
+		test = ""
+

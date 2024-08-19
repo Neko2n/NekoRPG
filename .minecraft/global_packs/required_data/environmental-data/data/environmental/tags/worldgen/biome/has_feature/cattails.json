@@ -1,0 +1,7 @@
+{
+  "values": [
+    "minecraft:river",
+    "#forge:is_swamp",
+    "minecraft:mangrove_swamp"
+  ]
+}

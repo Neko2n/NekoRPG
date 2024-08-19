@@ -1,4 +1,8 @@
 {
+  "magic": {
+    "bodyParts": [],
+    "damageDistribution": "NONE"
+  },
   "atmospheric.barrelCactus": {
     "bodyParts": [
       "LEFT_FOOT",
@@ -9,10 +13,8 @@
     "damageDistribution": "ONE_OF"
   },
   "legendarysurvivaloverhaul.dehydration": {
-    "bodyParts": [
-      "CHEST"
-    ],
-    "damageDistribution": "ALL"
+    "bodyParts": [],
+    "damageDistribution": "NONE"
   },
   "atmospheric.yuccaFlower": {
     "bodyParts": [
@@ -30,10 +32,8 @@
     "damageDistribution": "ALL"
   },
   "starve": {
-    "bodyParts": [
-      "CHEST"
-    ],
-    "damageDistribution": "ALL"
+    "bodyParts": [],
+    "damageDistribution": "NONE"
   },
   "supplementaries.bamboo_spikes": {
     "bodyParts": [
@@ -43,10 +43,8 @@
     "damageDistribution": "ALL"
   },
   "drown": {
-    "bodyParts": [
-      "CHEST"
-    ],
-    "damageDistribution": "ALL"
+    "bodyParts": [],
+    "damageDistribution": "NONE"
   },
   "atmospheric.yuccaLeaves": {
     "bodyParts": [
@@ -69,6 +67,10 @@
       "LEFT_FOOT"
     ],
     "damageDistribution": "ALL"
+  },
+  "legendarysurvivaloverhaul.hypothermia": {
+    "bodyParts": [],
+    "damageDistribution": "NONE"
   },
   "atmospheric.yuccaBranch": {
     "bodyParts": [
@@ -133,10 +135,8 @@
     "damageDistribution": "ALL"
   },
   "legendarysurvivaloverhaul.hyperthermia": {
-    "bodyParts": [
-      "CHEST"
-    ],
-    "damageDistribution": "ALL"
+    "bodyParts": [],
+    "damageDistribution": "NONE"
   },
   "inFire": {
     "bodyParts": [
@@ -179,12 +179,6 @@
     ],
     "damageDistribution": "ALL"
   },
-  "legendarysurvivaloverhaul.hypothermia.json": {
-    "bodyParts": [
-      "CHEST"
-    ],
-    "damageDistribution": "ALL"
-  },
   "explosion": {
     "bodyParts": [
       "HEAD",
@@ -213,5 +207,9 @@
       "RIGHT_LEG"
     ],
     "damageDistribution": "ONE_OF"
+  },
+  "wither": {
+    "bodyParts": [],
+    "damageDistribution": "NONE"
   }
 }

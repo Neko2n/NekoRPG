@@ -1,33 +1,4 @@
 {
-  "irons_spellbooks:netherite_mage_helmet":[
-    {
-      "attribute": "minecraft:generic.armor_toughness",
-      "modify": -2,
-      "operation": "ADDITION"
-    }
-  ],
-  "irons_spellbooks:netherite_mage_chestplate":[
-    {
-      "attribute": "minecraft:generic.armor_toughness",
-      "modify": -2,
-      "operation": "ADDITION"
-    }
-  ],
-  "irons_spellbooks:netherite_mage_leggings":[
-    {
-      "attribute": "minecraft:generic.armor_toughness",
-      "modify": -2,
-      "operation": "ADDITION"
-    }
-  ],
-  "irons_spellbooks:netherite_mage_boots":[
-    {
-      "attribute": "minecraft:generic.armor_toughness",
-      "modify": -2,
-      "operation": "ADDITION"
-    }
-  ],
-
   "minecraft:golden_helmet":[
     {
       "attribute": "irons_spellbooks:mana_regen",
