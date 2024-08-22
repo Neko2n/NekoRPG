@@ -27,11 +27,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "tieredreforge:fucdu_hard",
-          "weight": 3
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:golden_apple",
           "weight": 4
         },
@@ -71,22 +66,12 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "irons_spellbooks:iron_spell_book",
-          "weight": 2
-        },
-        {
-          "type": "minecraft:item",
           "name": "irons_spellbooks:gold_spell_book",
-          "weight": 3
-        },
-        {
-          "type": "minecraft:item",
-          "name": "irons_spellbooks:diamond_spell_book",
           "weight": 1
         },
         {
           "type": "minecraft:empty",
-          "weight": 8
+          "weight": 9
         }
       ]
     },
@@ -129,20 +114,6 @@
       ]
     },
     {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "tieredreforge:fucdu_hard",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:empty",
-          "weight": 1
-        }
-      ]
-    },
-    {
       "rolls": 6,
       "entries": [
         {
@@ -181,7 +152,7 @@
         },
         {
           "type": "minecraft:empty",
-          "weight": 7
+          "weight": 10
         }
       ]
     },

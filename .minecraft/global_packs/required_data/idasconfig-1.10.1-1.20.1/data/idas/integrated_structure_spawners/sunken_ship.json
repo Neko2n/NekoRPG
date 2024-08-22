@@ -1,0 +1,12 @@
+{
+  "mobs": [
+    {
+      "name": "minecraft:drowned",
+      "weight": 15
+    },
+    {
+      "name": "variantsandventures:murk",
+      "weight": 10
+    }
+  ]
+}

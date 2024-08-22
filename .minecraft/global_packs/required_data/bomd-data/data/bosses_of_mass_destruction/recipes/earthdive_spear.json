@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " HV",
+    " SH",
+    "S  "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "V": {
+      "item": "bosses_of_mass_destruction:void_thorn"
+    },
+    "H": {
+      "item": "alexscaves:corrodent_teeth"
+    }
+  },
+  "result": {
+    "item": "bosses_of_mass_destruction:earthdive_spear"
+  }
+}

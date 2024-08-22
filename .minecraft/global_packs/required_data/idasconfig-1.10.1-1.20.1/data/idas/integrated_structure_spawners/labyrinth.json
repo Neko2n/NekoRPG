@@ -1,0 +1,20 @@
+{
+  "mobs": [
+    {
+      "name": "minecraft:husk",
+      "weight": 15
+    },
+    {
+      "name": "minecraft:stray",
+      "weight": 10
+    },
+    {
+      "name": "variantsandventures:thicket",
+      "weight": 10
+    },
+    {
+      "name": "variantsandventures:verdant",
+      "weight": 5
+    }
+  ]
+}

@@ -14,6 +14,17 @@
             }
           ],
           "name": "minecraft:bone"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "alexscaves:heavy_bone"
         }
       ],
       "rolls": 1.0

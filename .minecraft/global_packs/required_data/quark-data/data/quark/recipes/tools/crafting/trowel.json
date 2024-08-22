@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S  ",
+    " II"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:rods/wooden"
+    },
+    "I": {
+      "item": "etcetera:bismuth_ingot"
+    }
+  },
+  "result": {
+    "item": "quark:trowel"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "trowel"
+    }
+  ]
+}

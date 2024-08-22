@@ -22,8 +22,8 @@
                 {
                 "function": "set_damage",
                 "damage": {
-                    "min": 0.2,
-                    "max": 0.9
+                    "min": 0.05,
+                    "max": 0.4
                 }
                 }
             ]
@@ -43,8 +43,8 @@
                 {
                 "function": "set_damage",
                 "damage": {
-                    "min": 0.2,
-                    "max": 0.9
+                    "min": 0.05,
+                    "max": 0.8
                 }
                 }
             ]
@@ -64,8 +64,8 @@
                 {
                 "function": "set_damage",
                 "damage": {
-                    "min": 0.2,
-                    "max": 0.9
+                    "min": 0.05,
+                    "max": 0.4
                 }
                 }
             ]
@@ -85,8 +85,8 @@
                 {
                 "function": "set_damage",
                 "damage": {
-                    "min": 0.2,
-                    "max": 0.9
+                    "min": 0.05,
+                    "max": 0.8
                 }
                 }
             ]
@@ -106,8 +106,8 @@
                 {
                 "function": "set_damage",
                 "damage": {
-                    "min": 0.2,
-                    "max": 0.9
+                    "min": 0.05,
+                    "max": 0.4
                 }
                 }
             ]
@@ -127,8 +127,8 @@
                 {
                 "function": "set_damage",
                 "damage": {
-                    "min": 0.2,
-                    "max": 0.9
+                    "min": 0.05,
+                    "max": 0.8
                 }
                 }
             ]
@@ -148,8 +148,8 @@
                 {
                 "function": "set_damage",
                 "damage": {
-                    "min": 0.2,
-                    "max": 0.9
+                    "min": 0.05,
+                    "max": 0.4
                 }
                 }
             ]
@@ -169,8 +169,8 @@
                 {
                 "function": "set_damage",
                 "damage": {
-                    "min": 0.2,
-                    "max": 0.9
+                    "min": 0.05,
+                    "max": 0.8
                 }
                 }
             ]

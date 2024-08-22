@@ -4,6 +4,11 @@
     "minecraft:chests/nether_bridge": 1,
     "minecraft:chests/nether_fortress/fort_inside": 2,
     "minecraft:chests/nether_fortress/fort_inside_generic": 1,
-    "bosses_of_mass_destruction:chests/gauntlet": 1
+    "bosses_of_mass_destruction:chests/gauntlet": 2,
+    "betterfortresses:chests/extra": 1,
+    "betterfortresses:chests/hall": 1,
+    "betterfortresses:chests/puzzle": 1,
+    "betterfortresses:chests/quarters": 1,
+    "betterfortresses:chests/worship": 1
   }
 }

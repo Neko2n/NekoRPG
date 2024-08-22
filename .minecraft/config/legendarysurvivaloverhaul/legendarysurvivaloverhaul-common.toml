@@ -42,7 +42,7 @@
 
 	[temperature.on-death]
 		# If enabled, players will be immune to temperature effects after death.
-		"Temperature Resistance Enabled" = true
+		"Temperature Resistance Enabled" = false
 		# Temperature resistance period in ticks while the player is immune to temperature effects.
 		#Range: 0 ~ 100000
 		"Temperature Resistance Time" = 1800

@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "minecraft:soul_sand_valley",
-    "regions_unexplored:withered_abyss"
+    "minecraft:soul_sand_valley"
   ]
 }

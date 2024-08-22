@@ -19,6 +19,34 @@
 					"name": "minecraft:rotten_flesh"
 				}
 			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 4.0,
+								"max": 8.0,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "alexsmobs:maggot"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "mutantmonsters:hulk_hammer"
+				}
+			]
 		}
 	]
 }

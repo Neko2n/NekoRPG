@@ -7,18 +7,10 @@
       "nbt": {}
     }
   ],
-  "legendarysurvivaloverhaul:purified_water_bottle": [
-    {
-      "hydration": 6,
-      "saturation": 1.5,
-      "effects": [],
-      "nbt": {}
-    }
-  ],
   "legendarysurvivaloverhaul:water_plant_bag": [
     {
       "hydration": 3,
-      "saturation": 0.0,
+      "saturation": 0.5,
       "effects": [],
       "nbt": {}
     }
@@ -44,6 +36,21 @@
       "hydration": 2,
       "saturation": 1.0,
       "effects": [],
+      "nbt": {}
+    }
+  ],
+  "regions_unexplored:duskmelon_slice": [
+    {
+      "hydration": 2,
+      "saturation": 1.0,
+      "effects": [
+        {
+          "chance": 1.0,
+          "effect": "legendarysurvivaloverhaul:thirst",
+          "duration": 600,
+          "amplifier": 0
+        }
+      ],
       "nbt": {}
     }
   ],
@@ -136,31 +143,17 @@
   ],
   "minecraft:potion": [
     {
-      "hydration": 3,
-      "saturation": 0.0,
-      "effects": [
-        {
-          "chance": 0.75,
-          "effect": "legendarysurvivaloverhaul:thirst",
-          "duration": 600,
-          "amplifier": 0
-        }
-      ],
+      "hydration": 4,
+      "saturation": 1.0,
+      "effects": [],
       "nbt": {
         "Potion": "minecraft:water"
       }
     },
     {
-      "hydration": 3,
-      "saturation": 0.0,
-      "effects": [
-        {
-          "chance": 0.75,
-          "effect": "legendarysurvivaloverhaul:thirst",
-          "duration": 600,
-          "amplifier": 0
-        }
-      ],
+      "hydration": 4,
+      "saturation": 0.5,
+      "effects": [],
       "nbt": {
         "Potion": "minecraft:mundane"
       }
@@ -170,7 +163,7 @@
       "saturation": 0.0,
       "effects": [
         {
-          "chance": 0.75,
+          "chance": 1.0,
           "effect": "legendarysurvivaloverhaul:thirst",
           "duration": 600,
           "amplifier": 0
@@ -181,16 +174,9 @@
       }
     },
     {
-      "hydration": 3,
+      "hydration": 2,
       "saturation": 0.0,
-      "effects": [
-        {
-          "chance": 0.75,
-          "effect": "legendarysurvivaloverhaul:thirst",
-          "duration": 600,
-          "amplifier": 0
-        }
-      ],
+      "effects": [],
       "nbt": {
         "Potion": "minecraft:awkward"
       }
@@ -210,9 +196,81 @@
       "nbt": {}
     }
   ],
-  "minecraft:apple": [
+  "atmospheric:orange": [
     {
       "hydration": 2,
+      "saturation": 0.5,
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "atmospheric:passion_fruit": [
+    {
+      "hydration": 1,
+      "saturation": 0.5,
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "atmospheric:dragon_fruit": [
+    {
+      "hydration": 1,
+      "saturation": 0.5,
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "ecologicsdelight:coconut_shake": [
+    {
+      "hydration": 2,
+      "saturation": 1.5,
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "ecologicsdelight:prickly_pear_juice": [
+    {
+      "hydration": 2,
+      "saturation": 1.5,
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "ecologics:coconut_slice": [
+    {
+      "hydration": 1,
+      "saturation": 0.5,
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "ecologics:prickly_pear": [
+    {
+      "hydration": 1,
+      "saturation": 0.5,
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "abnormals_delight:passion_aloe_nectar": [
+    {
+      "hydration": 2,
+      "saturation": 3.0,
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "atmospheric:aloe_gel_bottle": [
+    {
+      "hydration": 1,
+      "saturation": 3.0,
+      "effects": [],
+      "nbt": {}
+    }
+  ],
+  "minecraft:apple": [
+    {
+      "hydration": 1,
       "saturation": 0.5,
       "effects": [],
       "nbt": {}
@@ -248,56 +306,6 @@
       "saturation": 1.0,
       "effects": [],
       "nbt": {}
-    }
-  ],
-  "legendarysurvivaloverhaul:large_canteen": [
-    {
-      "hydration": 3,
-      "saturation": 0.0,
-      "effects": [
-        {
-          "chance": 0.75,
-          "effect": "legendarysurvivaloverhaul:thirst",
-          "duration": 600,
-          "amplifier": 0
-        }
-      ],
-      "nbt": {
-        "legendarysurvivaloverhaul:HydrationPurity": "normal"
-      }
-    },
-    {
-      "hydration": 6,
-      "saturation": 1.5,
-      "effects": [],
-      "nbt": {
-        "legendarysurvivaloverhaul:HydrationPurity": "purified"
-      }
-    }
-  ],
-  "legendarysurvivaloverhaul:canteen": [
-    {
-      "hydration": 3,
-      "saturation": 0.0,
-      "effects": [
-        {
-          "chance": 0.75,
-          "effect": "legendarysurvivaloverhaul:thirst",
-          "duration": 600,
-          "amplifier": 0
-        }
-      ],
-      "nbt": {
-        "legendarysurvivaloverhaul:HydrationPurity": "normal"
-      }
-    },
-    {
-      "hydration": 6,
-      "saturation": 1.5,
-      "effects": [],
-      "nbt": {
-        "legendarysurvivaloverhaul:HydrationPurity": "purified"
-      }
     }
   ],
   "legendarysurvivaloverhaul:pumpkin_juice": [

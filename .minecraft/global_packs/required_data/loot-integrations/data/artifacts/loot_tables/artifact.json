@@ -1,0 +1,74 @@
+{
+    "pools": [
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:fire_ruby"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:ice_sapphire"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:spirit_garnet"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:haste_peridot"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:lucky_citrine"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:dive_aquamarine"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:divine_beryl"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:spider_kunzite"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:unbreaking_iolite"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:heart_rhodonite"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:power_pyrite"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:kinetic_opal"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "miningmaster:air_malachite"
+                }
+            ]
+        }
+    ]
+}

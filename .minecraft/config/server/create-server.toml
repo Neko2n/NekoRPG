@@ -72,7 +72,7 @@
 	#.
 	#Damage dealt by active Crushing Wheels.
 	#Range: > 0
-	crushingDamage = 4
+	crushingDamage = 6
 	#.
 	#[in Revolutions per Minute]
 	#Maximum allowed rotation speed for any Kinetic Block.
@@ -256,7 +256,7 @@
 				flywheel = 0.0
 				encased_chain_drive = 0.0
 				clutch = 0.0
-				encased_fan = 2.0
+				encased_fan = 6.0
 				adjustable_chain_gearshift = 0.0
 				mechanical_pump = 4.0
 				crushing_wheel = 8.0
@@ -267,7 +267,7 @@
 				mechanical_arm = 2.0
 				netherite_backtank = 4.0
 				andesite_encased_shaft = 0.0
-				mechanical_press = 8.0
+				mechanical_press = 4.0
 				large_cogwheel = 0.0
 				mechanical_drill = 6.0
 				andesite_encased_large_cogwheel = 0.0
