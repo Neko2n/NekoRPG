@@ -9,13 +9,13 @@
       "item": "minecraft:dispenser"
     },
     "F": {
-      "item": "minecraft:flint_and_steel"
+      "item": "blazegear:flint_and_brimsteel"
     },
     "P": {
       "tag": "minecraft:planks"
     },
     "W": {
-      "tag": "minecraft:wool"
+      "item": "blazegear:brimsteel_ingot"
     },
     "H": {
       "item": "create:hand_crank"

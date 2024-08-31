@@ -85,9 +85,9 @@
 		#Range: -1000.0 ~ 1000.0
 		"Default Overworld Modifier" = 20.0
 		#Range: -1000.0 ~ 1000.0
-		"Default Nether Modifier" = 30.0
+		"Default Nether Modifier" = 22.0
 		#Range: -1000.0 ~ 1000.0
-		"Default The End Modifier" = 20.0
+		"Default The End Modifier" = 18.0
 
 	[temperature.huddling]
 		# How much nearby players increase the ambient temperature by.

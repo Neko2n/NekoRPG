@@ -1,6 +1,7 @@
 {
   "loot_table": "lootintegrations:chests/hard",
   "integrated_loot_tables": {
+    "outer_end:chests/catacomb_treasure": 4,
     "endrem:chests/treasure": 16,
     "totw_additions:chests/end_tower/end_tower_chest": 16,
     "dungeoncrawl:chests/treasure": 6,

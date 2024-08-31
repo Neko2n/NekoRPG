@@ -1,0 +1,14 @@
+{
+  "values": [
+    "#minecraft:skeletons",
+    "minecraft:zombie",
+    "variantsandventures:gelid",
+    "variantsandventures:thicket",
+    "minecraft:spider",
+    "sullysmod:jungle_spider",
+    "minecraft:cave_spider",
+    "minecraft:creeper",
+    "#creeperoverhaul:creepers",
+    "twilightforest:swarm_spider"
+  ]
+}

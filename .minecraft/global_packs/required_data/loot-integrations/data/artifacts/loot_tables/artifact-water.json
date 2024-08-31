@@ -1,0 +1,35 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:anglers_hat",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:charm_of_sinking",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:flippers",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:snorkel",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "artifacts:items/drinking_hat",
+          "weight": 8
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

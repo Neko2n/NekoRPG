@@ -25,6 +25,16 @@
         {
           "type": "minecraft:item",
           "weight": 5,
+          "name": "neapolitan:vanilla_pod"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "alexsmobs:acacia_flower"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:grass"
         },
         {

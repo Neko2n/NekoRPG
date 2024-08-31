@@ -53,8 +53,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 10,
+          "weight": 5,
           "name": "minecraft:flint_and_steel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "blazegear:flint_and_brimsteel"
         },
         {
           "type": "minecraft:item",

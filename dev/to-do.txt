@@ -1,4 +1,23 @@
 # TO-DO
+- Twilight forest integration
+    - Replace all of the mod's items with existing loot, eg. fiery tears with fire ale
+    - Make the bosses, mobs, and structures spawn in existing biomes
+        - Ur-ghast summoning pedestal spawns rarely in the nether in open biomes
+        - Hydra den spawns rarely in the nether
+        - Naga's arena spawns in the overworld in forest, swamp, and jungle biomes
+        - Labrynths spawn in the overworld
+        - Fire beetles spawn in the infernal holt and erupting inferno biomes, as well as rarely in nether wastes
+        - Slime beetles spawn underground and rarely in swamps
+        - Pincer beetles spawn underground and rarely in deserts
+        - Knight phantoms spawn in the overworld rarely as mobs at night and are spawned by dungeon spawners
+        - Swarm spiders spawn underground very commonly
+        - The lich tower generates rarely in the overworld
+        - Aurora palace generates rarely in ice biomes
+        - Frost elementals spawn in icy biomes at night
+        - Mountain trolls spawn underground and rarely in mountain biomes
+        - Minoshroom spawns rarely in forest and plains biomes
+        - King spider spawns rarely in all biomes
+        - Yetis spawn rarely in ice biomes
 - Dungeons & Taverns loot tables
     - Change all adventure maps to furled maps
     - Loot integrations

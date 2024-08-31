@@ -14,7 +14,7 @@
 	rare_region_weight = 1
 	#Sets Terrablender region weight for Nether region.
 	#Range: 0 ~ 2147483646
-	nether_region_weight = 8
+	nether_region_weight = 6
 
 [biome_toggles]
 	#overworld_biomes

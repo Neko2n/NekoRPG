@@ -1,6 +1,6 @@
 {
-  "startingValue" : 10,
-  "minValue" : 10,
+  "startingValue" : 20,
+  "minValue" : 20,
   "maxValue" : 100,
   "changePerSecond" : 0.0,
   "mode" : {

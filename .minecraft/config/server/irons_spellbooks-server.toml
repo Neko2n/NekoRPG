@@ -500,11 +500,11 @@
 	[Spells."irons_spellbooks:teleport"]
 		Enabled = true
 		School = "irons_spellbooks:ender"
-		MaxLevel = 3
+		MaxLevel = 4
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 4.0
-		SpellPowerMultiplier = 0.6
+		SpellPowerMultiplier = 0.8
 		CooldownInSeconds = 60.0
 		AllowCrafting = true
 

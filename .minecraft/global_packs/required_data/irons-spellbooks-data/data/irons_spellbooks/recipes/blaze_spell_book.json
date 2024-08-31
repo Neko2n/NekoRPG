@@ -18,7 +18,7 @@
     },
     "H":
     {
-      "item": "cataclysm:burning_ashes"
+      "item": "cataclysm:dying_ember"
     },
     "S":
     {
@@ -26,7 +26,7 @@
     },
     "G":
     {
-      "item": "irons_spellbooks:cinder_essence"
+      "item": "minecraft:blaze_powder"
     },
     "C":
     {

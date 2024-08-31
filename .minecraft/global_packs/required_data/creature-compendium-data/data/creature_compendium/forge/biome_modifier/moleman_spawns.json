@@ -3,8 +3,8 @@
   "biomes" : "#forge:is_snowy",
   "spawners": {
     "type" : "creature_compendium:moleman",
-    "weight" : 2,
-    "minCount" : 2,
-    "maxCount" : 3
+    "weight" : 1,
+    "minCount" : 1,
+    "maxCount" : 1
   }
 }

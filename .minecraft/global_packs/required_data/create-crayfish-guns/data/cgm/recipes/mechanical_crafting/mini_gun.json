@@ -14,14 +14,17 @@
     "T": {
       "item": "create:brass_sheet"
     },
+    "I": {
+      "item": "blazegear:brimsteel_ingot"
+    },
     "H": {
       "item": "create:hand_crank"
     }
   },
   "pattern": [
     " SSSSSSH ",
-    "TSSSSSSDB",
-    "TSSSSSSTS",
+    "TSIIIISDB",
+    "TSIIIISTS",
     " SSSSSSS "
   ],
   "result": {

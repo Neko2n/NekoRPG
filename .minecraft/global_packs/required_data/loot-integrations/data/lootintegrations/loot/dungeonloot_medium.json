@@ -2,6 +2,11 @@
   "loot_table": "lootintegrations:chests/medium",
   "max_result_itemcount": 20,
   "integrated_loot_tables": {
+    "outer_end:chests/end_city_treasure": 6,
+    "outer_end:chests/catacomb_treasure": 6,
+    "outer_end:chests/catacomb_loot": 10,
+    "outer_end:chests/catacomb_generic": 10,
+    "outer_end:chests/basement_loot": 6,
     "betterjungletemples:chests/treasure": 10,
     "dungeons_enhanced:chests/castle/throne": 12,
     "dungeons_enhanced:chests/castle/library": 6,

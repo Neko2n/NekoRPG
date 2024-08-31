@@ -1,10 +1,11 @@
+.idea
+.minecraft/.mixin.out
 .minecraft/.qmenu_opened.marker
 .minecraft/aes
 .minecraft/coremods
 .minecraft/coremods
 .minecraft/data
 .minecraft/debug
-.minecraft/emi.json
 .minecraft/essential
 .minecraft/essential
 .minecraft/fabricloader.log
@@ -17,6 +18,7 @@
 .minecraft/modernfix
 .minecraft/observable_announce
 .minecraft/openvr
+.minecraft/options.txt
 .minecraft/optionsviveprofiles.txt
 .minecraft/panoramas
 .minecraft/patchouli_books

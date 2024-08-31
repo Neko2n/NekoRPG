@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "brimsteel_ingot",
+	"ingredients": [
+		{
+			"item": "etcetera:bismuth_ingot"
+		},
+		{
+			"item": "etcetera:bismuth_ingot"
+		},
+		{
+			"item": "minecraft:blaze_powder"
+		},
+		{
+			"item": "minecraft:blaze_powder"
+		},
+		{
+			"item": "cataclysm:dying_ember"
+		},
+		{
+			"item": "cataclysm:dying_ember"
+		}
+	],
+	"result": {
+		"item": "blazegear:brimsteel_ingot"
+	}
+}

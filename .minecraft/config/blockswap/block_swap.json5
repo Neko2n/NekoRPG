@@ -186,6 +186,7 @@
 		"regions_unexplored:cattail" : "environmental:cattail",
 		"regions_unexplored:clover" : "biomesoplenty:clover",
 		"regions_unexplored:pine_log" : "environmental:pine_log",
+		"regions_unexplored:pine_wood" : "environmental:pine_log",
 		"regions_unexplored:stripped_pine_log" : "environmental:stripped_pine_log",
 		"regions_unexplored:pine_leaves" : "environmental:pine_leaves",
 		"regions_unexplored:dead_pine_leaves" : "regions_unexplored:dead_leaves",

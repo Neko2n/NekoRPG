@@ -1,6 +1,25 @@
 {
   "pools": [
     {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poisonous_potato",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:divine_pearl",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 6
+        }
+      ]
+    },
+    {
       "rolls": 6,
       "entries": [
         {
@@ -82,6 +101,21 @@
           "type": "minecraft:loot_table",
           "name": "minecraft:chests/village/village_armorer",
           "weight": 3
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "chance": 0.2,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "artifacts:artifact-village"
         }
       ]
     },

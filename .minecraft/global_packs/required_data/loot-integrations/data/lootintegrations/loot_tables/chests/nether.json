@@ -43,6 +43,65 @@
       ]
     },
     {
+      "rolls": 1,
+      "conditions": [
+        {
+          "chance": 0.2,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "artifacts:artifact-nether"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "blazegear:brimsteel_horse_armor",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "max": 20.0,
+                "min": 5.0
+              },
+              "treasure": false
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blazegear:brimsteel_horse_armor",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "blazegear:brimsteel_ingot",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 1
+        }
+      ]
+    },
+    {
       "rolls": 5,
       "entries": [
         {
@@ -108,6 +167,11 @@
           "weight": 1
         },
         {
+          "type": "minecraft:item",
+          "name": "cataclysm:dying_ember",
+          "weight": 1
+        },
+        {
           "type": "minecraft:empty",
           "weight": 2
         }
@@ -130,6 +194,11 @@
     {
       "rolls": 2,
       "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:blood_vial",
+          "weight": 8
+        },
         {
           "type": "minecraft:loot_table",
           "name": "irons_spellbooks:scroll_gen",

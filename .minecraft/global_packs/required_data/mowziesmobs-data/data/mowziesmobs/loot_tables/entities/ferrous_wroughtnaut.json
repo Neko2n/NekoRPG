@@ -1,0 +1,61 @@
+{
+  "pools": [
+    {
+      "name": "ferrous_wroughtnaut_helmet",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "name": "mowziesmobs:wrought_helmet",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "ferrous_wroughtnaut_armor_shards",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "name": "twilightforest:armor_shard",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "ferrous_wroughtnaut_axe",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "name": "mowziesmobs:wrought_axe",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

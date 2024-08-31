@@ -16,11 +16,14 @@
     },
     "R": {
       "item": "minecraft:lever"
+    },
+    "I": {
+      "item": "blazegear:brimsteel_ingot"
     }
   },
   "pattern": [
     "SSSSBR",
-    "SSSSBR",
+    "SIISBR",
     "  LCBL"
   ],
   "result": {

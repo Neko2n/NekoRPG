@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "irons_spellbooks:fire_ale"
+    },
+    {
+      "item": "cataclysm:dying_ember"
+    },
+    {
+      "item": "etcetera:bismuth_ingot"
+    }
+  ],
+  "result": {
+    "item": "twilightforest:fiery_ingot"
+  }
+}

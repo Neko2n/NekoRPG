@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "irons_spellbooks:frosted_helve"
+    },
+    "I": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "pattern": [
+    "I",
+    "I",
+    "X"
+  ],
+  "result": {
+    "item": "twilightforest:ice_sword"
+  },
+  "show_notification": true
+}
