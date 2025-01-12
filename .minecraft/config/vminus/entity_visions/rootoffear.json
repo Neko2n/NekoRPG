@@ -1,0 +1,15 @@
+{
+    "entities": [
+        "rootoffear:wilted"
+    ],
+    "underwater_breathing": [
+        {
+            "value": true
+        }
+    ],
+    "water_sensitive": [
+        {
+            "value": true
+        }
+    ]
+}

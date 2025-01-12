@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "irons_spellbooks:divine_pearl"
+    },
+    "3": {
+      "item": "minecraft:gold_ingot"
+    },
+    "4": {
+      "item": "minecraft:iron_boots"
+    },
+    "5": {
+      "item": "irons_spellbooks:holy_rune"
+    }
+  },
+  "pattern": [
+    "323",
+    "141",
+    " 5 "
+  ],
+  "result": {
+    "item": "elementus_arcane:paladin_boots"
+  },
+  "show_notification": true
+}

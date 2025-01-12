@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bcb",
+    "beb",
+    "bib"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "e": {
+      "item": "biomesoplenty:rose_quartz_chunk"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "tag": "minecraft:buttons"
+    }
+  },
+  "result": {
+    "item": "waterframes:remote",
+    "count": 1
+  }
+}

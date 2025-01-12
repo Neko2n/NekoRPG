@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/claymore_item",
+    "textures": {
+      "layer0" : "elementus_arcane:item/arcane_steel_claymore"
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/handheld",
+      "textures": {
+        "layer0" : "elementus_arcane:item/arcane_steel_claymore_gui"
+      }
+    },
+    "ground": {
+      "parent": "minecraft:item/handheld",
+      "textures": {
+        "layer0" : "elementus_arcane:item/arcane_steel_claymore_gui"
+      }
+    },
+    "fixed": {
+      "parent": "minecraft:item/handheld",
+      "textures": {
+        "layer0" : "elementus_arcane:item/arcane_steel_claymore_gui"
+      }
+    }
+  }
+}

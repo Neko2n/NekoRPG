@@ -2,8 +2,8 @@
 instrument_pitch = 0
 #Range: 0.0 ~ 1.0
 instrument_volume = 1.0
-#Allowed Values: KEYBOARD_LAYOUT, QWERTY, NOTE_NAME, DO_RE_MI, ABC, NONE
-label_type = "ABC"
+#Allowed Values: KEYBOARD_LAYOUT, QWERTY, NOTE_NAME, DO_RE_MI, FIXED_ABC, FIXED_DO_RE_MI, NONE
+label_type = "KEYBOARD_LAYOUT"
 #Allowed Values: MONO, MIXED, STEREO
 channel_type = "MIXED"
 #Stops all background music when you or someone else within 10.0 blocks of range plays an instrument

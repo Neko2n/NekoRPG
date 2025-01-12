@@ -1,0 +1,15 @@
+{
+    "items": [
+        "cataclysm:"
+    ],
+    "durability": [
+        {
+            "value": 256,
+            "conditions": [
+                {
+                    "is_tagged": "minecraft:swords"
+                }
+            ]
+        }
+    ]
+}

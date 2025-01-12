@@ -5,5 +5,5 @@
 	crystalSlimeThornToggle = true
 	#Changes the odds that Crystalline Slime Thorns will trigger
 	#Range: 0 ~ 100
-	jawbreakerspawn = 35
+	crystalSlimeThornChance = 35
 

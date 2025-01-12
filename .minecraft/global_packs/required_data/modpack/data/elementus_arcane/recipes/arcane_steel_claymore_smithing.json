@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "irons_spellbooks:arcane_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "result": {
+    "item": "elementus_arcane:arcane_steel_claymore"
+  },
+  "template": {
+    "item": "irons_spellbooks:arcane_rune"
+  }
+}

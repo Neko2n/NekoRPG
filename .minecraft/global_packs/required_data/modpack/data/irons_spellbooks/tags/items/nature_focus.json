@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:poisonous_potato",
+    "minecraft:spore_blossom",
+    "mowziesmobs:luminous_jelly"
+  ]
+}

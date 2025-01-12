@@ -1,5 +1,5 @@
-filename = 'charmofundying-forge-6.5.0+1.20.1.jar'
-name = 'Charm of Undying'
+filename = 'charmofundying-forge-6.5.0-1.20.1.jar'
+name = 'Charm of Undying (Fabric/Forge/Quilt)'
 side = 'both'
 
 [download]

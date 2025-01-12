@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "elementus_arcane:item/arcane_hammer_handheld",
+    "textures": {
+      "6": "elementus_arcane:item/arcane_hammer_handheld"
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/handheld",
+      "textures": {
+        "layer0" : "elementus_arcane:item/arcane_hammer_gui"
+      }
+    },
+    "ground": {
+      "parent": "minecraft:item/handheld",
+      "textures": {
+        "layer0" : "elementus_arcane:item/arcane_hammer_gui"
+      }
+    },
+    "fixed": {
+      "parent": "minecraft:item/handheld",
+      "textures": {
+        "layer0" : "elementus_arcane:item/arcane_hammer_gui"
+      }
+    }
+  }
+}

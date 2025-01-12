@@ -1,13 +1,13 @@
-filename = 'snowundertrees-1.20.1-1.4.4.jar'
+filename = 'snowundertrees-1.20.1-1.4.6.jar'
 name = 'Snow Under Trees'
 side = 'both'
 
 [download]
-hash = '06bbd6b227184ee8f359d57ebe86dcc4d0fac50e'
+hash = '2b74955c12a938a142e42fce5fac17347e030e0d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5263159
+file-id = 5875645
 project-id = 353942

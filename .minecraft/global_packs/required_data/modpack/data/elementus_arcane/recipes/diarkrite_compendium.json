@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "elementus:diarkrite_ingot"
+  },
+  "base": {
+    "item": "elementus_arcane:anthektite_grimoire"
+  },
+  "result": {
+    "item": "elementus_arcane:diarkrite_compendium"
+  },
+  "template": {
+    "item": "elementus_arcane:arcane_upgrade_smithing_template"
+  }
+}

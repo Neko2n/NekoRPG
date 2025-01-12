@@ -1,0 +1,65 @@
+{
+  "theme": {
+    "button": {
+      "type": "block",
+      "block": "minecraft:polished_blackstone_button"
+    },
+    "door": {
+      "type": "block",
+      "block": "minecraft:iron_door"
+    },
+    "fence": {
+      "type": "block",
+      "block": "minecraft:deepslate_brick_fence"
+    },
+    "fence_gate": {
+      "type": "block",
+      "block": "minecraft:cave_air"
+    },
+    "material": {
+      "type": "random_block",
+      "blocks": [
+        {
+          "block": "minecraft:deepslate_bricks",
+          "weight": 200
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks",
+          "weight": 50
+        },
+        {
+          "block": "minecraft:deepslate_tiles",
+          "weight": 50
+        },
+        {
+          "block": "minecraft:cracked_deepslate_tiles",
+          "weight": 10
+        },
+        {
+          "block": "minecraft:cobbled_deepslate",
+          "weight": 50
+        }
+      ]
+    },
+    "pillar": {
+      "type": "block",
+      "block": "bbb:deepslate_column"
+    },
+    "pressure_plate": {
+      "type": "block",
+      "block": "minecraft:polished_blackstone_pressure_plate"
+    },
+    "slab": {
+      "type": "block",
+      "block": "minecraft:deepslate_brick_slab"
+    },
+    "stairs": {
+      "type": "block",
+      "block": "minecraft:deepslate_brick_stairs"
+    },
+    "trapdoor": {
+      "type": "block",
+      "block": "minecraft:iron_trapdoor"
+    }
+  }
+}

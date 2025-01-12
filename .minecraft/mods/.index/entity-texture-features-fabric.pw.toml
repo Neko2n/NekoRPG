@@ -1,13 +1,13 @@
-filename = 'entity_texture_features_forge_1.20.1-6.2.1.jar'
+filename = 'entity_texture_features_forge_1.20.1-6.2.9.jar'
 name = 'Entity Texture Features'
 side = 'both'
 
 [download]
-hash = '5c7700b01afeacc3a4e4556e713708b5340da157'
+hash = '55c8a7db3b4ddd28485c4d2bab7381a756b771c6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5662731
+file-id = 5982136
 project-id = 568563

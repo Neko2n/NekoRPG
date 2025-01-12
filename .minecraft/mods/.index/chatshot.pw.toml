@@ -1,13 +1,13 @@
-filename = 'ChatShot (1.20-1.20.4-forge)-1.0.3.jar'
+filename = 'ChatShot (1.20-1.20.4-forge)-1.0.4.jar'
 name = 'ChatShot'
 side = 'both'
 
 [download]
-hash = 'f8268399af9fec40c8d7d48d7117f48def7fee29'
+hash = '2b9aa6b5d5f465fae544c994d12a87fb707a462b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5562130
+file-id = 5792026
 project-id = 908966

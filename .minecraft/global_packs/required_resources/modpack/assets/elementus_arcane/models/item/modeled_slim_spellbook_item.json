@@ -1,0 +1,75 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"layer0": "arcanists_equipage:item/anthektite_grimoire_item"
+	},
+
+	"elements": [
+		{
+			"name": "BookCover",
+			"from": [6, 0, 1],
+			"to": [10, 10, 9],
+			"faces": {
+				"north": {"uv": [4, 0, 6, 5], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 5], "texture": "#0"},
+				"south": {"uv": [10, 0, 12, 5], "texture": "#0"},
+				"west": {"uv": [6, 0, 10, 5], "texture": "#0"},
+				"up": {"uv": [12, 4, 14, 0], "texture": "#0"},
+				"down": {"uv": [14, 0, 16, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Pages",
+			"from": [7, 0, 2],
+			"to": [9, 10, 8],
+			"faces": {
+				"north": {"uv": [2.5, 5, 3.5, 10], "texture": "#0"},
+				"east": {"uv": [0, 5, 2.5, 10], "texture": "#0"},
+				"south": {"uv": [6, 5, 7, 10], "texture": "#0"},
+				"west": {"uv": [3.5, 5, 6, 10], "texture": "#0"},
+				"up": {"uv": [7, 8.5, 8, 5], "texture": "#0"},
+				"down": {"uv": [8, 5, 9, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "InnerBook",
+			"from": [9, 0, 1],
+			"to": [7, 10, 8],
+			"faces": {
+				"east": {"uv": [9.5, 0, 6, 5], "texture": "#0"},
+				"south": {"uv": [7, 5, 8, 10], "texture": "#0"},
+				"west": {"uv": [4, 0, 0.5, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0.75, 1],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0.75, 1],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [12, 70, -20],
+			"translation": [2.5, 1.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [12, 70, -20],
+			"translation": [2.5, 1.75, 0]
+		},
+		"ground": {
+			"translation": [0, 4.5, 2.25]
+		},
+		"gui": {
+			"rotation": [48, -135, 85],
+			"translation": [0, 3.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [3.25, 2.5, -0.75]
+		}
+	}
+}

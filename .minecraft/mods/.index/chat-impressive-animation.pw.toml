@@ -1,13 +1,13 @@
-filename = 'ChatImpressiveAnimation-forge-1.0+mc1.20.x.jar'
+filename = 'ChatImpressiveAnimation-forge-1.2.1+mc1.20.4.jar'
 name = 'Chat Impressive Animation'
 side = 'both'
 
 [download]
-hash = 'ce6ba984e02278d7a196f17780f4f3bb341aaeda'
+hash = '94a0781d531e073ec4ac9b591ebb3ff8d8679e33'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5122855
+file-id = 5973750
 project-id = 972468

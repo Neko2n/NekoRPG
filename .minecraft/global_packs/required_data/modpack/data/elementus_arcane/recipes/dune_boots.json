@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "1": {
+      "item": "minecraft:yellow_wool"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "minecraft:leather_boots"
+    },
+    "4": {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  },
+  "pattern": [
+    "1 1",
+    "232",
+    "4 4"
+  ],
+  "result": {
+    "item": "elementus_arcane:dune_boots"
+  },
+  "show_notification": true
+}

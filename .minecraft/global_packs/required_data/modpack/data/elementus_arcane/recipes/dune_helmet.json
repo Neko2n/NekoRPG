@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "1": {
+      "item": "minecraft:yellow_wool"
+    },
+    "2": {
+      "item": "minecraft:leather_helmet"
+    },
+    "3": {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    "4": {
+      "item": "minecraft:green_wool"
+    }
+  },
+  "pattern": [
+    " 1 ",
+    "121",
+    "343"
+  ],
+  "result": {
+    "item": "elementus_arcane:dune_helmet"
+  },
+  "show_notification": true
+}

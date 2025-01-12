@@ -1,13 +1,13 @@
-filename = 'watermedia-2.0.70.jar'
+filename = 'watermedia-2.1.12.jar'
 name = 'WaterMedia'
 side = 'both'
 
 [download]
-hash = '1015942a894abd8c331d57457c869881653b5f47'
+hash = 'bf827eb25d0d6a5609be1d8d1dbb8fa3edc482e6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5619771
+file-id = 6054962
 project-id = 869524

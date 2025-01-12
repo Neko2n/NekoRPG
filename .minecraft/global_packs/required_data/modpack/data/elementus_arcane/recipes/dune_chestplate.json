@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:yellow_wool"
+    },
+    "3": {
+      "item": "minecraft:green_wool"
+    },
+    "4": {
+      "item": "minecraft:leather_chestplate"
+    },
+    "5": {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  },
+  "pattern": [
+    "121",
+    "343",
+    "525"
+  ],
+  "result": {
+    "item": "elementus_arcane:dune_chestplate"
+  },
+  "show_notification": true
+}

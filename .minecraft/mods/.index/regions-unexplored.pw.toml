@@ -1,5 +1,5 @@
-filename = 'RegionsUnexploredForge-0.5.6+1.20.1.jar'
-name = 'Regions Unexplored'
+filename = 'RegionsUnexploredForge-0.5.6-1.20.1.jar'
+name = 'Regions Unexplored (forge/fabric)'
 side = 'both'
 
 [download]

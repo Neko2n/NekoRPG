@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "BCB",
+        "L_L"
+    ],
+    "key": {
+        "W": {
+            "tag": "minecraft:wool"
+        },
+        "C": {
+            "item": "minecraft:campfire"
+        },
+        "B": {
+            "item": "etcetera:bismuth_ingot"
+        },
+        "L": {
+            "item": "minecraft:lead"
+        },
+        "_": {
+            "item": "farmersdelight:basket"
+        }
+    },
+    "result": {
+        "item": "breezy:hot_air_balloon",
+        "count": 1
+    }
+}

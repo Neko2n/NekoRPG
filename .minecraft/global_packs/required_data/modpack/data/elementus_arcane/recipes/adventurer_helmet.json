@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "2": {
+      "item": "minecraft:glass"
+    },
+    "3": {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    "4": {
+      "item": "minecraft:leather_helmet"
+    }
+  },
+  "pattern": [
+    " 1 ",
+    "121",
+    "343"
+  ],
+  "result": {
+    "item": "elementus_arcane:adventurer_helmet"
+  },
+  "show_notification": true
+}

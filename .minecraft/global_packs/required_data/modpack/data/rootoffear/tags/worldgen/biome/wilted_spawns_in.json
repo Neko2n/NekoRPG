@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"regions_unexplored:infernal_holt",
+		"minecraft:nether_wastes"
+	]
+}

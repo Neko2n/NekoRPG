@@ -1,0 +1,141 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "BigBookModelTemplate",
+		"particle": "BigBookModelTemplate"
+	},
+	"elements": [
+		{
+			"from": [8.1, 4, 0.9],
+			"to": [10.1, 6, 2.9],
+			"faces": {
+				"north": {"uv": [0, 10, 1, 11], "texture": "#0"},
+				"east": {"uv": [1, 10, 2, 11], "texture": "#0"},
+				"south": {"uv": [2, 10, 3, 11], "texture": "#0"},
+				"west": {"uv": [3, 10, 4, 11], "texture": "#0"},
+				"up": {"uv": [0, 11, 1, 12], "texture": "#0"},
+				"down": {"uv": [1, 11, 2, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.005, 4.005, 0.99],
+			"to": [9.995, 5.995, 3],
+			"faces": {
+				"north": {"uv": [0, 12, 2.495, 12.995], "texture": "#0"},
+				"east": {"uv": [2.5, 12, 3.505, 12.995], "texture": "#0"},
+				"south": {"uv": [3.5, 12, 5.995, 12.995], "texture": "#0"},
+				"west": {"uv": [6, 12, 7.005, 12.995], "texture": "#0"},
+				"up": {"uv": [0, 13, 2.495, 14.005], "texture": "#0"},
+				"down": {"uv": [2.5, 13, 4.995, 14.005], "texture": "#0"}
+			}
+		},
+		{
+			"name": "OuterCover",
+			"from": [5, 0, 1],
+			"to": [10, 10, 9],
+			"faces": {
+				"north": {"uv": [2.5, 5, 5, 10], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 5], "texture": "#0"},
+				"south": {"uv": [0, 5, 2.5, 10], "texture": "#0"},
+				"west": {"uv": [4, 0, 8, 5], "texture": "#0"},
+				"up": {"uv": [5, 9, 7.5, 5], "texture": "#0"},
+				"down": {"uv": [7.5, 5, 10, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "InnerCover",
+			"from": [9, 0, 1],
+			"to": [6, 10, 8],
+			"faces": {
+				"east": {"uv": [7, 0, 4, 5], "texture": "#0"},
+				"west": {"uv": [4, 0, 1, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Pages",
+			"from": [6, 0, 2],
+			"to": [9, 10, 8],
+			"faces": {
+				"north": {"uv": [10, 5, 11.5, 10], "texture": "#0"},
+				"up": {"uv": [11.5, 8, 13, 5], "texture": "#0"},
+				"down": {"uv": [13, 5, 14.5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Trim",
+			"from": [4.91, -0.09, 0.91],
+			"to": [10.09, 10.09, 9.09],
+			"faces": {
+				"east": {"uv": [8, 0, 12, 5], "texture": "#0"},
+				"west": {"uv": [12, 0, 16, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "MetalBacking",
+			"from": [4.91, -0.09, 7.91],
+			"to": [10.09, 10.09, 9.09],
+			"faces": {
+				"north": {"uv": [7.5, 10, 10, 15], "texture": "#0"},
+				"east": {"uv": [7, 10, 7.5, 15], "texture": "#0"},
+				"south": {"uv": [10.5, 10, 13, 15], "texture": "#0"},
+				"west": {"uv": [10, 10, 10.5, 15], "texture": "#0"},
+				"up": {"uv": [13, 10.5, 15.5, 10], "texture": "#0"},
+				"down": {"uv": [13, 10.5, 15.5, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0.75, 1.75],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0.75, 1.75],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [12, 70, -20],
+			"translation": [2.5, 1.75, -1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [12, 70, -20],
+			"translation": [2.5, 1.75, -1.5]
+		},
+		"ground": {
+			"translation": [0, 4.5, 2.25]
+		},
+		"gui": {
+			"rotation": [48, -135, 85],
+			"translation": [0, 3.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [3.25, 2.5, -1.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "Clasp",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1]
+		},
+		{
+			"name": "BookCover",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"nbt": "{}",
+			"children": [2, 3]
+		},
+		4,
+		{
+			"name": "Designs",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"nbt": "{}",
+			"children": [5, 6]
+		}
+	]
+}

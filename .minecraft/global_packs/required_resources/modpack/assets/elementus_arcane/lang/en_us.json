@@ -1,0 +1,30 @@
+{
+  "item.elementus_arcane.divine_ingot": "Divine Ingot",
+
+
+  "item.elementus_arcane.arcane_claymore": "Arcanium Claymore",
+  "item.elementus_arcane.arcane_steel_claymore": "Arcane Greatsword",
+  "item.elementus_arcane.arcane_hammer": "Arcane Greathammer",
+  "item.elementus_arcane.quill": "Arcane Quill",
+
+
+  "item.elementus_arcane.paladin_helmet": "Paladin Helmet",
+  "item.elementus_arcane.paladin_chestplate": "Paladin Chestplate",
+  "item.elementus_arcane.paladin_leggings": "Paladin Leggings",
+  "item.elementus_arcane.paladin_boots": "Paladin Boots",
+
+  "item.elementus_arcane.dune_helmet": "Dune Hood",
+  "item.elementus_arcane.dune_chestplate": "Dune Chestplate",
+  "item.elementus_arcane.dune_leggings": "Dune Pants",
+  "item.elementus_arcane.dune_boots": "Dune Boots",
+
+  "item.elementus_arcane.shade_helmet": "Shade Hood",
+  "item.elementus_arcane.shade_chestplate": "Shade Chestplate",
+  "item.elementus_arcane.shade_leggings": "Shade Pants",
+  "item.elementus_arcane.shade_boots": "Shade Boots",
+
+  "item.elementus_arcane.adventurer_helmet": "Adventurer Hat",
+  "item.elementus_arcane.adventurer_chestplate": "Adventurer Chestplate",
+  "item.elementus_arcane.adventurer_leggings": "Adventurer Pants",
+  "item.elementus_arcane.adventurer_boots": "Adventurer Boots"
+}
