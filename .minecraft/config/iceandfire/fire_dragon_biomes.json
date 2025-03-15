@@ -1,3 +1,31 @@
 {
-  "biomes": []
+  "biomes": [
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "minecraft:is_nether"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "minecraft:soul_sand_valley"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "regions_unexplored:blackstone_basin"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "biomesoplenty:visceral_heap"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "biomesoplenty:crystalline_chasm"
+      }
+    ]
+  ]
 }

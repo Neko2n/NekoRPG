@@ -12,11 +12,11 @@
                     }
                 ],
                 "name": "irons_spellbooks:furled_map",
-                "weight": 5
+                "weight": 10
             },
             {
                 "type": "empty",
-                "weight": 95
+                "weight": 90
             }
       ]
   }]

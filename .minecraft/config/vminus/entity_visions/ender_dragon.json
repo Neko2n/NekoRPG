@@ -1,0 +1,11 @@
+{
+    "entities": [
+        "minecraft:ender_dragon"
+    ],
+    "base_attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "value": 500
+        }
+    ]
+}

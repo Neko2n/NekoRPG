@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "bosses_of_mass_destruction:void_thorn"
+      "item": "legendary_monsters:chorus_crystal"
     },
     {
       "tag": "forge:ender_pearls"

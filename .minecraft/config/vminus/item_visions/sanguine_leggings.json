@@ -1,0 +1,15 @@
+{
+    "items": [
+        "caverns_and_chasms:sanguine_leggings"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:blood_spell_power",
+            "operation": "multiply_base",
+            "value": 0.08,
+            "slot": "legs",
+            "uuid": "8a2438a0-6aa4-14aa-a32d-725346c35b56",
+            "replace": true
+        }
+    ]
+}

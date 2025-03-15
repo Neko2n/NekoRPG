@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:adv_icon_9"
+    },
+    "title": {
+      "translate": "advancements.oh_so_inky.title"
+    },
+    "description": {
+      "translate": "advancements.oh_so_inky.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oh_so_inky_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "occult:demonsn_cults"
+}

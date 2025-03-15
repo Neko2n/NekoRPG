@@ -1,0 +1,26 @@
+{
+  "replace": true,
+  "values": [
+    "#sereneseasons:evergreen_saplings",
+    "#forge:mushrooms",
+    "minecraft:sweet_berry_bush",
+    "minecraft:cave_vines",
+    "minecraft:cave_vines_plant",
+    "regions_unexplored:duskmelon",
+    "neapolitan:mint",
+    "farmersdelight:cabbages",
+    "minecraft:torchflower",
+    "minecraft:torchflower_crop",
+    "netherexp:soul_torchflower",
+    "netherexp:soul_torchflower_crop",
+    "minecraft:pitcher_crop",
+    "minecraft:pitcher_plant",
+    "minecraft:warped_fungus",
+    "minecraft:crimson_fungus",
+    "minecraft:nether_wart",
+    "netherexp:cerebrage_skull",
+    "mynethersdelight:powdery_cane",
+    "mynethersdelight:powdery_cannon",
+    "mynethersdelight:powdery_chubby_sapling"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "stony_peaks",
+    "stony_shore"
+  ],
+  "features": "luminous_beasts:phoenix_nest_rare",
+  "step": "surface_structures"
+}

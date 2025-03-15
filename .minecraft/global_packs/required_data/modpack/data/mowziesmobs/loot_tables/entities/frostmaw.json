@@ -1,6 +1,22 @@
 {
   "pools": [
     {
+      "name": "ender_essence",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "name": "waystones:warp_dust",
+          "weight": 1
+        }
+      ]
+    },
+    {
       "name": "frostmaw_has_crystal",
       "rolls": 1,
       "conditions": [
@@ -14,32 +30,7 @@
       "entries": [
         {
           "type": "item",
-          "name": "mowziesmobs:ice_crystal",
-          "weight": 1
-        }
-      ]
-    },
-    {
-      "name": "frostmaw_arctic_fur",
-      "rolls": 1,
-      "conditions": [
-        {
-          "condition": "killed_by_player"
-        }
-      ],
-      "entries": [
-        {
-          "type": "item",
-          "name": "twilightforest:arctic_fur",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 6,
-                "max": 12
-              }
-            }
-          ],
+          "name": "irons_spellbooks:permafrost_shard",
           "weight": 1
         }
       ]

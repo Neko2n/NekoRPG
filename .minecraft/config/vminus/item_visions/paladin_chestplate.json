@@ -1,0 +1,17 @@
+{
+    "items": [
+        "elementus_arcane:paladin_chestplate"
+    ],
+    "attributes": [
+        {
+            "id": "minecraft:generic.armor",
+            "name": "Armor",
+            "value": 6,
+            "slot": "chest",
+            "uuid": "2a1348a0-6aa4-11ef-a42d-325146b95f99",
+            "replace": true
+        }
+    ],
+    "repair_item": "minecraft:iron_ingot",
+    "rarity": "uncommon"
+}

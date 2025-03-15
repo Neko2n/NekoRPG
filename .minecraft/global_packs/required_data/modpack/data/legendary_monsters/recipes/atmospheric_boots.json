@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+    "i i"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "D": {
+      "item": "legendary_monsters:air_rune"
+    },
+    "i": {
+      "item": "galosphere:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:atmospheric_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iI ",
+    "i/i",
+    " / "
+  ],
+  "key": {
+    "i": {
+      "item": "galosphere:silver_ingot"
+    },
+    "I": {
+      "item": "irons_spellbooks:energized_core"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:axe_of_lightning",
+    "count": 1
+  }
+}

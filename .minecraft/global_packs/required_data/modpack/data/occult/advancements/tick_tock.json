@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:adv_icon_4"
+    },
+    "title": {
+      "translate": "advancements.tick_tock.title"
+    },
+    "description": {
+      "translate": "advancements.tick_tock.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tick_tock_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "occult:demonsn_cults"
+}

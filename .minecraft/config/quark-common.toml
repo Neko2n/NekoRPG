@@ -51,18 +51,18 @@
 	oddities = true
 
 [automation]
-	"Pistons Move Tile Entities" = true
-	"Ender Watcher" = false
+	"Pistons Move Tile Entities" = false
+	"Ender Watcher" = true
 	"Redstone Randomizer" = true
 	"Feeding Trough" = false
 	"Metal Buttons" = true
-	"Iron Rod" = false
+	"Iron Rod" = true
 	"Obsidian Plate" = true
 	"Chains Connect Blocks" = true
 	Gravisand = false
 	"Dispensers Place Blocks" = true
-	Chute = false
-	Crafter = false
+	Chute = true
+	Crafter = true
 
 	[automation.pistons_move_tile_entities]
 		"Enable Chests Moving Together" = true
@@ -88,7 +88,7 @@
 		"Enable Gold" = true
 
 	[automation.iron_rod]
-		"Use Pre End Recipe" = false
+		"Use Pre End Recipe" = true
 
 	[automation.dispensers_place_blocks]
 		Blacklist = ["minecraft:water", "minecraft:lava", "minecraft:fire"]
@@ -108,9 +108,9 @@
 		"Allow Items While Powered" = true
 
 [building]
-	"Variant Ladders" = true
+	"Variant Ladders" = false
 	"Variant Bookshelves" = true
-	"Compressed Blocks" = true
+	"Compressed Blocks" = false
 	"More Potted Plants" = true
 	"Duskbound Blocks" = true
 	"Wooden Posts" = true
@@ -121,19 +121,19 @@
 	"Gold Bars" = true
 	Rope = false
 	"Celebratory Lamps" = true
-	"Soul Sandstone" = true
+	"Soul Sandstone" = false
 	"Variant Chests" = true
 	"Leaf Carpet" = true
 	"Framed Glass" = true
 	"Vertical Planks" = true
 	"Variant Furnaces" = true
 	Hedges = true
-	"Hollow Logs" = false
+	"Hollow Logs" = true
 	Midori = true
 	"Rainbow Lamps" = true
-	"Vertical Slabs" = false
-	Shingles = false
-	"Sturdy Stone" = true
+	"Vertical Slabs" = true
+	Shingles = true
+	"Sturdy Stone" = false
 	Stools = false
 	"Raw Metal Bricks" = true
 	"More Mud Blocks" = true
@@ -145,8 +145,8 @@
 
 	[building.variant_ladders]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -154,8 +154,8 @@
 
 	[building.variant_bookshelves]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -191,8 +191,8 @@
 
 	[building.thatch]
 		#This feature disables itself if any of the following mods are loaded:
-		# - environmental
 		# - goated
+		# - environmental
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -234,8 +234,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - immersive_weathering
 		# - woodworks
+		# - immersive_weathering
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -375,7 +375,7 @@
 		# - <color> being a hex color (without the #) for the map to display. You can generate one here - https://htmlcolorcodes.com/
 		#Here's an example of a map to locate Ice Mountains:
 		#minecraft:ice_mountains,2,8,14,7FE4FF
-		Customs = ["minecraft:cherry_grove,2,8,16,FFA0F8", "minecraft:savanna,1,6,12,A3863A", "minecraft:badlands,1,6,12,6D3A00", "minecraft:jungle,1,6,12,3F7600", "minecraft:dark_forest,1,6,12,006C0C", "minecraft:swamp,1,6,12,1D5614", "minecraft:desert,1,6,12,FFE98D", "alexscaves:abyssal_chasm,3,12,24,1B248E", "alexscaves:forlorn_hollows,3,12,24,34241F", "alexscaves:primordial_caves,3,12,24,5D8C00", "alexscaves:magnetic_caves,3,12,24,1400FF", "alexscaves:toxic_caves,3,12,24,6EFF00", "minecraft:lush_caves,1,8,16,3B522E", "biomesoplenty:origin_valley,3,12,24,5EFF00", "biomesoplenty:mystic_grove,2,12,24,00BFFF", "minecraft:mushroom_fields,3,8,16,6E5858", "environmental:blossom_valleys,1,8,16,E68CE4", "minecraft:ice_spikes,1,6,12,7FE4FF"]
+		Customs = ["minecraft:cherry_grove,2,8,16,FFA0F8", "minecraft:savanna,1,6,12,A3863A", "minecraft:badlands,1,6,12,6D3A00", "minecraft:jungle,1,6,12,3F7600", "minecraft:dark_forest,1,6,12,006C0C", "minecraft:swamp,1,6,12,1D5614", "minecraft:desert,1,6,12,FFE98D", "alexscaves:abyssal_chasm,3,12,24,1B248E", "alexscaves:forlorn_hollows,3,12,24,34241F", "alexscaves:primordial_caves,3,12,24,5D8C00", "alexscaves:magnetic_caves,3,12,24,1400FF", "alexscaves:toxic_caves,3,12,24,6EFF00", "alexscaves:candy_cavity,3,12,24,EFA0F8", "minecraft:lush_caves,1,8,16,3B522E", "biomesoplenty:origin_valley,3,12,24,5EFF00", "biomesoplenty:mystic_grove,2,12,24,00BFFF", "minecraft:mushroom_fields,3,8,16,6E5858", "environmental:blossom_valleys,1,8,16,E68CE4", "minecraft:ice_spikes,1,6,12,7FE4FF"]
 		#Set to false to make it so the default quark Pathfinder Map Built-In don't get added, and only the custom ones do
 		"Apply Default Trades" = false
 		#How many steps in the search should the Pathfinder's Quill do per tick? The higher this value, the faster it'll find a result, but the higher chance it'll lag the game while doing so
@@ -1348,7 +1348,7 @@
 
 [mobs]
 	Foxhound = true
-	Wraith = true
+	Wraith = false
 	Crabs = false
 	Forgotten = true
 	Shiba = true
@@ -1358,7 +1358,7 @@
 	[mobs.foxhound]
 		#The chance coal will tame a foxhound
 		"Tame Chance" = 0.05
-		"Foxhounds Speed Up Furnaces" = true
+		"Foxhounds Speed Up Furnaces" = false
 
 		[mobs.foxhound.spawn_config]
 			#Allowed values: (0,)

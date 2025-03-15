@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "legendary_monsters:soul_fortress_remains",
+    "legendary_monsters:lava_eater_spawn",
+    "minecraft:nether_complexes"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "items": [
+        "elementus_arcane:paladin_leggings"
+    ],
+    "attributes": [
+        {
+            "id": "minecraft:generic.armor",
+            "name": "Armor",
+            "value": 5,
+            "slot": "legs",
+            "uuid": "8a2438a0-6aa4-14aa-a32d-725346c35b56",
+            "replace": true
+        }
+    ],
+    "repair_item": "minecraft:iron_ingot",
+    "rarity": "uncommon"
+}

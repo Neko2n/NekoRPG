@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ecologics:azalea_flower"
+    },
+    {
+      "item": "minecraft:azalea_leaves"
+    }
+  ],
+  "result": {
+    "item": "minecraft:flowering_azalea_leaves"
+  }
+}

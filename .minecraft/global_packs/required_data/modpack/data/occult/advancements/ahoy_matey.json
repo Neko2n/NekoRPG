@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:flag"
+    },
+    "title": {
+      "translate": "advancements.ahoy_matey.title"
+    },
+    "description": {
+      "translate": "advancements.ahoy_matey.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ahoy_matey_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "occult:demonsn_cults"
+}

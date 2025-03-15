@@ -13,13 +13,29 @@ class bcolors:
 
 root = input("\nSearch dir: " + bcolors.OKBLUE)
 print(bcolors.ENDC)
-if not root.startswith("."):
-    root = "." + root
+root.replace("\\", "/")
+if not root.startswith("./"):
+    if root.startswith("."):
+        root = root[0] + "/" + root[1:]
+    else:
+        root = "." + root
 
 mod_id = input("Removed mod id: " + bcolors.OKBLUE)
 print(bcolors.ENDC)
 if len(mod_id) == 0:
     raise Exception("Invalid mod id: length must be greater than zero")
+
+filter = input("Filter entries: " + bcolors.OKBLUE)
+print(bcolors.ENDC)
+if filter.find(":") != -1 or filter.find(".") != -1 or filter.find("\"") != -1 or filter.find("'") != -1 or filter.find("`") != -1:
+    raise Exception("Invalid filter: cannot contain characters \":.'`")
+
+strict = False
+if len(filter) > 0:
+    strict = input("Strict filtering?\n(true/false): " + bcolors.OKBLUE).lower()
+    print(bcolors.ENDC)
+    if strict != "true" and strict != "false":
+        raise Exception("Invalid argument: must be either \"true\" or \"false\"")
 
 ask_confirm = input("Ask for confirmations?\n(true/false): " + bcolors.OKBLUE).lower()
 print(bcolors.ENDC)
@@ -32,17 +48,24 @@ replace_entries: dict[str, str] = {}
 replaced_count = 0
 file_count = 0
 
+def hasFilter(sub: str):
+    if len(filter) == 0:
+        return True
+    if strict == "true":
+        return sub.lower() == filter.lower()
+    return sub.find(filter) != -1
+
 if os.path.exists("./entries_save.txt"):
-    ask_confirm = input("Load existing data from entries_save.txt?\n(true/false): " + bcolors.OKBLUE).lower()
+    load_existing = input("Load existing data from entries_save.txt?\n(true/false): " + bcolors.OKBLUE).lower()
     print(bcolors.ENDC)
-    if ask_confirm != "true" and ask_confirm != "false":
+    if load_existing != "true" and load_existing != "false":
         raise Exception("Invalid argument: must be either \"true\" or \"false\"")
-    if ask_confirm == "true":
+    if load_existing == "true":
         entries_file = open("./entries_save.txt", "r+")
         line = entries_file.readline()
         while len(line) > 0:
             split = line.split()
-            if split[0].split(":")[0] == mod_id:
+            if split[0].split(":")[0] == mod_id and hasFilter(split[0].split(":")[1]):
                 print(bcolors.OKCYAN + "LOADED ENTRY [" + split[0] + " -> " + split[1] + "]" + bcolors.ENDC)
                 replace_entries[split[0]] = split[1]
             line = entries_file.readline()
@@ -83,7 +106,7 @@ for file in json:
         end = as_str.find("\"", start)
         if found_id == mod_id:
             item = as_str[start:end]
-            if not item in replace_entries:
+            if (not item in replace_entries) and hasFilter(item):
                 undefined[item] = ""
         start = end
     
@@ -113,6 +136,8 @@ for file in json:
             if len(skip) > 0:
                 print(bcolors.OKGREEN + "> " + bcolors.ENDC + "Skipping...")
                 continue
+        else:
+            print(bcolors.OKGREEN + "> " + bcolors.ENDC + "ask_confirm = " + ask_confirm)
         replaced_count += as_str.count(i)
         as_str = as_str.replace(i, v)
         print(bcolors.OKGREEN + "\n> " + bcolors.ENDC + "Replaced all occurrences of " + bcolors.OKBLUE + i + bcolors.ENDC + " in file " + bcolors.OKCYAN + file + bcolors.ENDC + " with " + bcolors.OKBLUE + v + bcolors.ENDC)

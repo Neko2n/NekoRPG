@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [],
+  "spawners": {
+    "type": "legendary_monsters:bomber",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

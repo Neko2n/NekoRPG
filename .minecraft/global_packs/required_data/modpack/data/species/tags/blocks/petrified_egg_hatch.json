@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "#species:petrified_egg_hatch_boost",
+    "minecraft:lava",
+    "minecraft:magma_block",
+    "minecraft:fire",
+    "minecraft:campfire",
+    "caverns_and_chasms:brazier",
+    "caverns_and_chasms:cupric_brazier",
+    "caverns_and_chasms:cupric_campfire",
+    "caverns_and_chasms:cupric_fire",
+    "alexscaves:primal_magma",
+    "absentbydesign:slab_magma",
+    "absentbydesign:stairs_magma",
+    "absentbydesign:wall_magma",
+    "regions_unexplored:brimwood_log_magma",
+    "cataclysm:altar_of_fire",
+    "piglinproliferation:blackstone_fire_ring",
+    "piglinproliferation:endstone_fire_ring",
+    "piglinproliferation:netherrack_fire_ring",
+    "piglinproliferation:deepslate_fire_ring",
+    "piglinproliferation:stone_fire_ring"
+  ]
+}

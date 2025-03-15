@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " i ",
+    "i  "
+  ],
+  "key": {
+    "#": {
+      "item": "legendary_monsters:air_rune"
+    },
+    "i": {
+      "item": "galosphere:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:wand_of_clouds",
+    "count": 1
+  }
+}

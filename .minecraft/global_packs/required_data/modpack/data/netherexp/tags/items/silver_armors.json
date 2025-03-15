@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    "caverns_and_chasms:silver_helmet",
+    "caverns_and_chasms:silver_chestplate",
+    "caverns_and_chasms:silver_leggings",
+    "caverns_and_chasms:silver_boots",
+    "galosphere:sterling_helmet",
+    "galosphere:sterling_chestplate",
+    "galosphere:sterling_leggings",
+    "galosphere:sterling_boots",
+    "elementus_arcane:paladin_helmet",
+    "elementus_arcane:paladin_chestplate",
+    "elementus_arcane:paladin_leggings",
+    "elementus_arcane:paladin_boots",
+    "irons_spellbooks:priest_helmet",
+    "irons_spellbooks:priest_chestplate",
+    "irons_spellbooks:priest_leggings",
+    "irons_spellbooks:priest_boots",
+    {
+      "id": "caverns_and_chasms:necromium_helmet",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:necromium_chestplate",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:necromium_leggings",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:necromium_boots",
+      "required": false
+    }
+  ]
+}

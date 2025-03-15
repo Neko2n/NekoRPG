@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:basalt_deltas"
+  ],
+  "spawners": {
+    "type": "luminous_beasts:rare_executioner",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    "minecraft:bedrock",
+    "minecraft:water",
+    "minecraft:lava",
+    "alexscaves:acid",
+    "biomesoplenty:liquid_null",
+    "biomesoplenty:blood",
+    "netherexp:ectoplasm",
+    "outer_end:ominous_miasma",
+    "outer_end:brine",
+    "alexscaves:purple_soda",
+    "sullysmod:molten_amber",
+    "supplementaries:lumisene"
+  ]
+}

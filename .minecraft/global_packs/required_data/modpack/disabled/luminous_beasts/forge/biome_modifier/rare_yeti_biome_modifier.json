@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "minecraft:is_savanna"
+  },
+  "spawners": {
+    "type": "luminous_beasts:rare_yeti",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

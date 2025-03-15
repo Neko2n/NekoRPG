@@ -2,22 +2,22 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "1": {
-      "item": "irons_spellbooks:arcane_ingot"
+      "item": "irons_spellbooks:arcane_salvage"
     },
     "2": {
-      "item": "minecraft:iron_ingot"
+      "item": "elementus_arcane:arcane_steel_claymore"
     },
     "3": {
       "item": "irons_spellbooks:arcane_rune"
     },
     "4": {
-      "item": "minecraft:stick"
+      "item": "irons_spellbooks:weapon_parts"
     }
   },
   "pattern": [
-    " 1 ",
-    "232",
-    "242"
+    "  1",
+    "32 ",
+    "43 "
   ],
   "result": {
     "item": "elementus_arcane:arcane_claymore"

@@ -1,0 +1,14 @@
+{
+	"replace": true,
+	"values": [
+		"#forge:is_desert",
+		"#forge:is_lush",
+		"#forge:is_hot",
+		"#minecraft:is_badlands",
+		"#minecraft:is_savanna",
+		"minecraft:mangrove_swamp",
+		"#minecraft:is_jungle",
+		"#forge:is_mushroom",
+		"minecraft:warm_ocean"
+	]
+}

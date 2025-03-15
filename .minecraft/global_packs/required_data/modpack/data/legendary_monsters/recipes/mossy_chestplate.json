@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#N#",
+    "iEi",
+    "iIi"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:moss_block"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "E": {
+      "item": "legendary_monsters:nature_crystal"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "N": {
+      "item": "irons_spellbooks:nature_rune"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:mossy_chestplate",
+    "count": 1
+  }
+}

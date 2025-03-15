@@ -1,0 +1,18 @@
+{
+  "pools": [
+    {
+      "name": "rune",
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:infected_chorus_fruit"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chorus_fruit"
+        }
+      ]
+    }
+  ]
+}

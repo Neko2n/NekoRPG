@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "elementus_arcane:arcane_claymore",
+    "elementus_arcane:arcane_steel_claymore",
+    "elementus_arcane:arcane_hammer"
+  ]
+}

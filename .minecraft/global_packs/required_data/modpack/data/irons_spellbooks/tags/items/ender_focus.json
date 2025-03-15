@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "#forge:ender_pearls"
+    "#forge:ender_pearls",
+    "waystones:warp_dust",
+    "minecraft:ender_eye"
   ]
 }

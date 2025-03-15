@@ -3,7 +3,7 @@
 
 	[Generation.Dragon]
 		#Whether to generate dragon skeletons or not
-		"Generate Dragon Skeletons" = true
+		"Generate Dragon Skeletons" = false
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
 		"Generate Dragon Skeleton Chance" = 300
@@ -33,7 +33,7 @@
 		#Range: 1 ~ 10000
 		"Glacier Spawn Weight" = 4
 		#True if mausoleums are allowed to generate
-		"Generate Mausoleums" = true
+		"Generate Mausoleums" = false
 		#Whether to generate graveyards or not
 		"Generate Graveyards" = true
 		#True if gorgon temples are allowed to spawn
@@ -85,14 +85,14 @@
 	[Dragons.Behaviour]
 		#How high dragons can fly, in Y height.
 		#Range: > 100
-		"Max Dragon Flight Height" = 256
+		"Max Dragon Flight Height" = 200
 		#How far away dragons will detect gold blocks being destroyed or chests being opened
 		#Range: 0 ~ 10000
 		"Dragon Gold Search Length" = 30
 		#Whether the bite attack from a dragon heals them or not.
 		"Dragon Bite Heal" = true
 		#True if dragons can despawn. Note that if this is false there may be SERIOUS lag issues.
-		"Dragons Despawn" = true
+		"Dragons Despawn" = false
 		#True if tamed dragons go to sleep at night.
 		"Tamed Dragons Sleep" = true
 		#True if dragons can break blocks if they get stuck. Turn this off if your dragons randomly explode.
@@ -100,7 +100,7 @@
 		#True if dragons can drop their skull on death.
 		"Dragons Drop Skull" = true
 		#True if dragons can drop their heart on death.
-		"Dragons Drop Heart" = true
+		"Dragons Drop Heart" = false
 		#True if dragons can drop their blood on death.
 		"Dragons Drop Blood" = true
 		#True if dragons fire/ice charges create secondary explosions that launch blocks everywhere. Turn this to true if you like unfair explosions. Or lag.
@@ -268,7 +268,7 @@
 
 	[Mobs.Amphitheres]
 		#True if amphitheres are allowed to spawn
-		"Spawn Amphitheres" = true
+		"Spawn Amphitheres" = false
 		#Amphithere spawn weight. Lower = lower chance to spawn
 		#Range: 1 ~ 10000
 		"Amphithere Spawn Weight" = 50
@@ -291,7 +291,7 @@
 	[Mobs.SeaSerpents]
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Sea Serpent Chance" = 250
+		"Spawn Sea Serpent Chance" = 400
 		#Whether or not sea serpents can break weak blocks in their way
 		"Sea Serpent Griefing" = true
 		#Default sea serpent health, this is scaled to the sea serpent's particular size

@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "nether_wastes",
+    "dark_forest",
+    "deep_dark"
+  ],
+  "spawners": {
+    "type": "occult:occultore",
+    "weight": 4,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

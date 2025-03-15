@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "elementus_arcane:arcane_claymore",
+    "elementus_arcane:arcane_steel_claymore",
+    "elementus_arcane:arcane_hammer",
+    "cataclysm:black_steel_pickaxe",
+    "cataclysm:black_steel_axe",
+    "cataclysm:black_steel_shovel",
+    "cataclysm:black_steel_hoe",
+    "cataclysm:black_steel_sword",
+    "blazegear:brimsteel_pickaxe",
+    "blazegear:brimsteel_axe",
+    "blazegear:brimsteel_shovel",
+    "blazegear:brimsteel_hoe",
+    "blazegear:brimsteel_sword",
+    "#miningmaster:catalysts",
+    "miningmaster:ultima_axe",
+    "miningmaster:ultima_pickaxe",
+    "legendary_monsters:chorus_blade",
+    "legendary_monsters:dinosaur_bone_club",
+    "legendary_monsters:fiery_jaw",
+    "legendary_monsters:withered_scythe",
+    "legendary_monsters:the_great_frost",
+    "legendary_monsters:axe_of_lightning",
+    "legendary_monsters:mossy_hammer",
+    "legendary_monsters:monstrous_anchor",
+    "legendary_monsters:knights_sword",
+    "legendary_monsters:golden_halbert",
+    "legendary_monsters:soul_great_sword"
+  ]
+}

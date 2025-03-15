@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "item": "irons_spellbooks:dragonskin"
+            "item": "ends_delight:dragon_tooth"
         },
         "S": {
             "item": "minecraft:shulker_shell"
@@ -16,7 +16,7 @@
             "item": "minecraft:ender_eye"
         },
         "C": {
-            "item": "phantasm:void_crystal_shard"
+            "item": "minecraft:crying_obsidian"
         }
     },
     "result": {

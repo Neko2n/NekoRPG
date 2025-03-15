@@ -1,0 +1,23 @@
+{
+    "items": [
+        "alexscaves:cloak_of_darkness"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:blood_spell_power",
+            "value": 0.2,
+            "operation": "multiply_base",
+            "slot": "chest",
+            "uuid": "1a2338a0-6ab4-14aa-a32d-115346e35b46",
+            "replace": true
+        },
+        {
+            "id": "irons_spellbooks:eldritch_spell_power",
+            "value": 0.1,
+            "operation": "multiply_base",
+            "slot": "chest",
+            "uuid": "6a2238a0-6eb5-14aa-a12d-114346e15b41",
+            "replace": true
+        }
+    ]
+}

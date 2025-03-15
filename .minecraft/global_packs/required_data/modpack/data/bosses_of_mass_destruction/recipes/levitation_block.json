@@ -3,9 +3,12 @@
   "pattern": [
     " A ",
     "GHG",
-    "CCC"
+    "CEC"
   ],
   "key": {
+    "E": {
+      "item": "alexsmobs:void_worm_eye"
+    },
     "C": {
       "item": "minecraft:obsidian"
     },

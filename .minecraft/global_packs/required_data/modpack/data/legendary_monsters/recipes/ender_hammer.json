@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iEi",
+    "iii",
+    " / "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "E": {
+      "item": "legendary_monsters:void_gem"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:ender_hammer",
+    "count": 1
+  }
+}

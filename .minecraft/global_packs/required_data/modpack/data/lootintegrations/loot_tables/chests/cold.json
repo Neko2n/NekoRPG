@@ -39,7 +39,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "minecraft:chests/igloo",
+          "name": "minecraft:chests/igloo_chest",
           "weight": 10
         }
       ]

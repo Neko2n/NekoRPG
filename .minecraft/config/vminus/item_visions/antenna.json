@@ -1,0 +1,15 @@
+{
+    "items": [
+        "queen_bee:antenna"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:nature_spell_power",
+            "value": 0.4,
+            "operation": "multiply_base",
+            "slot": "head",
+            "uuid": "1a2338a0-6ab4-14aa-a32d-115346e35b46",
+            "replace": true
+        }
+    ]
+}

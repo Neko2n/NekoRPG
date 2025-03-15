@@ -1,6 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": "#deeperdarker:has_structure/ancient_temple",
+  "biomes": "#minecraft:is_nether",
   "features": "irons_spellbooks:ore_arcane_debris",
   "step": "underground_ores"
 }

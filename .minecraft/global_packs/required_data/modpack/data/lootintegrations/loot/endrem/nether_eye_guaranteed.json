@@ -1,7 +1,0 @@
-{
-  "loot_table": "lootintegrations:endrem/nether_eye_guaranteed",
-  "integrated_loot_tables": {
-    "bosses_of_mass_destruction:chests/gauntlet": 1,
-    "cataclysm:entities/netherite_monstrosity": 1
-  }
-}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "#L#",
+    "T#T"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:end_stone"
+    },
+    "S": {
+      "item": "legendary_monsters:large_shulker_shell"
+    },
+    "L": {
+      "item": "outer_end:levitation_core"
+    },
+    "T": {
+      "item": "outer_end:sinker_tooth"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:shulker_shield",
+    "count": 1
+  }
+}

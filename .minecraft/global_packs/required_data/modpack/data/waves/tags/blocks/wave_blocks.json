@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "#upgrade_aquatic:driftwood_logs",
+    "ecologics:seashell",
+    "minecraft:air"
+  ]
+}

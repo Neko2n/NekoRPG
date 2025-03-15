@@ -1,0 +1,24 @@
+{
+  "values": [
+    "minecraft:spyglass",
+    "minecraft:totem_of_undying",
+    "caverns_and_chasms:tuning_fork",
+    "quark:pickarang",
+    "quark:flamerang",
+    "supplementaries:slingshot",
+    "suppsquared:key",
+    "suppsquared:heavy_key",
+    "etcetera:hammer",
+    "etcetera:wrench",
+    "supplementaries:bubble_blower",
+    "quark:trowel",
+    "minecraft:brush",
+    "etcetera:chisel",
+    "etcetera:handbell",
+    "supplementaries:flute",
+    "galosphere:glow_flare",
+    "galosphere:spectre_flare",
+    "minecraft:flint_and_steel",
+    "blazegear:flint_and_brimsteel"
+  ]
+}

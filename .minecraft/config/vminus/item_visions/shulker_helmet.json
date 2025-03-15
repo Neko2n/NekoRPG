@@ -1,0 +1,24 @@
+{
+    "items": [
+        "legendary_monsters:shulker_helmet"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:ender_magic_resist",
+            "operation": "multiply_base",
+            "value": 0.2,
+            "slot": "head",
+            "uuid": "2a4448a0-6bf4-11ef-b52d-385046b35f29",
+            "replace": true
+        },
+        {
+            "id": "irons_spellbooks:ender_spell_power",
+            "value": 0.1,
+            "operation": "multiply_base",
+            "slot": "head",
+            "uuid": "1a2338a0-6ab4-14aa-a32d-115346e35b46",
+            "replace": true
+        }
+    ],
+    "rarity": "epic"
+}

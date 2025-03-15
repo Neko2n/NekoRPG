@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aaa",
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "occult:shaded_bricks"
+    },
+    "b": {
+      "item": "occult:cursed_nugget"
+    },
+    "c": {
+      "item": "occult:smooth_shaded_bricks"
+    }
+  },
+  "result": {
+    "item": "occult:seeking_lamp",
+    "count": 2
+  }
+}

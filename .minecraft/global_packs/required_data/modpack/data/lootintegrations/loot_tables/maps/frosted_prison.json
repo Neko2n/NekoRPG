@@ -1,0 +1,23 @@
+{
+  "pools": [{
+      "name": "map_pool",
+      "rolls": 1,
+      "entries": [
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:set_nbt",
+                        "tag": "{furledMapData:{destination:\"cataclysm:frosted_prison\",description:'{\"translate\":\"[Frozen Citadel]\"}'}}"
+                    }
+                ],
+                "name": "irons_spellbooks:furled_map",
+                "weight": 10
+            },
+            {
+                "type": "empty",
+                "weight": 90
+            }
+      ]
+  }]
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:adv_icon_8"
+    },
+    "title": {
+      "translate": "advancements.the_bright_sideofthinga.title"
+    },
+    "description": {
+      "translate": "advancements.the_bright_sideofthinga.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_bright_sideofthinga_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "occult:demonsn_cults"
+}

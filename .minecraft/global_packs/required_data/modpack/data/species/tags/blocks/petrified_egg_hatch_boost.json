@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:soul_fire",
+    "minecraft:soul_campfire",
+    "piglinproliferation:blackstone_soul_fire_ring",
+    "piglinproliferation:endstone_soul_fire_ring",
+    "piglinproliferation:netherrack_soul_fire_ring",
+    "piglinproliferation:deepslate_soul_fire_ring",
+    "piglinproliferation:stone_soul_fire_ring",
+    "caverns_and_chasms:soul_brazier"
+  ]
+}

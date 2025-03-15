@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "warm_ocean",
+  "features": "luminous_beasts:rare_sea_viper_feature",
+  "step": "top_layer_modification"
+}

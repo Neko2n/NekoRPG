@@ -1,0 +1,15 @@
+{
+    "items": [
+        "irons_spellbooks:spellbreaker"
+    ],
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_damage",
+            "value": 8,
+            "slot": "mainhand",
+            "uuid": "1a1328e0-6ba4-11fb-c13d-124116b31f93",
+            "replace": true
+        }
+    ],
+    "repair_item": "irons_spellbooks:arcane_salvage"
+}

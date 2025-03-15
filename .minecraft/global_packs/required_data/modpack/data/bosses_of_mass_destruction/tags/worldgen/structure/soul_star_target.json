@@ -2,7 +2,7 @@
   "replace": false,
   "values": [
     "bosses_of_mass_destruction:lich_tower",
-    "irons_spellbooks:undead_crypt",
-    "minecraft:nether_fortress"
+    "irons_spellbooks:catacombs",
+    "betterfortresses:fortress"
   ]
 }

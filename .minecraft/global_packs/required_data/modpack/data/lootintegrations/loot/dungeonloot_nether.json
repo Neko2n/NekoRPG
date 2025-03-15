@@ -4,6 +4,9 @@
     "minecraft:chests/nether_bridge": 10,
     "minecraft:chests/nether_fortress/fort_inside": 14,
     "minecraft:chests/nether_fortress/fort_inside_generic": 10,
+    "minecraft:chests/bastion_bridge": 6,
+    "minecraft:chests/bastion_hoglin_stable": 4,
+    "minecraft:chests/bastion_other": 6,
     "dungeons_plus:chests/soul_prison/common": 12,
     "totw_additions:chests/nether_tower/nether_tower_chest": 12,
     "infernalexp:chests/desolate_bastion_outpost_chest": 18,
@@ -34,6 +37,10 @@
     "nova_structures:nether_port/nether_port_supplies": 6,
     "nova_structures:piglin_outstation/outstation_generic": 4,
     "nova_structures:piglin_outstation/outstation_tower": 6,
-    "nova_structures:piglin_outstation/outstation_treasure": 10
+    "nova_structures:piglin_outstation/outstation_treasure": 10,
+    "netherexp:chests/chapel": 8,
+    "netherexp:chests/sanctum_supply": 8,
+    "netherexp:brazier_chest/exposed": 10,
+    "netherexp:brazier_chest/hidden": 10
   }
 }

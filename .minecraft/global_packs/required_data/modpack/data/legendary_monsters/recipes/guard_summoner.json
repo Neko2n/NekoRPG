@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iSi",
+    "iIi",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "legendary_monsters:golden_halbert"
+    },
+    "S": {
+      "item": "irons_spellbooks:evocation_rune"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:guard_summoner",
+    "count": 1
+  }
+}

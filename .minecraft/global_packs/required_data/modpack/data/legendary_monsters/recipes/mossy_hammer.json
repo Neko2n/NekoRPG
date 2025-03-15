@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "legendary_monsters:nature_crystal"
+  },
+  "base": {
+    "item": "etcetera:hammer"
+  },
+  "result": {
+    "item": "legendary_monsters:mossy_hammer"
+  },
+  "template": {
+    "item": "irons_spellbooks:nature_rune"
+  }
+}

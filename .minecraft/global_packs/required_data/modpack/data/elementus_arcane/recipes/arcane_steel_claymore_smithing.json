@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "addition": {
-    "item": "irons_spellbooks:arcane_ingot"
+    "item": "arcaneessenceblock:arcane_ingot_block"
   },
   "base": {
     "item": "minecraft:iron_sword"

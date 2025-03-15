@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "netherexp:banshee_powder"
+  },
+  "base": {
+    "item": "etcetera:bismuth_ingot"
+  },
+  "result": {
+    "item": "cataclysm:black_steel_ingot"
+  }
+}

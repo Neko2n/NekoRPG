@@ -1,6 +1,0 @@
-{
-  "loot_table": "lootintegrations:endrem/exotic_eye_guaranteed",
-  "integrated_loot_tables": {
-    "cataclysm:entities/the_leviathan": 1
-  }
-}

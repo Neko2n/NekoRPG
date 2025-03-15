@@ -1,32 +1,3 @@
 {
-  "biomes": [
-    [
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "midnight:is_coastal"
-      }
-    ],
-    [
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "midnight:is_plains"
-      }
-    ],
-    [
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "midnight:is_wetland"
-      }
-    ],
-    [
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "midnight:is_forest"
-      }
-    ]
-  ]
+  "biomes": []
 }

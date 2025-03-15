@@ -11,18 +11,6 @@
     "#endermanoverhaul:swamp_spawns",
     "#endermanoverhaul:windswept_hills_spawns",
     "minecraft:dripstone_caves",
-    "minecraft:lush_caves",
-    {
-      "id": "#forge:is_lush",
-      "required": false
-    },
-    {
-      "id": "#forge:is_underground",
-      "required": false
-    },
-    {
-      "id": "#forge:is_cave",
-      "required": false
-    }
+    "minecraft:lush_caves"
   ]
 }

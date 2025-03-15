@@ -1,0 +1,23 @@
+{
+    "items": [
+        "mutantmonsters:mutant_skeleton_skull"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:evocation_spell_power",
+            "value": 0.4,
+            "operation": "multiply_base",
+            "slot": "head",
+            "uuid": "1a4331a0-6eb4-14bf-a33a-125356f34a4c",
+            "replace": true
+        },
+        {
+            "id": "irons_spellbooks:holy_magic_resist",
+            "value": -0.2,
+            "operation": "multiply_base",
+            "slot": "head",
+            "uuid": "ca22c8f2-6e45-145a-a12d-222346e35b59",
+            "replace": true
+        }
+    ]
+}

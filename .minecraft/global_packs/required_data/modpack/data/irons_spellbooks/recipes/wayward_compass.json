@@ -1,19 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "DID",
+    " I ",
     "ILI",
-    "DID"
+    " I "
   ],
   "key": {
-    "D": {
-      "item": "irons_spellbooks:arcane_essence"
-    },
     "I": {
       "tag": "forge:ingots/silver"
     },
     "L": {
-      "item": "alexsmobs:soul_heart"
+      "item": "netherexp:phasmo_shard"
     }
   },
   "result": {

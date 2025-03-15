@@ -2,6 +2,18 @@
     "replace": false,
     "values": [
         "scalinghealth:heart_crystal_ore",
-        "scalinghealth:deepslate_heart_crystal_ore"
+        "scalinghealth:deepslate_heart_crystal_ore",
+        "miningmaster:divine_beryl_ore",
+        "miningmaster:spider_kunzite_ore",
+        "miningmaster:unbreaking_iolite_ore",
+        "miningmaster:deepslate_fire_ruby_ore",
+        "miningmaster:deepslate_ice_sapphire_ore",
+        "miningmaster:deepslate_spirit_garnet_ore",
+        "miningmaster:deepslate_haste_peridot_ore",
+        "miningmaster:deepslate_lucky_citrine_ore",
+        "miningmaster:deepslate_dive_aquamarine_ore",
+        "miningmaster:deepslate_divine_beryl_ore",
+        "miningmaster:deepslate_spider_kunzite_ore",
+        "miningmaster:deepslate_unbreaking_iolite_ore"
     ]
 }

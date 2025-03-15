@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "occult:textures/screens/gloomy_planks.png",
+    "icon": {
+      "item": "occult:itemiconoccult"
+    },
+    "title": {
+      "translate": "advancements.demonsn_cults.title"
+    },
+    "description": {
+      "translate": "advancements.demonsn_cults.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "demonsn_cults_0": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

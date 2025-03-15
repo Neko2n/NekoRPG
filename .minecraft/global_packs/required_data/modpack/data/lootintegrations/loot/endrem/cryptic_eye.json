@@ -1,8 +1,0 @@
-{
-  "loot_table": "lootintegrations:endrem/cryptic_eye",
-  "integrated_loot_tables": {
-    "minecraft:chests/ancient_city": 1,
-    "deeperdarker:chests/ancient_temple_apex": 1,
-    "deeperdarker:chests/ancient_temple_secret": 1
-  }
-}

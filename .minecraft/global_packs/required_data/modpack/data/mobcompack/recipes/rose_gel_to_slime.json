@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mobcompack:rose_gelball"
+  },
+  "result": "minecraft:slime_ball",
+  "experience": 0.3,
+  "cookingtime": 100
+}

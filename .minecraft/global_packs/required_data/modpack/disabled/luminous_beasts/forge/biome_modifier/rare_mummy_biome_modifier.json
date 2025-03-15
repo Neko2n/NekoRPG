@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "badlands",
+    "eroded_badlands"
+  ],
+  "spawners": {
+    "type": "luminous_beasts:rare_mummy",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

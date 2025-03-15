@@ -1,6 +1,31 @@
 {
   "pools": [
     {
+      "name": "ender_essence",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "name": "waystones:warp_dust",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
       "name": "ender_golem",
       "rolls": 1,
       "entries": [

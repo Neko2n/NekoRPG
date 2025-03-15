@@ -1,13 +1,16 @@
-filename = 'dungeons_enhanced-1.20.1-5.3.0.jar'
+filename = 'dungeons_enhanced-1.20.1-5.4.0.jar'
 name = 'Dungeons Enhanced'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '526edb728b1dcd1c93dc8085f3d5fb8b174058e7'
+hash = '79c4e9f29c9e2258fbd8b5e398bd71797414044d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5893371
+file-id = 6174961
 project-id = 480715

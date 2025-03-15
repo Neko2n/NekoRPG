@@ -1,0 +1,52 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:accursed_potion_of_posession"
+    },
+    "title": {
+      "translate": "advancements.dark_alchemy.title"
+    },
+    "description": {
+      "translate": "advancements.dark_alchemy.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dark_alchemy_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "occult:accursed_potion_of_posession"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    },
+    "dark_alchemy_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "occult:accursed_potion_of_temportality"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "occult:demonsn_cults"
+}

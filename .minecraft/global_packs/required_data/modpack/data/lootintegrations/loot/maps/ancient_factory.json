@@ -6,6 +6,7 @@
     "endrem:chests/throne": 1,
     "endrem:chests/biblio": 1,
     "dungeoncrawl:chests/stage_4": 1,
-    "dungeoncrawl:chests/stage_5": 1
+    "dungeoncrawl:chests/stage_5": 1,
+    "dungeoncrawl:chests/treasure": 1
   }
 }

@@ -1,0 +1,16 @@
+{
+    "items": [
+        "legendary_monsters:chorus_mask"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:ender_magic_resist",
+            "operation": "multiply_base",
+            "value": 0.4,
+            "slot": "head",
+            "uuid": "2a4448a0-6bf4-11ef-b52d-385046b35f29",
+            "replace": true
+        }
+    ],
+    "rarity": "epic"
+}

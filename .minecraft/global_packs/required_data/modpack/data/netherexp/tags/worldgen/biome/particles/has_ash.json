@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:soul_sand_valley",
+    "regions_unexplored:infernal_holt",
+    "biomesoplenty:erupting_inferno",
+    {
+      "id": "cinderscapes:ashy_shales",
+      "required": false
+    }
+  ]
+}

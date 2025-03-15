@@ -1,0 +1,16 @@
+{
+    "items": [
+        "legendary_monsters:atmospheric_boots"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:lightning_magic_resist",
+            "operation": "multiply_base",
+            "value": 0.15,
+            "slot": "feet",
+            "uuid": "5a2428e0-3aa4-f1fc-c16d-a2a1bfb324c9",
+            "replace": true
+        }
+    ],
+    "rarity": "rare"
+}

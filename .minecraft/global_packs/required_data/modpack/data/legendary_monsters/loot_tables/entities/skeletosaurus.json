@@ -1,0 +1,101 @@
+{
+  "pools": [
+    {
+      "name": "ender_essence",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "name": "waystones:warp_dust",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "bones_extra",
+      "rolls": 4,
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:bone",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "alexscaves:heavy_bone",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "bones",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:bone",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "egg",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "legendary_monsters:skeletosaurus_egg",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "bones_heavy",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "alexscaves:heavy_bone",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

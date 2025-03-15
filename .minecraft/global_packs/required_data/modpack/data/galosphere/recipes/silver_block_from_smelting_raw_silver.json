@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1600,
+  "experience": 5.6,
+  "group": "silver_block",
+  "ingredient": {
+    "item": "galosphere:raw_silver_block"
+  },
+  "result": "galosphere:silver_block"
+}

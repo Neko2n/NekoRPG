@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:is_spooky"
+  },
+  "spawners": {
+    "type": "luminous_beasts:horseless_headsman",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

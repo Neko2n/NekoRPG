@@ -7,7 +7,7 @@
 	bop_secondary_overworld_region_weight = 8
 	#The weighting of bop biome regions in the nether.
 	#Range: > 0
-	bop_nether_region_weight = 8
+	bop_nether_region_weight = 7
 	#The weighting of rare bop biome regions in the overworld.
 	bop_overworld_rare_region_weight = 3
 	#The weighting of rare bop biome regions in the nether.
@@ -16,7 +16,7 @@
 
 [nether]
 	#The weighting of bop biome regions in the nether.
-	bop_nether_region_weight = 13
+	bop_nether_region_weight = 8
 	#The weighting of rare bop biome regions in the nether.
 	bop_nether_rare_region_weight = 2
 

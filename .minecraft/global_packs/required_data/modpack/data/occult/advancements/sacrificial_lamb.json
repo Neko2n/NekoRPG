@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:adv_icon_2"
+    },
+    "title": {
+      "translate": "advancements.sacrificial_lamb.title"
+    },
+    "description": {
+      "translate": "advancements.sacrificial_lamb.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sacrificial_lamb_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "occult:demonsn_cults"
+}

@@ -1,0 +1,40 @@
+{
+    "enchantments": [
+        "domesticationinnovation:fireproof",
+        "domesticationinnovation:poison_resistance",
+        "domesticationinnovation:chain_lightning",
+        "domesticationinnovation:frost_fang",
+        "domesticationinnovation:magnetic",
+        "domesticationinnovation:linked_inventory",
+        "domesticationinnovation:total_recall",
+        "domesticationinnovation:health_siphon",
+        "domesticationinnovation:bubbling",
+        "domesticationinnovation:herding",
+        "domesticationinnovation:amphibious",
+        "domesticationinnovation:vampire",
+        "domesticationinnovation:void_cloud",
+        "domesticationinnovation:charisma",
+        "domesticationinnovation:shadow_hands",
+        "domesticationinnovation:disc_jockey",
+        "domesticationinnovation:defusal",
+        "domesticationinnovation:warping_bite",
+        "domesticationinnovation:gluttonous",
+        "domesticationinnovation:psychic_wall",
+        "domesticationinnovation:intimidation",
+        "domesticationinnovation:tethered_teleport",
+        "domesticationinnovation:muffled",
+        "domesticationinnovation:blazing_protection",
+        "domesticationinnovation:rejuvenation",
+        "domesticationinnovation:undead_curse",
+        "domesticationinnovation:infamy_curse",
+        "domesticationinnovation:blight_curse",
+        "domesticationinnovation:immaturity_curse"
+    ],
+    "is_treasure_only": false,
+    "is_discoverable": false,
+    "is_tradeable": false,
+    "exclusive_enchantable": true,
+    "enchantable": [
+        "domesticationinnovation:collar_tag"
+    ]
+}

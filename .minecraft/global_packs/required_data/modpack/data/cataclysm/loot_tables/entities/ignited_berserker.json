@@ -2,6 +2,22 @@
   "type": "minecraft:entity",
   "pools": [
     {
+      "name": "ender_essence",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "name": "waystones:warp_dust",
+          "weight": 1
+        }
+      ]
+    },
+    {
       "name": "brimsteel",
       "rolls": 1,
       "entries": [

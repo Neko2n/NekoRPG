@@ -1,0 +1,15 @@
+{
+    "items": [
+        "queen_bee:stinger_sword"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:nature_spell_power",
+            "value": 0.2,
+            "operation": "multiply_base",
+            "slot": "mainhand",
+            "uuid": "1a1328e0-6ba4-11fb-c13d-124116b31f93",
+            "replace": true
+        }
+    ]
+}

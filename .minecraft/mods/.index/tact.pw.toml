@@ -1,13 +1,16 @@
-filename = 'tact-1.2.1+1.20.1.jar'
+filename = 'tact-1.2.3+1.20.1.jar'
 name = 'TACT'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '1ce2f110d27ef14f07daebe54d5a386a6bf062c8'
+hash = '8bd6362e595a24bf025af7a9a96bd6b935a13af7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5871416
+file-id = 6171028
 project-id = 926263

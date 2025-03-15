@@ -62,7 +62,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "blazegear:brimsteel_horse_armor",
+          "name": "blazegear:brimsteel_horse_armour",
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -78,7 +78,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "blazegear:brimsteel_horse_armor",
+          "name": "blazegear:brimsteel_horse_armour",
           "weight": 1
         },
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "rolls": 5,
+      "rolls": 4,
       "entries": [
         {
           "type": "minecraft:item",
@@ -116,7 +116,7 @@
         },
         {
           "type": "minecraft:empty",
-          "weight": 1
+          "weight": 2
         }
       ]
     },
@@ -149,12 +149,12 @@
         },
         {
           "type": "minecraft:empty",
-          "weight": 1
+          "weight": 2
         }
       ]
     },
     {
-      "rolls": 2,
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
@@ -182,7 +182,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "ars_nouveau:experience_gem",
+          "name": "minecraft:experience_bottle",
           "weight": 1
         },
         {

@@ -1,6 +1,0 @@
-{
-  "loot_table": "lootintegrations:endrem/cold_eye_high",
-  "integrated_loot_tables": {
-    "mowziesmobs:entities/frostmaw": 1
-  }
-}

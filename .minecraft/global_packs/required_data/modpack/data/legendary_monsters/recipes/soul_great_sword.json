@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Sn",
+    "SNS",
+    "DS "
+  ],
+  "key": {
+    "n": {
+      "item": "caverns_and_chasms:necromium_ingot"
+    },
+    "N": {
+      "item": "caverns_and_chasms:necromium_sword"
+    },
+    "D": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "netherexp:phasmo_shard"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:soul_great_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "occult:twisted_fur"
+    },
+    "b": {
+      "item": "occult:cursed_nugget"
+    }
+  },
+  "result": {
+    "item": "occult:shadow_fiber",
+    "count": 2
+  }
+}

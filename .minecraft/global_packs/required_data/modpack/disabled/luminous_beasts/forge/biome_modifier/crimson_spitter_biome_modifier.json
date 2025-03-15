@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "crimson_forest",
+  "spawners": {
+    "type": "luminous_beasts:crimson_spitter",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

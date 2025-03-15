@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "minecraft:is_desert"
+  },
+  "spawners": {
+    "type": "luminous_beasts:mummy",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

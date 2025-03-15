@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:sacrificial_dagger"
+    },
+    "title": {
+      "translate": "advancements.slice_and_dice.title"
+    },
+    "description": {
+      "translate": "advancements.slice_and_dice.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "slice_and_dice_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "occult:sacrificial_dagger"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "occult:sacrificial_lamb"
+}

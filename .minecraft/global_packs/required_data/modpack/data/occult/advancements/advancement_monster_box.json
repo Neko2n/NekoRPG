@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:adv_icon_7"
+    },
+    "title": {
+      "translate": "advancements.advancement_monster_box.title"
+    },
+    "description": {
+      "translate": "advancements.advancement_monster_box.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "advancement_monster_box_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "occult:demonsn_cults"
+}

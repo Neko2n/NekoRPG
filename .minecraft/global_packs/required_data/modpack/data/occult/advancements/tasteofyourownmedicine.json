@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:adv_icon_3"
+    },
+    "title": {
+      "translate": "advancements.tasteofyourownmedicine.title"
+    },
+    "description": {
+      "translate": "advancements.tasteofyourownmedicine.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tasteofyourownmedicine_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "occult:dark_magic"
+}

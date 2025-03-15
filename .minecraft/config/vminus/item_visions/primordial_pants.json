@@ -1,0 +1,23 @@
+{
+    "items": [
+        "alexscaves:primordial_pants"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:nature_spell_power",
+            "value": 0.1,
+            "operation": "multiply_base",
+            "slot": "legs",
+            "uuid": "2a2434a0-54b4-144a-a34d-145346435444",
+            "replace": true
+        },
+        {
+            "id": "irons_spellbooks:nature_magic_resist",
+            "value": 0.15,
+            "operation": "multiply_base",
+            "slot": "legs",
+            "uuid": "4aff38c1-6eb5-ef4a-a12b-444346e1eb41",
+            "replace": true
+        }
+    ]
+}

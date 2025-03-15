@@ -30,7 +30,7 @@
 
 [loot]
 	#true if pet curse enchantments should only appear in loot, and not the enchanting table.
-	pet_curse_enchantments_loot_only = true
+	pet_curse_enchantments_loot_only = false
 	#percent chance of woodland mansion loot table containing sinister carrot:
 	#Range: 0.0 ~ 1.0
 	sinister_carrot_loot_chance = 0.2

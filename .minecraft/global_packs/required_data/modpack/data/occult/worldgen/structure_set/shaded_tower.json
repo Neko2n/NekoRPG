@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "occult:shaded_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 57,
+    "separation": 56,
+    "salt": 33683649
+  }
+}

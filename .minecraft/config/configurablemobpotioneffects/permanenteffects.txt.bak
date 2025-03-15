@@ -1,0 +1,6 @@
+'mowziesmobs:foliaath' : 'minecraft:fire_resistance,lvl:1',
+'mowziesmobs:baby_foliaath' : 'minecraft:fire_resistance,lvl:1',
+'mowziesmobs:naga' : 'minecraft:fire_resistance,lvl:1',
+'luminous_beasts:bone_stalker' : 'minecraft:fire_resistance,lvl:1',
+'luminous_beasts:rare_bone_stalker' : 'minecraft:fire_resistance,lvl:1|netherexp:wither_immunity,lvl:1',
+'luminous_beasts:rare_tree_ent' : 'minecraft:fire_resistance,lvl:1',

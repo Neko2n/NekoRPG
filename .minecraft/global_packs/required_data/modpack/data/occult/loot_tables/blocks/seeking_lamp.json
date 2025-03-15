@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "occult:blocks/seeking_lamp",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "occult:seeking_lamp"
+        }
+      ]
+    }
+  ]
+}

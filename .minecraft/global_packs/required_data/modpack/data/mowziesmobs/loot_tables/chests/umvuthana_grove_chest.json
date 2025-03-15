@@ -25,7 +25,7 @@
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "neapolitan:vanilla_pod"
+          "name": "neapolitan:vanilla_pods"
         },
         {
           "type": "minecraft:item",
@@ -56,6 +56,21 @@
             }
           ],
           "name": "minecraft:cooked_porkchop"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 2,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:rabbit_hide"
         },
         {
           "type": "minecraft:item",

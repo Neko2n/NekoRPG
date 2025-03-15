@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "legendary_monsters:shulker_shield",
+    "legendary_monsters:dinosaur_bone_shield",
+    "legendary_monsters:frostbitten_shield",
+    "legendary_monsters:spiky_shield"
+  ]
+}

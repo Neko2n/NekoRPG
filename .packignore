@@ -1,7 +1,14 @@
+.git
+.gitattributes
+.gitignore
 .idea
 .minecraft/.mixin.out
+.minecraft/.physics_mod_cache
 .minecraft/.qmenu_opened.marker
+.minecraft/Distant_Horizons_server_data
+.minecraft/EffekseerNativeForJava.dll
 .minecraft/aes
+.minecraft/cloth_local
 .minecraft/coremods
 .minecraft/coremods
 .minecraft/data
@@ -10,6 +17,7 @@
 .minecraft/essential
 .minecraft/fabricloader.log
 .minecraft/fancymenu_data
+.minecraft/hs_err_pid23820.log
 .minecraft/localconfigs
 .minecraft/map_atlases
 .minecraft/menuworlds
@@ -18,7 +26,7 @@
 .minecraft/modernfix
 .minecraft/observable_announce
 .minecraft/openvr
-.minecraft/options.txt
+.minecraft/ops.json
 .minecraft/optionsviveprofiles.txt
 .minecraft/panoramas
 .minecraft/patchouli_books
@@ -33,6 +41,8 @@
 .minecraft/server-resource-packs
 .minecraft/servers.dat
 .minecraft/servers.dat_old
+.minecraft/servers.dat_old
+.minecraft/servers.essential.dat
 .minecraft/servers.essential.dat
 .minecraft/supportercache.json
 .minecraft/supportercache.json
@@ -42,5 +52,6 @@
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 .minecraft/usernamecache.json
+.minecraft/whitelist.json
 .minecraft/whitelist.json
 dev

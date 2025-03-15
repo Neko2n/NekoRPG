@@ -1,13 +1,16 @@
-filename = 'everycomp-1.20-2.7.11.jar'
+filename = 'everycomp-1.20-2.7.21.jar'
 name = 'Every Compat'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'b33e40b9858a07b32cd380d4aba060d75e7c4985'
+hash = 'ac3bf9c0852f4b368a7c3a747ed54f9fe495711a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6075611
+file-id = 6291292
 project-id = 628539

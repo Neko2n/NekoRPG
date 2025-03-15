@@ -1,0 +1,15 @@
+{
+    "items": [
+        "minecraft:diamond_leggings"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:max_mana",
+            "operation": "addition",
+            "value": 50,
+            "slot": "legs",
+            "uuid": "8a2438a0-6aa4-14aa-a32d-725346c35b56",
+            "replace": true
+        }
+    ]
+}

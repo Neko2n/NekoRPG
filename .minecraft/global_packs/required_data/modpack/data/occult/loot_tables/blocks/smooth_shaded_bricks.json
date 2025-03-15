@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "occult:blocks/smooth_shaded_bricks",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "occult:smooth_shaded_bricks"
+        }
+      ]
+    }
+  ]
+}

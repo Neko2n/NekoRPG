@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "elementus_arcane:arcane_claymore",
+    "elementus_arcane:arcane_steel_claymore",
+    "cataclysm:black_steel_sword",
+    "blazegear:brimsteel_sword",
+    "legendary_monsters:chorus_blade",
+    "legendary_monsters:dinosaur_bone_club",
+    "legendary_monsters:fiery_jaw",
+    "legendary_monsters:withered_scythe",
+    "legendary_monsters:the_great_frost",
+    "legendary_monsters:mossy_hammer",
+    "legendary_monsters:monstrous_anchor",
+    "legendary_monsters:knights_sword",
+    "legendary_monsters:soul_great_sword"
+  ]
+}

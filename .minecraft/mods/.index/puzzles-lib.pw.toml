@@ -1,13 +1,16 @@
-filename = 'PuzzlesLib-v8.1.25-1.20.1-Forge.jar'
+filename = 'PuzzlesLib-v8.1.29-1.20.1-Forge.jar'
 name = 'Puzzles Lib'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '89f824435c168d5156cd6aa9e90281bb72dc335c'
+hash = '6d26b564e8fcc2757e63a735530ed22c345f6279'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5904750
+file-id = 6283733
 project-id = 495476

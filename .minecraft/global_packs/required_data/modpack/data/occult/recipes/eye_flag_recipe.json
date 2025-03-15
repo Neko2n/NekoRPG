@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "occult:flag"
+    },
+    {
+      "item": "occult:flag_pattern"
+    }
+  ],
+  "result": {
+    "item": "occult:flag_eye",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "items": [
+        "legendary_monsters:the_great_frost"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:ice_spell_power",
+            "operation": "multiply_base",
+            "value": 0.2,
+            "slot": "mainhand",
+            "uuid": "1a1328e0-6ba4-11fb-c13d-124116b31f93",
+            "replace": true
+        }
+    ],
+    "repair_item": "irons_spellbooks:arcane_ingot",
+    "rarity": "epic"
+}

@@ -1,0 +1,16 @@
+{
+    "items": [
+        "legendary_monsters:withered_ribcage"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:blood_magic_resist",
+            "operation": "multiply_base",
+            "value": 0.2,
+            "slot": "chest",
+            "uuid": "7a1428e0-3ba4-f1fb-c12d-c2a11fb32fc1",
+            "replace": true
+        }
+    ],
+    "rarity": "rare"
+}

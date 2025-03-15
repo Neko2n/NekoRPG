@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:adv_icon_6"
+    },
+    "title": {
+      "translate": "advancements.you_suck.title"
+    },
+    "description": {
+      "translate": "advancements.you_suck.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "you_suck_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "occult:slice_and_dice"
+}

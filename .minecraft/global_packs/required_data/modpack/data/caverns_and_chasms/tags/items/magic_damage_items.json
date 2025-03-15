@@ -1,0 +1,16 @@
+{
+  "values": [
+    "caverns_and_chasms:silver_sword",
+    "caverns_and_chasms:silver_pickaxe",
+    "caverns_and_chasms:silver_axe",
+    "caverns_and_chasms:silver_shovel",
+    "caverns_and_chasms:silver_hoe",
+    "elementus_arcane:arcane_steel_claymore",
+    "elementus_arcane:arcane_claymore",
+    "elementus_arcane:arcane_hammer",
+    {
+      "id": "abnormals_delight:silver_knife",
+      "required": false
+    }
+  ]
+}

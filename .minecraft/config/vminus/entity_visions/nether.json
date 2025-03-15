@@ -1,0 +1,22 @@
+{
+    "entities": [
+        "mowziesmobs:naga",
+        "mowziesmobs:foliaath"
+    ],
+    "underwater_breathing": [
+        {
+            "value": true
+        }
+    ],
+    "water_sensitive": [
+        {
+            "value": true
+        }
+    ],
+    "base_attributes": [
+        {
+            "id": "vminus:fire_protection",
+            "value": 100
+        }
+    ]
+}

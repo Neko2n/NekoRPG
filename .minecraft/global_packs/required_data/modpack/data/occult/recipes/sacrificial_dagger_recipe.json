@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "occult:occult_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "item": "occult:shadow_fiber"
+  },
+  "result": {
+    "item": "occult:sacrificial_dagger"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ecologics:azalea_flower"
+    },
+    {
+      "item": "immersive_weathering:azalea_leaf_pile"
+    }
+  ],
+  "result": {
+    "item": "immersive_weathering:flowering_azalea_leaf_pile"
+  }
+}

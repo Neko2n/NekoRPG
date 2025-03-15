@@ -1,0 +1,19 @@
+{
+  "values": [
+    "#forge:is_cave",
+	"#forge:is_underground",
+	"minecraft:ocean",
+	"minecraft:deep_ocean",
+	"minecraft:frozen_ocean",
+	"minecraft:deep_frozen_ocean",
+	"minecraft:cold_ocean",
+	"minecraft:deep_cold_ocean",
+	"minecraft:lukewarm_ocean",
+	"minecraft:deep_lukewarm_ocean",
+	"minecraft:warm_ocean",
+	"minecraft:river",
+	"#minecraft:is_beach",
+	"minecraft:stony_shore",
+	"#forge:is_void"
+  ]
+}

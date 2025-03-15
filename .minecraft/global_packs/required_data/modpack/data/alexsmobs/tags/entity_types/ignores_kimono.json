@@ -3,9 +3,16 @@
   "replace": false,
   "values": [
     "minecraft:wither",
+    "minecraft:wither_skeleton",
+    "cataclysm:ignis",
+    "cataclysm:ignited_berserker",
+    "cataclysm:ignited_revenant",
+    "irons_spellbooks:citadel_keeper",
     "cataclysm:the_harbinger",
     "cataclysm:ancient_remnant",
+    "cataclysm:maledictus",
     "alexsmobs:murmur",
-    "alexsmobs:murmur_head"
+    "alexsmobs:murmur_head",
+    "minecraft:warden"
   ]
 }

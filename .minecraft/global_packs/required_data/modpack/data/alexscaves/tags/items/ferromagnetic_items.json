@@ -80,7 +80,6 @@
     "quark:raw_iron_bricks_wall",
     "minecraft:iron_ingot",
     "minecraft:raw_iron",
-    "farmersdelight:iron_knife",
-    "cgm:bazooka"
+    "farmersdelight:iron_knife"
   ]
 }

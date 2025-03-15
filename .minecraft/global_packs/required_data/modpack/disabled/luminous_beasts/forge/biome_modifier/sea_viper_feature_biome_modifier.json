@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cold_ocean",
+    "deep_cold_ocean",
+    "deep_frozen_ocean",
+    "frozen_ocean"
+  ],
+  "features": "luminous_beasts:sea_viper_feature",
+  "step": "surface_structures"
+}

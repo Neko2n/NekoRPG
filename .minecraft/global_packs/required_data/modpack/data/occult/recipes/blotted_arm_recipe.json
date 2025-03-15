@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "ccc",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "occult:twisted_fur"
+    },
+    "b": {
+      "item": "occult:shadow_fiber"
+    },
+    "c": {
+      "item": "occult:ink_ball"
+    }
+  },
+  "result": {
+    "item": "occult:blottedarm",
+    "count": 1
+  }
+}

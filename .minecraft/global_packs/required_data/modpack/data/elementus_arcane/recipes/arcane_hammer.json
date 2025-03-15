@@ -1,26 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "1": {
-      "item": "minecraft:iron_block"
-    },
-    "2": {
-      "item": "irons_spellbooks:arcane_essence"
-    },
-    "3": {
-      "item": "irons_spellbooks:arcane_rune"
-    },
-    "4": {
-      "item": "minecraft:stick"
-    }
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "arcaneessenceblock:arcane_ingot_block"
   },
-  "pattern": [
-    "121",
-    "131",
-    "242"
-  ],
+  "base": {
+    "item": "etcetera:hammer"
+  },
   "result": {
     "item": "elementus_arcane:arcane_hammer"
   },
-  "show_notification": true
+  "template": {
+    "item": "irons_spellbooks:arcane_rune"
+  }
 }

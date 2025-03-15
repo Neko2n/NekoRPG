@@ -1,0 +1,31 @@
+{
+  "values": [
+    "minecraft:bad_omen",
+    "minecraft:hero_of_the_village",
+    "cataclysm:monstrous",
+    "cataclysm:ghost_form",
+    "cataclysm:ghost_sickness",
+    "cataclysm:curse_of_desert",
+    "cataclysm:blessing_of_amethyst",
+    "alexsmobs:ender_flu",
+    "alexsmobs:sunbird_blessing",
+    "alexsmobs:sunbird_curse",
+    "alexsmobs:tigers_blessing",
+    "alexsmobs:orcas_might",
+    "irons_spellbooks:vex_timer",
+    "irons_spellbooks:summon_horse_timer",
+    "irons_spellbooks:polar_bear_timer",
+    "irons_spellbooks:raise_dead_timer",
+    "legendary_monsters:curse_of_desert",
+    "legendary_monsters:chorus_infection",
+    "minecraft:dolphins_grace",
+    "mowziesmobs:geomancy",
+    "mowziesmobs:suns_blessing",
+    "mutantmonsters:chemical_x",
+    "scalinghealth:bandaged",
+    {
+      "id": "environmental:serenity",
+      "required": false
+    }
+  ]
+}

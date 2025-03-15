@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "values": [
+    "#sereneseasons:evergreen_saplings",
+    "#forge:mushrooms",
+    "regions_unexplored:duskmelon_slice",
+    "neapolitan:mint_sprout",
+    "berry_good:sweet_berry_pips",
+    "berry_good:glow_berry_pips",
+    "farmersdelight:cabbage_seeds",
+    "minecraft:torchflower_seeds",
+    "minecraft:warped_fungus",
+    "minecraft:crimson_fungus",
+    "minecraft:nether_wart",
+    "netherexp:cerebrage_seeds",
+    "mynethersdelight:powder_cannon",
+    "mynethersdelight:bullet_pepper"
+  ]
+}

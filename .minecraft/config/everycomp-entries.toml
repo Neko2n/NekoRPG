@@ -32,8 +32,8 @@
 			magic = true
 			umbran = true
 			hellbark = true
-			pine = true
-			maple = true
+			pine = false
+			maple = false
 			empyreal = true
 
 		[types.wood_type.cataclysm]
@@ -110,6 +110,9 @@
 		[types.wood_type.sullysmod]
 			petrified = true
 
+		[types.wood_type.caverns_and_chasms]
+			azalea = false
+
 	[types.leaves_type]
 
 		[types.leaves_type.biomesoplenty]
@@ -127,12 +130,12 @@
 			magic = true
 			umbran = true
 			hellbark = true
-			red_maple = true
-			orange_maple = true
-			yellow_maple = true
+			red_maple = false
+			orange_maple = false
+			yellow_maple = false
 			null = true
-			cypress = true
-			pine = true
+			cypress = false
+			pine = false
 			empyreal = true
 
 		[types.leaves_type.regions_unexplored]
@@ -225,6 +228,7 @@
 			swamp_cypress = true
 			ebony = true
 			chestnut = true
+			fir = true
 
 	[types.cake]
 
@@ -243,13 +247,6 @@
 
 		[types.cake.mynethersdelight]
 			magma_cake = true
-
-		[types.cake.exquisito]
-			chorus_cake = true
-			ether_bulb_cake = true
-			jelly_ring_cake = true
-			nightshade_berry_cake = true
-			zure_berry_cake = true
 
 	[types.cut_block_type]
 
@@ -750,17 +747,32 @@
 			stacked_wither_bone = true
 			yellow_nether_brick = true
 
-		[types.cut_block_type.exquisito]
-			warzipan_brick = true
-			dessert_checkered_brick = true
-			carmotine_brick = true
+		[types.cut_block_type.caverns_and_chasms]
+			sanguine_tile = true
+			fortified_sanguine_tile = true
+			spinel_brick = false
+			lapis_brick = true
+			cobblestone_brick = true
+			mossy_cobblestone_brick = true
+			cobblestone_tile = true
+			mossy_cobblestone_tile = true
+			cobbled_deepslate_brick = true
+			cobbled_deepslate_tile = true
+			calcite = true
+			polished_calcite = true
+			tuff = true
+			polished_tuff = true
+			sugilite = true
+			polished_sugilite = true
+			dripstone_shingle = true
+			cut_amethyst_brick = true
+			azalea = false
+
+		[types.cut_block_type.legendary_monsters]
+			ancient_dripstone_brick = true
+			ancient_dripstone_tile = true
 
 	[types.stone_type]
-
-		[types.stone_type.immersive_weathering]
-			snowy_stone = true
-			sandy_stone = true
-			mossy_stone = true
 
 		[types.stone_type.biomesoplenty]
 			brimstone = true
@@ -787,9 +799,34 @@
 			jasper = true
 			shale = true
 			myalite = true
+			midori = true
+			duskbound = true
+			shingles = true
 
 		[types.stone_type.supplementaries]
 			ash = true
+
+		[types.stone_type.outer_end]
+			himmel = true
+
+		[types.stone_type.bbb]
+			polished_stone = true
+
+		[types.stone_type.upgrade_aquatic]
+			coralstone = true
+
+		[types.stone_type.etcetera]
+			leveled_stone = true
+
+		[types.stone_type.atmospheric]
+			dolerite = true
+			ivory_travertine = true
+			peach_travertine = true
+			persimmon_travertine = true
+			saffron_travertine = true
+
+		[types.stone_type.caverns_and_chasms]
+			sugilite = true
 
 #Disables specific entries
 [entries]
@@ -816,7 +853,7 @@
 			bookshelf = true
 			chest = true
 			stripped_post = true
-			ladder = true
+			ladder = false
 			vertical_slab = true
 
 		[entries.wood_type.regions_unexplored]
@@ -852,4 +889,30 @@
 
 		[entries.leaves_type.regions_unexplored]
 			shrub = true
+
+	[entries.stone_type]
+
+		[entries.stone_type.bbb]
+			tile_stairs = true
+			column = true
+			urn = true
+			moulding = true
+			brick_layer = true
+			tile_slab = true
+			smooth_layer = true
+			fence = true
+			tiles = true
+			layer = true
+
+		[entries.stone_type.quark]
+			polished_vertical_slab = true
+			pillar = true
+			vertical_slab = true
+
+	[entries.mud_type]
+
+		[entries.mud_type.quark]
+			carved_bricks = true
+			pillar = true
+			brick_lattice = true
 

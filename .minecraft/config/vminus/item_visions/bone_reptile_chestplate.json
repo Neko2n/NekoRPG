@@ -1,0 +1,31 @@
+{
+    "items": [
+        "cataclysm:bone_reptile_chestplate"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:evocation_spell_power",
+            "value": 0.1,
+            "operation": "multiply_base",
+            "slot": "chest",
+            "uuid": "1a4331a0-6eb4-14bf-a33a-125356f34a4c",
+            "replace": true
+        },
+        {
+            "id": "irons_spellbooks:lightning_spell_power",
+            "value": 0.1,
+            "operation": "multiply_base",
+            "slot": "chest",
+            "uuid": "ca22c8f2-6e45-145a-a12d-222346e35b59",
+            "replace": true
+        },
+        {
+            "id": "irons_spellbooks:lightning_magic_resist",
+            "value": 0.2,
+            "operation": "multiply_base",
+            "slot": "chest",
+            "uuid": "fae2c2f1-ee21-105b-acc5-2c2ff6e3a211",
+            "replace": true
+        }
+    ]
+}

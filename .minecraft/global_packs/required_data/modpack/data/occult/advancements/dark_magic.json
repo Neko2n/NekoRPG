@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "occult:adv_icon_1"
+    },
+    "title": {
+      "translate": "advancements.dark_magic.title"
+    },
+    "description": {
+      "translate": "advancements.dark_magic.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dark_magic_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "occult:slice_and_dice"
+}

@@ -1,0 +1,15 @@
+{
+    "items": [
+        "cataclysm:ignitium_boots"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:fire_spell_power",
+            "operation": "multiply_base",
+            "value": 0.15,
+            "slot": "feet",
+            "uuid": "3e3348e0-6ba4-92ea-a42d-124056b35e24",
+            "replace": true
+        }
+    ]
+}

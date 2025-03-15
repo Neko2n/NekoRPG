@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "irons_spellbooks:permafrost_shard"
+  },
+  "base": {
+    "item": "shieldexp:diamond_shield"
+  },
+  "result": {
+    "item": "legendary_monsters:frostbitten_shield"
+  },
+  "template": {
+    "item": "irons_spellbooks:ice_rune"
+  }
+}

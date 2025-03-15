@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "ecologics:azalea_flower"
+    }
+  },
+  "result": {
+    "item": "immersive_weathering:flower_crown"
+  }
+}

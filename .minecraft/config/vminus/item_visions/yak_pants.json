@@ -1,0 +1,15 @@
+{
+    "items": [
+        "environmental:yak_pants"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:ice_magic_resist",
+            "value": 0.3,
+            "operation": "multiply_base",
+            "slot": "legs",
+            "uuid": "2a22c822-1e45-141a-affd-528146ef5b21",
+            "replace": true
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "items": [
+        "elementus_arcane:paladin_boots"
+    ],
+    "attributes": [
+        {
+            "id": "minecraft:generic.armor",
+            "name": "Armor",
+            "value": 2,
+            "slot": "feet",
+            "uuid": "3e3348e0-6ba4-92ea-a42d-124056b35e24",
+            "replace": true
+        }
+    ],
+    "repair_item": "minecraft:iron_ingot",
+    "rarity": "uncommon"
+}

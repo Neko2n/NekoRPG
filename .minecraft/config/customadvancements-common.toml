@@ -13,7 +13,7 @@
 	#Changing this to true causes each advancement to only be achievable if it's parent has been achieved. Useful for progression systems!
 	advancementProgression = false
 	#A list of connected advancements in the format of parent -> child
-	connectedAdvancementsList = ["minecraft:story/follow_ender_eye -> minecraft:end/root", "minecraft:story/form_obsidian -> minecraft:nether/root"]
+	connectedAdvancementsList = ["customadvancements:story/follow_ender_eye -> customadvancements:end/root", "customadvancements:story/form_obsidian -> customadvancements:nether/root", "customadvancements:story/mine_stone -> customadvancements:spelunking/root"]
 	#Whether all advancement progress should be reset when the player dies
 	resetAdvancementProgressOnDeath = false
 	#The Advancements that are affected by the progression system
@@ -25,9 +25,9 @@
 	modBlacklistIsWhitelist = false
 	#In which order the advancement tabs in the advancement screen should be ordered
 	#Allowed Values: ALPHABETICALLY, DEFINED_LIST, UNSORTED
-	advancementTabSortingMode = "UNSORTED"
+	advancementTabSortingMode = "DEFINED_LIST"
 	#Order of the advancement tabs when DEFINED_LIST is selected
-	advancementSortingList = []
+	advancementSortingList = ["customadvancements:story", "customadvancements:adventure", "customadvancements:spelunking", "customadvancements:magic", "customadvancements:husbandry", "customadvancements:nether", "customadvancements:end"]
 	#Whether the mod should overwrite vanilla advancements with generated ones
 	disableStandardAdvancementLoad = true
 

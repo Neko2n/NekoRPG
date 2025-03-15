@@ -1,0 +1,24 @@
+{
+    "items": [
+        "elementus_arcane:arcane_hammer"
+    ],
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_damage",
+            "value": 10,
+            "slot": "mainhand",
+            "uuid": "1a1328e0-6ba4-11fb-c13d-124116b31f93",
+            "replace": true
+        },
+        {
+            "id": "irons_spellbooks:spell_power",
+            "value": 0.05,
+            "operation": "multiply_base",
+            "slot": "mainhand",
+            "uuid": "2b3439f1-5cb6-22ea-d24c-224196f9fe3a",
+            "replace": true
+        }
+    ],
+    "repair_item": "irons_spellbooks:arcane_ingot",
+    "rarity": "rare"
+}

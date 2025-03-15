@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 800,
+  "experience": 5.6,
+  "group": "silver_block",
+  "ingredient": {
+    "item": "galosphere:raw_silver_block"
+  },
+  "result": "galosphere:silver_block"
+}

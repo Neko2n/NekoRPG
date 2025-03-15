@@ -45,7 +45,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "ars_nouveau:experience_gem",
+          "name": "minecraft:experience_bottle",
           "weight": 1
         },
         {

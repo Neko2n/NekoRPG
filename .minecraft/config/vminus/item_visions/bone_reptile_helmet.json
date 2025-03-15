@@ -1,0 +1,31 @@
+{
+    "items": [
+        "cataclysm:bone_reptile_helmet"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:evocation_spell_power",
+            "value": 0.1,
+            "operation": "multiply_base",
+            "slot": "head",
+            "uuid": "1a2338a0-6ab4-14aa-a32d-115346e35b46",
+            "replace": true
+        },
+        {
+            "id": "irons_spellbooks:lightning_spell_power",
+            "value": 0.1,
+            "operation": "multiply_base",
+            "slot": "head",
+            "uuid": "6a2238a0-6eb5-14aa-a12d-114346e15b41",
+            "replace": true
+        },
+        {
+            "id": "irons_spellbooks:lightning_magic_resist",
+            "value": 0.2,
+            "operation": "multiply_base",
+            "slot": "head",
+            "uuid": "5b12ffa0-fe45-2fa9-a02e-f15446f12b09",
+            "replace": true
+        }
+    ]
+}

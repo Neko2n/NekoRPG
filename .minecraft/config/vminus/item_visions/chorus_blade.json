@@ -1,0 +1,16 @@
+{
+    "items": [
+        "legendary_monsters:chorus_blade"
+    ],
+    "attributes": [
+        {
+            "id": "irons_spellbooks:ender_spell_power",
+            "operation": "multiply_base",
+            "value": 0.25,
+            "slot": "mainhand",
+            "uuid": "1a1328e0-6ba4-11fb-c13d-124116b31f93",
+            "replace": true
+        }
+    ],
+    "rarity": "epic"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "occult:shaded_bricks"
+    }
+  },
+  "result": {
+    "item": "occult:shaded_brick_stairs",
+    "count": 4
+  }
+}
